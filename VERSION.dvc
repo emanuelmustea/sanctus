@@ -148,7 +148,7 @@
         </FIXTUREGROUP>
     </FIXTUREGROUPS>
     <SCENES>
-        <BANK DASUID="597b1327-a077-4acb-93f4-031508c0537a" NAME="Master" COLOR="#ffffcf08" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="23">
+        <BANK DASUID="597b1327-a077-4acb-93f4-031508c0537a" NAME="Master" COLOR="#ffffcf08" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="21">
             <SCENE DASUID="bbc7b1bf-2915-4de8-8e47-e0ead70579c2" NAME="CD + La Viflaim" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
                 <RACK TYPE="1" DURATION="15725">
@@ -178,39 +178,6 @@
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="4ad784f4-0d88-46fe-abba-ba48e27f6770" NAME="1" INDEX="1">
-                            <BLOCKS/>
-                        </TIMELINE>
-                    </TIMELINES>
-                </RACK>
-            </SCENE>
-            <SCENE DASUID="ee22a159-b241-4800-9888-b53120d5a136" NAME="W: La Viflaim" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
-                <FIXTUREDATAS NB="0"/>
-                <RACK TYPE="1" DURATION="4365">
-                    <TIMELINES>
-                        <TIMELINE DASUID="63aca833-8d07-429b-8505-3e52b4cca78e" NAME="0" INDEX="0">
-                            <BLOCKS/>
-                        </TIMELINE>
-                        <TIMELINE DASUID="2f759afd-bee6-463c-8413-4643cb0ca640" NAME="1" INDEX="1">
-                            <BLOCKS>
-                                <BLOCK TYPE="2" DASUID="94b91456-9e57-484b-9abd-47890ccb6acc" NAME="Gabriel's Message" START="0" END="174602" POSITION="0" FADEIN="0" FADEOUT="0" DASTLMEDIAPATH="/Users/emanuelmustea/Desktop/Sanctus/Piese/Gabriel's Message.mp3">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                            </BLOCKS>
-                        </TIMELINE>
-                        <TIMELINE DASUID="5e2c5140-32fd-42ff-b1cc-5f8eab8b9a4c" NAME="2" INDEX="2">
-                            <BLOCKS/>
-                        </TIMELINE>
-                    </TIMELINES>
-                </RACK>
-            </SCENE>
-            <SCENE DASUID="67cee7fd-9a85-4cce-9e87-7134daf70d29" NAME="W: THE NAME" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
-                <FIXTUREDATAS NB="0"/>
-                <RACK TYPE="1" DURATION="1">
-                    <TIMELINES>
-                        <TIMELINE DASUID="57d30fd6-fc2a-4a5c-96ef-d9571ce916de" NAME="0" INDEX="0">
-                            <BLOCKS/>
-                        </TIMELINE>
-                        <TIMELINE DASUID="ea914b09-5165-4e28-a13a-7d81fdb02958" NAME="1" INDEX="1">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
@@ -1298,20 +1265,18 @@
                 </FIXTUREDATAS>
             </SCENE>
         </BANK>
-        <DAS_SELECTIONS SELECTED_LIVE_BANK="7">
-            <SELECTED_LIVE_SCENES DASUID="1b30de7f-71f6-41cd-bb45-f86e0a3cbde0"/>
-        </DAS_SELECTIONS>
+        <DAS_SELECTIONS SELECTED_LIVE_BANK="7"/>
     </SCENES>
     <SHORTCUTS>
         <SHORTCUT TYPE="1">
-            <EVENT DATA="144:1:18:1:Network Lumini"/>
+            <EVENT DATA="144:1:24:1:Network Lumini"/>
             <ACTION TYPE="107" TARGET="bbc7b1bf-2915-4de8-8e47-e0ead70579c2"/>
-            <SETTINGS SMODE="0" CMODE="1" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:18:0:Network Lumini" OUT1="144:1:18:1:Network Lumini" OUT2="144:1:18:2:Network Lumini"/>
+            <SETTINGS SMODE="1" CMODE="1" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:24:0:Network Lumini" OUT1="144:1:24:1:Network Lumini" OUT2="144:1:24:2:Network Lumini"/>
         </SHORTCUT>
         <SHORTCUT TYPE="1">
-            <EVENT DATA="144:1:18:2:Network Lumini"/>
+            <EVENT DATA="144:1:25:2:Network Lumini"/>
             <ACTION TYPE="107" TARGET="1b30de7f-71f6-41cd-bb45-f86e0a3cbde0"/>
-            <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:18:0:Network Lumini" OUT1="144:1:18:1:Network Lumini" OUT2="144:1:18:2:Network Lumini"/>
+            <SETTINGS SMODE="0" CMODE="1" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:25:0:Network Lumini" OUT1="144:1:25:1:Network Lumini" OUT2="144:1:25:2:Network Lumini"/>
         </SHORTCUT>
     </SHORTCUTS>
     <TOUCH>
