@@ -1306,9 +1306,9 @@
             <SETTINGS SMODE="1" CMODE="1" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:24:0:Network Lumini" OUT1="144:1:24:1:Network Lumini" OUT2="144:1:24:2:Network Lumini"/>
         </SHORTCUT>
         <SHORTCUT TYPE="1">
-            <EVENT DATA="144:1:25:2:Network Lumini"/>
+            <EVENT DATA="144:1:26:0:Network Lumini"/>
             <ACTION TYPE="107" TARGET="1b30de7f-71f6-41cd-bb45-f86e0a3cbde0"/>
-            <SETTINGS SMODE="0" CMODE="1" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:25:0:Network Lumini" OUT1="144:1:25:1:Network Lumini" OUT2="144:1:25:2:Network Lumini"/>
+            <SETTINGS SMODE="0" CMODE="1" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:26:0:Network Lumini" OUT1="144:1:26:0:Network Lumini" OUT2="144:1:26:0:Network Lumini"/>
         </SHORTCUT>
     </SHORTCUTS>
     <TOUCH>
