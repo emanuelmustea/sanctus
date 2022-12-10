@@ -166,7 +166,7 @@
                     </TIMELINES>
                 </RACK>
             </SCENE>
-            <SCENE DASUID="1b30de7f-71f6-41cd-bb45-f86e0a3cbde0" NAME="INTRO" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+            <SCENE DASUID="1b30de7f-71f6-41cd-bb45-f86e0a3cbde0" NAME="The Name" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
                 <RACK TYPE="1" DURATION="8513">
                     <TIMELINES>
@@ -1299,7 +1299,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="7">
-            <SELECTED_LIVE_SCENES DASUID="bbc7b1bf-2915-4de8-8e47-e0ead70579c2"/>
+            <SELECTED_LIVE_SCENES DASUID="1b30de7f-71f6-41cd-bb45-f86e0a3cbde0"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
@@ -1307,6 +1307,11 @@
             <EVENT DATA="144:1:18:1:Network Lumini"/>
             <ACTION TYPE="107" TARGET="bbc7b1bf-2915-4de8-8e47-e0ead70579c2"/>
             <SETTINGS SMODE="0" CMODE="1" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:18:0:Network Lumini" OUT1="144:1:18:1:Network Lumini" OUT2="144:1:18:2:Network Lumini"/>
+        </SHORTCUT>
+        <SHORTCUT TYPE="1">
+            <EVENT DATA="144:1:18:2:Network Lumini"/>
+            <ACTION TYPE="107" TARGET="1b30de7f-71f6-41cd-bb45-f86e0a3cbde0"/>
+            <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:18:0:Network Lumini" OUT1="144:1:18:1:Network Lumini" OUT2="144:1:18:2:Network Lumini"/>
         </SHORTCUT>
     </SHORTCUTS>
     <TOUCH>
