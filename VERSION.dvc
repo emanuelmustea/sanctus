@@ -1346,7 +1346,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="7">
-            <SELECTED_LIVE_SCENES DASUID="12003b8d-c83b-4bb3-84c5-4aa223c06e57"/>
+            <SELECTED_LIVE_SCENES DASUID="39bdd5dc-0011-46b0-aa4f-f204f3f35934"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
@@ -1419,6 +1419,71 @@
             <EVENT DATA="144:1:37:100:Network Lumini"/>
             <ACTION TYPE="107" TARGET="45281e75-94c9-435f-9a81-107e7635c619"/>
             <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:37:0:Network Lumini" OUT1="144:1:37:1:Network Lumini" OUT2="144:1:37:2:Network Lumini"/>
+        </SHORTCUT>
+        <SHORTCUT TYPE="1">
+            <EVENT DATA="144:1:50:100:Network Lumini"/>
+            <ACTION TYPE="107" TARGET="39bdd5dc-0011-46b0-aa4f-f204f3f35934"/>
+            <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:50:0:Network Lumini" OUT1="144:1:50:1:Network Lumini" OUT2="144:1:50:2:Network Lumini"/>
+        </SHORTCUT>
+        <SHORTCUT TYPE="1">
+            <EVENT DATA="144:1:51:100:Network Lumini"/>
+            <ACTION TYPE="107" TARGET="30f30294-c8ef-4e39-8038-4ae1c9e52d72"/>
+            <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:51:0:Network Lumini" OUT1="144:1:51:1:Network Lumini" OUT2="144:1:51:2:Network Lumini"/>
+        </SHORTCUT>
+        <SHORTCUT TYPE="1">
+            <EVENT DATA="144:1:52:100:Network Lumini"/>
+            <ACTION TYPE="107" TARGET="ec368a42-a765-4ff4-89e5-2da2e5013059"/>
+            <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:52:0:Network Lumini" OUT1="144:1:52:1:Network Lumini" OUT2="144:1:52:2:Network Lumini"/>
+        </SHORTCUT>
+        <SHORTCUT TYPE="1">
+            <EVENT DATA="144:1:53:100:Network Lumini"/>
+            <ACTION TYPE="107" TARGET="7f28a876-cf67-4740-8870-4aa9e0d65cb1"/>
+            <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:53:0:Network Lumini" OUT1="144:1:53:1:Network Lumini" OUT2="144:1:53:2:Network Lumini"/>
+        </SHORTCUT>
+        <SHORTCUT TYPE="1">
+            <EVENT DATA="144:1:54:100:Network Lumini"/>
+            <ACTION TYPE="107" TARGET="a01643fc-1231-41cf-b7d3-2f12a1ca8abb"/>
+            <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:54:0:Network Lumini" OUT1="144:1:54:1:Network Lumini" OUT2="144:1:54:2:Network Lumini"/>
+        </SHORTCUT>
+        <SHORTCUT TYPE="1">
+            <EVENT DATA="144:1:55:100:Network Lumini"/>
+            <ACTION TYPE="107" TARGET="3ea8a542-4efb-4938-801c-c68b07b186f3"/>
+            <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:55:0:Network Lumini" OUT1="144:1:55:1:Network Lumini" OUT2="144:1:55:2:Network Lumini"/>
+        </SHORTCUT>
+        <SHORTCUT TYPE="1">
+            <EVENT DATA="144:1:56:100:Network Lumini"/>
+            <ACTION TYPE="107" TARGET="798e9352-64e3-43a9-b212-4eb43aca8b28"/>
+            <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:56:0:Network Lumini" OUT1="144:1:56:1:Network Lumini" OUT2="144:1:56:2:Network Lumini"/>
+        </SHORTCUT>
+        <SHORTCUT TYPE="1">
+            <EVENT DATA="144:1:57:100:Network Lumini"/>
+            <ACTION TYPE="107" TARGET="9d060878-611e-4743-a8eb-1a87bf0cf2b6"/>
+            <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:57:0:Network Lumini" OUT1="144:1:57:1:Network Lumini" OUT2="144:1:57:2:Network Lumini"/>
+        </SHORTCUT>
+        <SHORTCUT TYPE="1">
+            <EVENT DATA="144:1:58:100:Network Lumini"/>
+            <ACTION TYPE="107" TARGET="4b9d6438-5c38-4967-a37b-68e72e879d5f"/>
+            <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:58:0:Network Lumini" OUT1="144:1:58:1:Network Lumini" OUT2="144:1:58:2:Network Lumini"/>
+        </SHORTCUT>
+        <SHORTCUT TYPE="1">
+            <EVENT DATA="144:1:59:100:Network Lumini"/>
+            <ACTION TYPE="107" TARGET="72fa691b-c42d-401b-9a54-b03fd184a769"/>
+            <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:59:0:Network Lumini" OUT1="144:1:59:1:Network Lumini" OUT2="144:1:59:2:Network Lumini"/>
+        </SHORTCUT>
+        <SHORTCUT TYPE="1">
+            <EVENT DATA="144:1:60:100:Network Lumini"/>
+            <ACTION TYPE="107" TARGET="0ccde87f-c199-4c9b-a76e-53e31f4f4bfe"/>
+            <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:60:0:Network Lumini" OUT1="144:1:60:1:Network Lumini" OUT2="144:1:60:2:Network Lumini"/>
+        </SHORTCUT>
+        <SHORTCUT TYPE="1">
+            <EVENT DATA="144:1:61:100:Network Lumini"/>
+            <ACTION TYPE="107" TARGET="68eb4c47-773e-4bc1-bc24-015f6ea91a89"/>
+            <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:61:0:Network Lumini" OUT1="144:1:61:1:Network Lumini" OUT2="144:1:61:2:Network Lumini"/>
+        </SHORTCUT>
+        <SHORTCUT TYPE="1">
+            <EVENT DATA="144:1:62:100:Network Lumini"/>
+            <ACTION TYPE="107" TARGET="12003b8d-c83b-4bb3-84c5-4aa223c06e57"/>
+            <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:62:0:Network Lumini" OUT1="144:1:62:1:Network Lumini" OUT2="144:1:62:2:Network Lumini"/>
         </SHORTCUT>
     </SHORTCUTS>
     <TOUCH>
