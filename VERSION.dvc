@@ -148,7 +148,7 @@
         </FIXTUREGROUP>
     </FIXTUREGROUPS>
     <SCENES>
-        <BANK DASUID="597b1327-a077-4acb-93f4-031508c0537a" NAME="Master" COLOR="#ffffcf08" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="25">
+        <BANK DASUID="597b1327-a077-4acb-93f4-031508c0537a" NAME="Master" COLOR="#ffffcf08" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="27">
             <SCENE DASUID="bbc7b1bf-2915-4de8-8e47-e0ead70579c2" NAME="CD + La Viflaim" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
                 <RACK TYPE="1" DURATION="15725">
@@ -652,7 +652,7 @@
                     </TIMELINES>
                 </RACK>
             </SCENE>
-            <SCENE DASUID="ec368a42-a765-4ff4-89e5-2da2e5013059" NAME="New Scene" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+            <SCENE DASUID="ec368a42-a765-4ff4-89e5-2da2e5013059" NAME="Drum Solo" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
                 <RACK TYPE="1" DURATION="1">
                     <TIMELINES>
@@ -685,6 +685,9 @@
                     </TIMELINES>
                 </RACK>
             </SCENE>
+            <SCENE DASUID="a01643fc-1231-41cf-b7d3-2f12a1ca8abb" NAME="Video Digital-Analog" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="0"/>
+            </SCENE>
             <SCENE DASUID="3ea8a542-4efb-4938-801c-c68b07b186f3" NAME="W: O Noapte preasfintita" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
                 <RACK TYPE="1" DURATION="1">
@@ -693,26 +696,6 @@
                             <BLOCKS/>
                         </TIMELINE>
                         <TIMELINE DASUID="65c5e80b-2925-4bd8-9f3c-45bbdd2b1980" NAME="1" INDEX="1">
-                            <BLOCKS/>
-                        </TIMELINE>
-                    </TIMELINES>
-                </RACK>
-            </SCENE>
-            <SCENE DASUID="4b9d6438-5c38-4967-a37b-68e72e879d5f" NAME="Noel" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
-                <FIXTUREDATAS NB="0"/>
-                <RACK TYPE="1" DURATION="6539">
-                    <TIMELINES>
-                        <TIMELINE DASUID="4b870f2c-926a-49f8-afb8-777d0cd702fb" NAME="0" INDEX="0">
-                            <BLOCKS/>
-                        </TIMELINE>
-                        <TIMELINE DASUID="fb851f16-99c7-4ad7-8343-b9256b32c477" NAME="1" INDEX="1">
-                            <BLOCKS>
-                                <BLOCK TYPE="2" DASUID="656fea53-199b-482e-b555-cfc32bf5e27a" NAME="Noel" START="0" END="261564" POSITION="0" FADEIN="0" FADEOUT="0" DASTLMEDIAPATH="/Users/emanuelmustea/Desktop/Sanctus/Piese/Noel.mp3">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                            </BLOCKS>
-                        </TIMELINE>
-                        <TIMELINE DASUID="4cdfd8ad-2403-4eea-801e-eda808bc0dbb" NAME="2" INDEX="2">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
@@ -738,6 +721,43 @@
                     </TIMELINES>
                 </RACK>
             </SCENE>
+            <SCENE DASUID="9d060878-611e-4743-a8eb-1a87bf0cf2b6" NAME="Interventie Sorin" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="0"/>
+                <RACK TYPE="1" DURATION="125">
+                    <TIMELINES>
+                        <TIMELINE DASUID="80257804-0f94-44ff-be2d-b59131b6d155" NAME="0" INDEX="0">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="2dbde291-e24a-40f2-8c39-874e351f989a" NAME="New Scene" START="0" END="5000" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="a01643fc-1231-41cf-b7d3-2f12a1ca8abb">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="e861d776-ff6b-4d22-93a5-aff275771894" NAME="1" INDEX="1">
+                            <BLOCKS/>
+                        </TIMELINE>
+                    </TIMELINES>
+                </RACK>
+            </SCENE>
+            <SCENE DASUID="4b9d6438-5c38-4967-a37b-68e72e879d5f" NAME="Noel" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="0"/>
+                <RACK TYPE="1" DURATION="6539">
+                    <TIMELINES>
+                        <TIMELINE DASUID="4b870f2c-926a-49f8-afb8-777d0cd702fb" NAME="0" INDEX="0">
+                            <BLOCKS/>
+                        </TIMELINE>
+                        <TIMELINE DASUID="fb851f16-99c7-4ad7-8343-b9256b32c477" NAME="1" INDEX="1">
+                            <BLOCKS>
+                                <BLOCK TYPE="2" DASUID="656fea53-199b-482e-b555-cfc32bf5e27a" NAME="Noel" START="0" END="261564" POSITION="0" FADEIN="0" FADEOUT="0" DASTLMEDIAPATH="/Users/emanuelmustea/Desktop/Sanctus/Piese/Noel.mp3">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="4cdfd8ad-2403-4eea-801e-eda808bc0dbb" NAME="2" INDEX="2">
+                            <BLOCKS/>
+                        </TIMELINE>
+                    </TIMELINES>
+                </RACK>
+            </SCENE>
             <SCENE DASUID="72fa691b-c42d-401b-9a54-b03fd184a769" NAME="O Come, O Come Emmanuel" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
                 <RACK TYPE="1" DURATION="7938">
@@ -758,7 +778,44 @@
                     </TIMELINES>
                 </RACK>
             </SCENE>
-            <SCENE DASUID="12003b8d-c83b-4bb3-84c5-4aa223c06e57" NAME="Tranzitie" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="37" FADE_OUT="37" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+            <SCENE DASUID="0ccde87f-c199-4c9b-a76e-53e31f4f4bfe" NAME="Interventie Sorin (2)" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="0"/>
+                <RACK TYPE="1" DURATION="125">
+                    <TIMELINES>
+                        <TIMELINE DASUID="42632b17-b8c6-4dea-bf14-88966ef87828" NAME="0" INDEX="0">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="6930dd6f-dc46-409f-985c-db483e8d0968" NAME="New Scene" START="0" END="5000" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="a01643fc-1231-41cf-b7d3-2f12a1ca8abb">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="6a24845f-9dd4-4ac8-94b0-1286dcc23099" NAME="1" INDEX="1">
+                            <BLOCKS/>
+                        </TIMELINE>
+                    </TIMELINES>
+                </RACK>
+            </SCENE>
+            <SCENE DASUID="68eb4c47-773e-4bc1-bc24-015f6ea91a89" NAME="Little Drumer Boy (2)" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="0"/>
+                <RACK TYPE="1" DURATION="4464">
+                    <TIMELINES>
+                        <TIMELINE DASUID="fe247ce6-5566-4c4c-b417-efefa71ebe1e" NAME="0" INDEX="0">
+                            <BLOCKS/>
+                        </TIMELINE>
+                        <TIMELINE DASUID="f23ee388-d518-41ee-91df-85d1f47b6776" NAME="1" INDEX="1">
+                            <BLOCKS>
+                                <BLOCK TYPE="2" DASUID="bb6f4e68-4146-49a4-9f89-822a08d2f737" NAME="Little Drummer Boy ⧸⧸ Sanctus Pro Deo [OFFICIAL VIDEO]" START="0" END="178561" POSITION="0" FADEIN="0" FADEOUT="0" DASTLMEDIAPATH="/Users/emanuelmustea/Desktop/Sanctus/Piese/Little Drummer Boy ⧸⧸ Sanctus Pro Deo [OFFICIAL VIDEO].wav">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="808a9fa2-12bf-4b64-919f-f26d822b1f3f" NAME="2" INDEX="2">
+                            <BLOCKS/>
+                        </TIMELINE>
+                    </TIMELINES>
+                </RACK>
+            </SCENE>
+            <SCENE DASUID="12003b8d-c83b-4bb3-84c5-4aa223c06e57" NAME="Post-Concert" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="37" FADE_OUT="37" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
                 <RACK TYPE="1" DURATION="13525">
                     <TIMELINES>
@@ -788,26 +845,6 @@
                         </TIMELINE>
                     </TIMELINES>
                 </RACK>
-            </SCENE>
-            <SCENE DASUID="9d060878-611e-4743-a8eb-1a87bf0cf2b6" NAME="Interventie Sorin" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
-                <FIXTUREDATAS NB="0"/>
-                <RACK TYPE="1" DURATION="125">
-                    <TIMELINES>
-                        <TIMELINE DASUID="80257804-0f94-44ff-be2d-b59131b6d155" NAME="0" INDEX="0">
-                            <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="2dbde291-e24a-40f2-8c39-874e351f989a" NAME="New Scene" START="0" END="5000" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="a01643fc-1231-41cf-b7d3-2f12a1ca8abb">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                            </BLOCKS>
-                        </TIMELINE>
-                        <TIMELINE DASUID="e861d776-ff6b-4d22-93a5-aff275771894" NAME="1" INDEX="1">
-                            <BLOCKS/>
-                        </TIMELINE>
-                    </TIMELINES>
-                </RACK>
-            </SCENE>
-            <SCENE DASUID="a01643fc-1231-41cf-b7d3-2f12a1ca8abb" NAME="New Scene" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
-                <FIXTUREDATAS NB="0"/>
             </SCENE>
         </BANK>
         <BANK DASUID="5a4c4464-1da7-4365-919c-4c1e84f89502" NAME="COR" COLOR="#ff077cc1" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="1">
@@ -1309,7 +1346,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="7">
-            <SELECTED_LIVE_SCENES DASUID="ec368a42-a765-4ff4-89e5-2da2e5013059"/>
+            <SELECTED_LIVE_SCENES DASUID="12003b8d-c83b-4bb3-84c5-4aa223c06e57"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
