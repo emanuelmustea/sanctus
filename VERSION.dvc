@@ -161,6 +161,50 @@
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="185cecce-3205-444f-a682-5a9507019bea" NAME="1" INDEX="1">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="07d6f4cd-4c8c-43eb-9a57-f190ebe10fad" NAME="Intro" START="0" END="298840" POSITION="0" FADEIN="0" FADEOUT="4800" SCENEUUID="21152470-c5c8-4c74-9d28-d3596795206c">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="98f1fc34-1ad0-4f5c-a717-a14af9d87019" NAME="Interlude" START="462080" END="550640" POSITION="14200" FADEIN="0" FADEOUT="0" SCENEUUID="e85eadf2-bb02-47f9-998d-ee033ac8a4ea">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="edd91ebe-2bb5-4ab2-a4ac-a13e4a5a0e87" NAME="Bridge" START="550640" END="568520" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="e1c3d093-402a-4a62-a34e-36baf4f744b6">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="a72c2fcc-533f-4ae2-a18f-01d6154f4bbd" NAME="Verse" START="570480" END="629000" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="0115df0a-80f3-42eb-8dc2-8755c12711e3">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="2cbc3286-f351-4bb8-9bc7-b74c015c0266" NAME="2" INDEX="2">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="9b72e261-57bd-4104-ab86-274b06f7a672" NAME="Full - Scena Mica" START="462000" END="608720" POSITION="0" FADEIN="31440" FADEOUT="19760" SCENEUUID="ea1ca220-2722-4843-b4fc-6940deffb3d4">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="e2242326-409f-4511-bdd8-35bd4bda7144" NAME="3" INDEX="3">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="ad46dece-c40b-40fb-a600-c5600877d0fc" NAME="Cor - Full white" START="549520" END="608720" POSITION="0" FADEIN="12360" FADEOUT="19840" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="a8f9aae6-3d2e-4cd6-9e81-daa60a39d2cd" NAME="4" INDEX="4">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="5a8e253b-fd53-4c45-bd99-667e62f0d4bf" NAME="Argintiu Intro" START="0" END="298880" POSITION="-60720" FADEIN="9920" FADEOUT="4920" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="9e048f5d-2c51-48cd-a89d-e460273d5562" NAME="5" INDEX="5">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="debf7d7e-e91c-4d56-bf9c-a2f9a2fc77bf" NAME="Rosu Intro" START="0" END="298880" POSITION="0" FADEIN="9920" FADEOUT="4880" SCENEUUID="83396883-ec32-4a8a-9336-a7e11a363937">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="5f43bca2-f6f0-40ca-8db8-787fb38c1c55" NAME="6" INDEX="6">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
@@ -854,7 +898,7 @@
             </SCENE>
         </BANK>
         <BANK DASUID="5a4c4464-1da7-4365-919c-4c1e84f89502" NAME="COR" COLOR="#ff077cc1" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="1">
-            <SCENE DASUID="13f97c04-6441-469d-9531-83091ce8a4dc" NAME="Cor - Full white" COLOR="#ff077cc1" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+            <SCENE DASUID="13f97c04-6441-469d-9531-83091ce8a4dc" NAME="Full - Cor" COLOR="#ff077cc1" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="4">
                     <FIXTUREDATA FIXTURE="d2f6860c-9631-44f3-b0b9-843587b4cda2" DATA="eJxiYGL4//8/AwMD4x4GbNAGiBkAAAAA//8="/>
                     <FIXTUREDATA FIXTURE="13564960-c926-4eff-9991-18f0a693abb2" DATA="eJxiYGL4//8/AwMD4x4GbNAGiBkAAAAA//8="/>
@@ -887,7 +931,19 @@
                 </FIXTUREDATAS>
             </SCENE>
         </BANK>
-        <BANK DASUID="624966bc-469b-493e-82c0-b2baebd40d69" NAME="W Bara sus" COLOR="#fff69031" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="6">
+        <BANK DASUID="624966bc-469b-493e-82c0-b2baebd40d69" NAME="W Bara sus" COLOR="#fff69031" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="7">
+            <SCENE DASUID="5ec9ba66-9076-478f-80da-f235fa5d04ca" NAME="Argintiu Intro - W Sus" COLOR="#fff69031" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="8">
+                    <FIXTUREDATA FIXTURE="a2bf81c0-31d8-4028-ac68-e94110b88164" DATA="eJxikGBg+P8fhEGAoR6I/zPsZjD6jwYQogwMDDw2DJZPjcL2MKBCCyBmGJUiUgoAAAD//w=="/>
+                    <FIXTUREDATA FIXTURE="2f460253-8398-4873-8083-ea0958dc3658" DATA="eJxikGBg+P8fhEGAoR6I/zPsZjD6jwYQogwMDDw2DJZPjcL2MKBCCyBmGJUiUgoAAAD//w=="/>
+                    <FIXTUREDATA FIXTURE="aba7866f-0a08-4ba9-8699-5d06ae019bee" DATA="eJxikGBg+P8fhEGAoR6I/zPsZjD6jwYQogwMDDw2DJZPjcL2MKBCCyBmGJUiUgoAAAD//w=="/>
+                    <FIXTUREDATA FIXTURE="6ec0539c-3302-4009-94ba-c39853202d98" DATA="eJxikGBg+P8fhEGAoR6I/zPsZjD6jwYQogwMDDw2DJZPjcL2MKBCCyBmGJUiUgoAAAD//w=="/>
+                    <FIXTUREDATA FIXTURE="3f41b441-87ba-4d4d-bfc9-29264baac020" DATA="eJxikGBg+P8fhEGAoR6I/zPsZjD6jwYQogwMDDw2DJZPjcL2MKBCCyBmGJUiUgoAAAD//w=="/>
+                    <FIXTUREDATA FIXTURE="dd6f94b5-1398-4462-87e8-fcd60d4d62a8" DATA="eJxikGBg+P8fhEGAoR6I/zPsZjD6jwYQogwMDDw2DJZPjcL2MKBCCyBmGJUiUgoAAAD//w=="/>
+                    <FIXTUREDATA FIXTURE="34f04ab5-fbd2-4bac-a3dd-285114b0fb30" DATA="eJxikGBg+P8fhEGAoR6I/zPsZjD6jwYQogwMDDw2DJZPjcL2MKBCCyBmGJUiUgoAAAD//w=="/>
+                    <FIXTUREDATA FIXTURE="3ada8017-4e29-4a3e-a576-20b9d7186fde" DATA="eJxikGBg+P8fhEGAoR6I/zPsZjD6jwYQogwMDDw2DJZPjcL2MKBCCyBmGJUiUgoAAAD//w=="/>
+                </FIXTUREDATAS>
+            </SCENE>
             <SCENE DASUID="9dde9f98-64bb-4ad7-8d66-593cdab14fda" NAME="White" COLOR="#fff69031" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
             </SCENE>
@@ -984,7 +1040,27 @@
                 </RACK>
             </SCENE>
         </BANK>
-        <BANK DASUID="7337f289-9346-4799-9570-be3e0a6b2b64" NAME="W Bara jos" COLOR="#ffed1552" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="8">
+        <BANK DASUID="7337f289-9346-4799-9570-be3e0a6b2b64" NAME="W Bara jos" COLOR="#ffed1552" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="9">
+            <SCENE DASUID="83396883-ec32-4a8a-9336-a7e11a363937" NAME="Rosu Intro - W Jos" COLOR="#ffed1552" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="16">
+                    <FIXTUREDATA FIXTURE="ab7b7341-8009-4e42-85e7-6cbe76d9cd1c" DATA="eJxiYGH4z6DIIPj/PwMDA6MNg4GjTtQeBlRoAcQMAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="f7369544-5c03-48a1-ac38-f15bddbe0775" DATA="eJxiYGH4z6DIIPj/PwMDA6MNg4GjTtQeBlRoAcQMAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="a2e2bf8a-5ef4-477a-a574-9916c69d18d9" DATA="eJxiYGH4z6DIIPj/PwMDA6MNg4GjTtQeBlRoAcQMAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="de21f130-0960-454c-a169-5a8caa1cff97" DATA="eJxiYGH4z6DIIPj/PwMDA6MNg4GjTtQeBlRoAcQMAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="40beb514-1795-4f4a-a364-e7253a7b2c17" DATA="eJxiYGH4z6DIIPj/PwMDA6MNg4GjTtQeBlRoAcQMAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="f6d47b07-255c-4093-b33c-6b14d98f3b18" DATA="eJxiYGH4z6DIIPj/PwMDA6MNg4GjTtQeBlRoAcQMAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="9723c99d-2000-43fa-aa30-5b5df676e780" DATA="eJxiYGH4z6DIIPj/PwMDA6MNg4GjTtQeBlRoAcQMAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="f9cbe5c0-7312-4466-bcad-b3661675d7fa" DATA="eJxiYGH4z6DIIPj/PwMDA6MNg4GjTtQeBlRoAcQMAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="c307f3cd-bf48-44f3-a7a2-e3f71af85a73" DATA="eJxiYGH4z6DIIPj/PwMDA6MNg4GjTtQeBlRoAcQMAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="c7e6e7a4-9063-4194-8492-edf11e3b0de2" DATA="eJxiYGH4z6DIIPj/PwMDA6MNg4GjTtQeBlRoAcQMAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="1ce8ddad-f78b-48e2-bd13-295e878b2751" DATA="eJxiYGH4z6DIIPj/PwMDA6MNg4GjTtQeBlRoAcQMAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="5aacae38-7281-4d42-8900-5246a081cd56" DATA="eJxiYGH4z6DIIPj/PwMDA6MNg4GjTtQeBlRoAcQMAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="d009d73b-4bb7-4948-a6ab-c70645b8d436" DATA="eJxiYGH4z6DIIPj/PwMDA6MNg4GjTtQeBlRoAcQMAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="8e5ca4f1-ffa3-473a-9aac-02351620e236" DATA="eJxiYGH4z6DIIPj/PwMDA6MNg4GjTtQeBlRoAcQMAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="3ec50191-4530-4eea-873f-4e56199f9014" DATA="eJxiYGH4z6DIIPj/PwMDA6MNg4GjTtQeBlRoAcQMAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="31edce9e-17ad-41fa-8f51-8ffe9463b3fc" DATA="eJxiYGH4z6DIIPj/PwMDA6MNg4GjTtQeBlRoAcQMAAAAAP//"/>
+                </FIXTUREDATAS>
+            </SCENE>
             <SCENE DASUID="0f320027-47d5-4f60-a203-3c319798e17e" NAME="White" COLOR="#ffed1552" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
             </SCENE>
@@ -1272,7 +1348,7 @@
                 </FIXTUREDATAS>
             </SCENE>
         </BANK>
-        <BANK DASUID="08b3e2ee-a2ae-4e92-9163-2e209b6bae49" NAME="Placeholders" COLOR="#ff009f81" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="7">
+        <BANK DASUID="08b3e2ee-a2ae-4e92-9163-2e209b6bae49" NAME="Placeholders" COLOR="#ff009f81" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="8">
             <SCENE DASUID="cc5e93fc-a811-4617-9ad6-f270289be582" NAME="Blank" COLOR="#ff009f81" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
             </SCENE>
@@ -1292,6 +1368,9 @@
                 <FIXTUREDATAS NB="0"/>
             </SCENE>
             <SCENE DASUID="e1c3d093-402a-4a62-a34e-36baf4f744b6" NAME="Bridge" COLOR="#ff009f81" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="0"/>
+            </SCENE>
+            <SCENE DASUID="e85eadf2-bb02-47f9-998d-ee033ac8a4ea" NAME="Interlude" COLOR="#ff009f81" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
             </SCENE>
         </BANK>
@@ -1354,8 +1433,16 @@
                 </FIXTUREDATAS>
             </SCENE>
         </BANK>
-        <DAS_SELECTIONS SELECTED_LIVE_BANK="7">
-            <SELECTED_LIVE_SCENES DASUID="1b30de7f-71f6-41cd-bb45-f86e0a3cbde0"/>
+        <BANK DASUID="ebc002ef-355f-49b5-8c3b-73cd36055c51" NAME="Scena Mica" COLOR="#ff077cc1" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="1">
+            <SCENE DASUID="ea1ca220-2722-4843-b4fc-6940deffb3d4" NAME="Full - Scena Mica" COLOR="#ff077cc1" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="2">
+                    <FIXTUREDATA FIXTURE="c5021f6f-ed07-48a8-a4ec-9cd093684499" DATA="eJxiYGL4//8/AwMD4x4GbNAGiBkAAAAA//8="/>
+                    <FIXTUREDATA FIXTURE="9d66cc17-1654-46ec-adb8-c051f90dd71a" DATA="eJxiYGL4//8/AwMD4x4GbNAGiBkAAAAA//8="/>
+                </FIXTUREDATAS>
+            </SCENE>
+        </BANK>
+        <DAS_SELECTIONS SELECTED_LIVE_BANK="14">
+            <SELECTED_LIVE_SCENES DASUID="776590c1-4b18-4794-9b42-621a811bf552"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
