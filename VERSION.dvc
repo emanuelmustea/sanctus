@@ -269,7 +269,7 @@
                         </TIMELINE>
                         <TIMELINE DASUID="d9bb02c7-0167-466d-bb8d-7ec83de36ba0" NAME="3" INDEX="3">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="c003d2e2-4f1d-4684-b591-1cbf2b5e8fae" NAME="Full - Scena Mica" START="9440" END="76640" POSITION="-560" FADEIN="2320" FADEOUT="280" SCENEUUID="ea1ca220-2722-4843-b4fc-6940deffb3d4">
+                                <BLOCK TYPE="1" DASUID="c003d2e2-4f1d-4684-b591-1cbf2b5e8fae" NAME="Full - Scena Mica" START="9440" END="173960" POSITION="-560" FADEIN="2320" FADEOUT="2080" SCENEUUID="ea1ca220-2722-4843-b4fc-6940deffb3d4">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -279,11 +279,17 @@
                                 <BLOCK TYPE="1" DASUID="952dc6fa-b55a-432a-9f20-82e5f0e6082d" NAME="Full - Solist St" START="32800" END="36640" POSITION="0" FADEIN="680" FADEOUT="560" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
+                                <BLOCK TYPE="1" DASUID="08318541-cd98-4c3e-9958-27e933e011b6" NAME="Full - Solist St" START="72640" END="119040" POSITION="0" FADEIN="680" FADEOUT="3680" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="75200d5c-6e36-45f8-83e4-f62a90164321" NAME="5" INDEX="5">
                             <BLOCKS>
                                 <BLOCK TYPE="1" DASUID="b856a38e-5007-40d8-a5e0-16d8a6e89d07" NAME="Full - Solist Dr" START="32800" END="36640" POSITION="0" FADEIN="720" FADEOUT="560" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="6976be1c-c02a-4934-b04e-575c124f38de" NAME="Full - Solist Dr" START="72640" END="119160" POSITION="0" FADEIN="720" FADEOUT="3880" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -293,7 +299,7 @@
                                 <BLOCK TYPE="1" DASUID="b6a62baa-7bfa-43a0-a69f-3a81923560ba" NAME="Blue 1 Full" START="32800" END="50960" POSITION="0" FADEIN="720" FADEOUT="720" SCENEUUID="66731f48-c210-47f8-94ff-c1e9a048815b">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="08318541-cd98-4c3e-9958-27e933e011b6" NAME="Full - Solist St" START="77560" END="81400" POSITION="0" FADEIN="680" FADEOUT="560" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
+                                <BLOCK TYPE="1" DASUID="ac351c33-ee68-4403-8dfa-e139d43bc1f5" NAME="Blue 1 Full" START="72640" END="109200" POSITION="0" FADEIN="720" FADEOUT="720" SCENEUUID="66731f48-c210-47f8-94ff-c1e9a048815b">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -309,7 +315,10 @@
                                 <BLOCK TYPE="1" DASUID="60743b0d-34b3-4609-9a96-befc19f309f6" NAME="Blue 1 Alternate" START="42840" END="50680" POSITION="-40" FADEIN="560" FADEOUT="640" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="6976be1c-c02a-4934-b04e-575c124f38de" NAME="Full - Solist Dr" START="77560" END="81400" POSITION="0" FADEIN="720" FADEOUT="560" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
+                                <BLOCK TYPE="1" DASUID="d856fe13-650a-444d-988c-ef22798257a6" NAME="Blue 1 Alternate" START="76040" END="81960" POSITION="0" FADEIN="400" FADEOUT="640" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="f854e4a6-24d5-4d3b-945f-0e86f8343703" NAME="Blue 1 Alternate" START="82680" END="90520" POSITION="-40" FADEIN="560" FADEOUT="640" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -319,10 +328,7 @@
                                 <BLOCK TYPE="1" DASUID="7fa89dbe-3303-4d41-8fb5-acb7f6c201c1" NAME="Blue 1 Full" START="32800" END="49040" POSITION="0" FADEIN="720" FADEOUT="400" SCENEUUID="65d2ec93-2c6f-4920-9fb0-92bed21fb401">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="c93c6f95-4aba-4169-81aa-7dd29ff55fe8" NAME="Blue 1 Dimm" START="50040" END="72920" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="5e672161-b3a1-4959-a112-e769a051fb98">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                                <BLOCK TYPE="1" DASUID="ac351c33-ee68-4403-8dfa-e139d43bc1f5" NAME="Blue 1 Full" START="77560" END="95720" POSITION="0" FADEIN="720" FADEOUT="720" SCENEUUID="66731f48-c210-47f8-94ff-c1e9a048815b">
+                                <BLOCK TYPE="1" DASUID="fd662fd4-061b-434d-93e1-a5b54870bd4c" NAME="Blue 1 Full" START="72640" END="107840" POSITION="0" FADEIN="720" FADEOUT="400" SCENEUUID="65d2ec93-2c6f-4920-9fb0-92bed21fb401">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -332,35 +338,19 @@
                                 <BLOCK TYPE="1" DASUID="8f179d6d-88bb-4519-b9ae-88a84f65e700" NAME="Blue 1 Dimm" START="0" END="33600" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="9a65b5da-dcf3-400c-8381-27174c4bd15d">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="a44647e6-0644-48b6-a8a0-afcc24338bf8" NAME="Blue 1 Dimm" START="50040" END="72880" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="9a65b5da-dcf3-400c-8381-27174c4bd15d">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                                <BLOCK TYPE="1" DASUID="d856fe13-650a-444d-988c-ef22798257a6" NAME="Blue 1 Alternate" START="80960" END="86880" POSITION="0" FADEIN="400" FADEOUT="640" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                                <BLOCK TYPE="1" DASUID="f854e4a6-24d5-4d3b-945f-0e86f8343703" NAME="Blue 1 Alternate" START="87600" END="95440" POSITION="-40" FADEIN="560" FADEOUT="640" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
+                                <BLOCK TYPE="1" DASUID="c93c6f95-4aba-4169-81aa-7dd29ff55fe8" NAME="Blue 1 Dimm" START="47760" END="111520" POSITION="-2280" FADEIN="0" FADEOUT="0" SCENEUUID="5e672161-b3a1-4959-a112-e769a051fb98">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="38e77086-0579-4362-80b1-623a7540a0f8" NAME="10" INDEX="10">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="fd662fd4-061b-434d-93e1-a5b54870bd4c" NAME="Blue 1 Full" START="77560" END="93800" POSITION="0" FADEIN="720" FADEOUT="400" SCENEUUID="65d2ec93-2c6f-4920-9fb0-92bed21fb401">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                                <BLOCK TYPE="1" DASUID="2aacb830-ba10-4335-bbf3-6247c64e30cd" NAME="Blue 1 Dimm" START="94800" END="117680" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="5e672161-b3a1-4959-a112-e769a051fb98">
+                                <BLOCK TYPE="1" DASUID="a44647e6-0644-48b6-a8a0-afcc24338bf8" NAME="Blue 1 Dimm" START="47320" END="76200" POSITION="-2720" FADEIN="0" FADEOUT="0" SCENEUUID="9a65b5da-dcf3-400c-8381-27174c4bd15d">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
-                        <TIMELINE DASUID="991ef47e-6697-4f05-a9ad-dfe1be7eafea" NAME="11" INDEX="11">
-                            <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="0050a1fa-d41f-4f02-a660-9f97fcc71410" NAME="Blue 1 Dimm" START="94800" END="117640" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="9a65b5da-dcf3-400c-8381-27174c4bd15d">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                            </BLOCKS>
-                        </TIMELINE>
-                        <TIMELINE DASUID="3ffd41b6-bfbc-4a4c-ab9c-0806bfd63367" NAME="12" INDEX="12">
+                        <TIMELINE DASUID="20966950-eb74-423e-bb44-8d2dc5db2086" NAME="11" INDEX="11">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
