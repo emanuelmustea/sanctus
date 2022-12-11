@@ -178,7 +178,7 @@
                         </TIMELINE>
                         <TIMELINE DASUID="2cbc3286-f351-4bb8-9bc7-b74c015c0266" NAME="2" INDEX="2">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="ad46dece-c40b-40fb-a600-c5600877d0fc" NAME="Cor - Full white" START="549520" END="608720" POSITION="0" FADEIN="12360" FADEOUT="19840" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
+                                <BLOCK TYPE="1" DASUID="ad46dece-c40b-40fb-a600-c5600877d0fc" NAME="Cor - Full white" START="549520" END="598880" POSITION="0" FADEIN="12360" FADEOUT="8400" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
