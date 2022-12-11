@@ -282,7 +282,7 @@
                                 <BLOCK TYPE="1" DASUID="08318541-cd98-4c3e-9958-27e933e011b6" NAME="Full - Solist St" START="72640" END="119040" POSITION="0" FADEIN="680" FADEOUT="3680" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="d58606b2-8d02-4658-a0d9-4780060ae200" NAME="Full - Solist St" START="141960" END="172880" POSITION="0" FADEIN="680" FADEOUT="1280" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
+                                <BLOCK TYPE="1" DASUID="eca645d3-95c0-4c24-9a9a-31498c739aaa" NAME="Full - Solist St" START="141960" END="172880" POSITION="0" FADEIN="680" FADEOUT="1280" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -295,7 +295,7 @@
                                 <BLOCK TYPE="1" DASUID="6976be1c-c02a-4934-b04e-575c124f38de" NAME="Full - Solist Dr" START="72640" END="119040" POSITION="0" FADEIN="720" FADEOUT="3680" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="d431c3f9-68b6-4940-9d81-0837ab7ff863" NAME="Full - Solist Dr" START="141960" END="172880" POSITION="0" FADEIN="720" FADEOUT="1280" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
+                                <BLOCK TYPE="1" DASUID="63fa4d2e-544e-4235-85e8-1f6c441a5725" NAME="Full - Solist Dr" START="141960" END="172880" POSITION="0" FADEIN="720" FADEOUT="1280" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
