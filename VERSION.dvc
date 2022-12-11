@@ -239,7 +239,7 @@
                                 <BLOCK TYPE="1" DASUID="6a1413c2-8937-4b4b-9b6b-3eaed6a09f32" NAME="Refren" START="32040" END="50720" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="660eef36-7db5-4e96-8e00-760181e952c6">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="cbde1dd1-3a18-4c9a-a9b9-90feb2884e98" NAME="Refren" START="72680" END="119200" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="660eef36-7db5-4e96-8e00-760181e952c6">
+                                <BLOCK TYPE="1" DASUID="cbde1dd1-3a18-4c9a-a9b9-90feb2884e98" NAME="Refren" START="72680" END="89920" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="660eef36-7db5-4e96-8e00-760181e952c6">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                                 <BLOCK TYPE="1" DASUID="92168b06-aa9a-4c2e-b6f5-0fbd4e47f16c" NAME="Bridge" START="142040" END="173400" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="e1c3d093-402a-4a62-a34e-36baf4f744b6">
@@ -253,6 +253,9 @@
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                                 <BLOCK TYPE="1" DASUID="bd62b25a-12fe-4542-a553-8c0669b732bd" NAME="Verse" START="50360" END="73040" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="0115df0a-80f3-42eb-8dc2-8755c12711e3">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="9c6bc611-b73b-4994-acae-587acb5b9eeb" NAME="Bridge" START="89600" END="119000" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="e1c3d093-402a-4a62-a34e-36baf4f744b6">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                                 <BLOCK TYPE="1" DASUID="40ae8163-5570-4ccc-9137-bf30005ec201" NAME="Verse" START="119000" END="142440" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="0115df0a-80f3-42eb-8dc2-8755c12711e3">
@@ -269,7 +272,7 @@
                         </TIMELINE>
                         <TIMELINE DASUID="70b834b7-ca09-43c0-86fb-76485e25ebb6" NAME="4" INDEX="4">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="952dc6fa-b55a-432a-9f20-82e5f0e6082d" NAME="Full - Solist St" START="32800" END="36640" POSITION="0" FADEIN="680" FADEOUT="560" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
+                                <BLOCK TYPE="1" DASUID="952dc6fa-b55a-432a-9f20-82e5f0e6082d" NAME="Full - Solist St" START="32800" END="50920" POSITION="0" FADEIN="680" FADEOUT="1960" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                                 <BLOCK TYPE="1" DASUID="08318541-cd98-4c3e-9958-27e933e011b6" NAME="Full - Solist St" START="72640" END="119040" POSITION="0" FADEIN="680" FADEOUT="3680" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
@@ -282,7 +285,7 @@
                         </TIMELINE>
                         <TIMELINE DASUID="75200d5c-6e36-45f8-83e4-f62a90164321" NAME="5" INDEX="5">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="b856a38e-5007-40d8-a5e0-16d8a6e89d07" NAME="Full - Solist Dr" START="32800" END="36640" POSITION="0" FADEIN="720" FADEOUT="560" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
+                                <BLOCK TYPE="1" DASUID="b856a38e-5007-40d8-a5e0-16d8a6e89d07" NAME="Full - Solist Dr" START="32800" END="50920" POSITION="0" FADEIN="720" FADEOUT="1880" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                                 <BLOCK TYPE="1" DASUID="6976be1c-c02a-4934-b04e-575c124f38de" NAME="Full - Solist Dr" START="72640" END="119040" POSITION="0" FADEIN="720" FADEOUT="3680" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
@@ -1571,7 +1574,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="14">
-            <SELECTED_LIVE_SCENES DASUID="bbc7b1bf-2915-4de8-8e47-e0ead70579c2"/>
+            <SELECTED_LIVE_SCENES DASUID="776590c1-4b18-4794-9b42-621a811bf552"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
