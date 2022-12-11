@@ -229,7 +229,7 @@
             </SCENE>
             <SCENE DASUID="776590c1-4b18-4794-9b42-621a811bf552" NAME="Gabriel's Message " COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="50" FADE_OUT="50" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
-                <RACK TYPE="1" DURATION="4709">
+                <RACK TYPE="1" DURATION="4365">
                     <TIMELINES>
                         <TIMELINE DASUID="58133978-5706-485e-bd72-de80385df817" NAME="0" INDEX="0">
                             <BLOCKS>
@@ -249,7 +249,7 @@
                                 <BLOCK TYPE="1" DASUID="cbde1dd1-3a18-4c9a-a9b9-90feb2884e98" NAME="Refren" START="72680" END="119200" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="660eef36-7db5-4e96-8e00-760181e952c6">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="92168b06-aa9a-4c2e-b6f5-0fbd4e47f16c" NAME="Bridge" START="142040" END="172880" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="e1c3d093-402a-4a62-a34e-36baf4f744b6">
+                                <BLOCK TYPE="1" DASUID="92168b06-aa9a-4c2e-b6f5-0fbd4e47f16c" NAME="Bridge" START="142040" END="173400" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="e1c3d093-402a-4a62-a34e-36baf4f744b6">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -269,7 +269,7 @@
                         </TIMELINE>
                         <TIMELINE DASUID="d9bb02c7-0167-466d-bb8d-7ec83de36ba0" NAME="3" INDEX="3">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="c003d2e2-4f1d-4684-b591-1cbf2b5e8fae" NAME="Full - Scena Mica" START="9440" END="173960" POSITION="-560" FADEIN="2320" FADEOUT="3600" SCENEUUID="ea1ca220-2722-4843-b4fc-6940deffb3d4">
+                                <BLOCK TYPE="1" DASUID="c003d2e2-4f1d-4684-b591-1cbf2b5e8fae" NAME="Full - Scena Mica" START="9440" END="172880" POSITION="-560" FADEIN="2320" FADEOUT="1280" SCENEUUID="ea1ca220-2722-4843-b4fc-6940deffb3d4">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -282,7 +282,7 @@
                                 <BLOCK TYPE="1" DASUID="08318541-cd98-4c3e-9958-27e933e011b6" NAME="Full - Solist St" START="72640" END="119040" POSITION="0" FADEIN="680" FADEOUT="3680" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="d58606b2-8d02-4658-a0d9-4780060ae200" NAME="Full - Solist St" START="141960" END="188360" POSITION="0" FADEIN="680" FADEOUT="3680" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
+                                <BLOCK TYPE="1" DASUID="d58606b2-8d02-4658-a0d9-4780060ae200" NAME="Full - Solist St" START="141960" END="172880" POSITION="0" FADEIN="680" FADEOUT="1280" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -295,7 +295,7 @@
                                 <BLOCK TYPE="1" DASUID="6976be1c-c02a-4934-b04e-575c124f38de" NAME="Full - Solist Dr" START="72640" END="119040" POSITION="0" FADEIN="720" FADEOUT="3680" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="d431c3f9-68b6-4940-9d81-0837ab7ff863" NAME="Full - Solist Dr" START="141960" END="188360" POSITION="0" FADEIN="720" FADEOUT="3680" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
+                                <BLOCK TYPE="1" DASUID="d431c3f9-68b6-4940-9d81-0837ab7ff863" NAME="Full - Solist Dr" START="141960" END="172880" POSITION="0" FADEIN="720" FADEOUT="1280" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -305,7 +305,7 @@
                                 <BLOCK TYPE="1" DASUID="71a64c72-8f6a-48d2-b54d-af0ffdd53b30" NAME="Full - Cor" START="89720" END="119040" POSITION="-680" FADEIN="3360" FADEOUT="3680" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="40a6d4dd-a6ef-47ab-8d50-c415066d71f0" NAME="Full - Cor" START="141960" END="171280" POSITION="-680" FADEIN="720" FADEOUT="3680" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
+                                <BLOCK TYPE="1" DASUID="40a6d4dd-a6ef-47ab-8d50-c415066d71f0" NAME="Full - Cor" START="141960" END="172880" POSITION="-680" FADEIN="720" FADEOUT="1320" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
