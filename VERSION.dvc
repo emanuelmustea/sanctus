@@ -703,34 +703,34 @@
                                 <BLOCK TYPE="1" DASUID="2e6a1c7a-f4a7-4f17-9b38-0563b4e3437e" NAME="Refren" START="172440" END="202240" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="660eef36-7db5-4e96-8e00-760181e952c6">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="955c90c2-267d-454b-bdb3-21d949c195cb" NAME="Coda" START="202240" END="216000" POSITION="600" FADEIN="0" FADEOUT="0" SCENEUUID="f7714f4f-a01c-4852-bdb5-c52231f6b2e8">
+                                <BLOCK TYPE="1" DASUID="955c90c2-267d-454b-bdb3-21d949c195cb" NAME="Coda" START="202240" END="217480" POSITION="600" FADEIN="0" FADEOUT="0" SCENEUUID="f7714f4f-a01c-4852-bdb5-c52231f6b2e8">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="bfe52958-78be-4002-a100-4a6b80624271" NAME="2" INDEX="2">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="f66196f8-f9c0-4020-a129-25698146b4e2" NAME="Full - Solist M." START="13560" END="81520" POSITION="0" FADEIN="1760" FADEOUT="0" SCENEUUID="0e4b634b-aa4d-4927-9ebc-5f9c6997f844">
+                                <BLOCK TYPE="1" DASUID="f66196f8-f9c0-4020-a129-25698146b4e2" NAME="Full - Solist M." START="13560" END="217520" POSITION="0" FADEIN="1760" FADEOUT="2720" SCENEUUID="0e4b634b-aa4d-4927-9ebc-5f9c6997f844">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="884244c4-7a8d-4a11-a370-ff6c2cde74fc" NAME="3" INDEX="3">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="7490f473-e4fc-4060-be68-0145facd0768" NAME="Full - Cor" START="59600" END="88120" POSITION="0" FADEIN="1840" FADEOUT="4520" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
+                                <BLOCK TYPE="1" DASUID="8fbe406b-f118-4b6d-bb0f-404cef74b574" NAME="Full - Copii" START="46080" END="74600" POSITION="16920" FADEIN="1800" FADEOUT="4520" SCENEUUID="60f56c97-e0ca-4013-95a5-1c277ccf1ecb">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="f7f14f07-b517-4259-9269-39b8fc5f6975" NAME="Full - Copii" START="59600" END="88120" POSITION="0" FADEIN="1800" FADEOUT="4520" SCENEUUID="60f56c97-e0ca-4013-95a5-1c277ccf1ecb">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                                <BLOCK TYPE="1" DASUID="3f0feaa1-410f-4bd1-9636-f0eb5ccb4015" NAME="Full - Copii" START="59600" END="88120" POSITION="0" FADEIN="1800" FADEOUT="4520" SCENEUUID="60f56c97-e0ca-4013-95a5-1c277ccf1ecb">
+                                <BLOCK TYPE="1" DASUID="946e149c-4219-4a89-9098-68cd8476636e" NAME="Full - Copii" START="109280" END="202040" POSITION="16920" FADEIN="1800" FADEOUT="4520" SCENEUUID="60f56c97-e0ca-4013-95a5-1c277ccf1ecb">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="5babe6a8-c1c4-4f80-9c56-b836cb838cbb" NAME="4" INDEX="4">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="e848e075-4547-4917-a99e-99bd96902576" NAME="Full - Cor" START="59600" END="88120" POSITION="0" FADEIN="1840" FADEOUT="4520" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
+                                <BLOCK TYPE="1" DASUID="e848e075-4547-4917-a99e-99bd96902576" NAME="Full - Cor" START="46120" END="74640" POSITION="0" FADEIN="1840" FADEOUT="4520" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="ade1b995-b0a4-48f9-babe-a0271277aab9" NAME="Full - Cor" START="109320" END="202040" POSITION="0" FADEIN="1840" FADEOUT="4520" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
