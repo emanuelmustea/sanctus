@@ -722,6 +722,26 @@
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="884244c4-7a8d-4a11-a370-ff6c2cde74fc" NAME="3" INDEX="3">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="7490f473-e4fc-4060-be68-0145facd0768" NAME="Full - Cor" START="59600" END="88120" POSITION="0" FADEIN="1840" FADEOUT="4520" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="f7f14f07-b517-4259-9269-39b8fc5f6975" NAME="Full - Copii" START="59600" END="88120" POSITION="0" FADEIN="1800" FADEOUT="4520" SCENEUUID="60f56c97-e0ca-4013-95a5-1c277ccf1ecb">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="3f0feaa1-410f-4bd1-9636-f0eb5ccb4015" NAME="Full - Copii" START="59600" END="88120" POSITION="0" FADEIN="1800" FADEOUT="4520" SCENEUUID="60f56c97-e0ca-4013-95a5-1c277ccf1ecb">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="5babe6a8-c1c4-4f80-9c56-b836cb838cbb" NAME="4" INDEX="4">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="e848e075-4547-4917-a99e-99bd96902576" NAME="Full - Cor" START="59600" END="88120" POSITION="0" FADEIN="1840" FADEOUT="4520" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="a51d6dbd-a2fd-4adb-a824-1fbd3811cc05" NAME="5" INDEX="5">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
