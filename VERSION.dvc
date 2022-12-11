@@ -269,32 +269,65 @@
                         </TIMELINE>
                         <TIMELINE DASUID="d9bb02c7-0167-466d-bb8d-7ec83de36ba0" NAME="3" INDEX="3">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="b6a62baa-7bfa-43a0-a69f-3a81923560ba" NAME="Blue 1 Full" START="32800" END="50960" POSITION="0" FADEIN="720" FADEOUT="720" SCENEUUID="66731f48-c210-47f8-94ff-c1e9a048815b">
+                                <BLOCK TYPE="1" DASUID="c003d2e2-4f1d-4684-b591-1cbf2b5e8fae" NAME="Full - Scena Mica" START="9440" END="76640" POSITION="-560" FADEIN="2320" FADEOUT="280" SCENEUUID="ea1ca220-2722-4843-b4fc-6940deffb3d4">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="70b834b7-ca09-43c0-86fb-76485e25ebb6" NAME="4" INDEX="4">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="8ff8d12d-d0c7-4e6a-8216-44f0895d5375" NAME="Blue 1 Dimm" START="0" END="33600" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="5e672161-b3a1-4959-a112-e769a051fb98">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                                <BLOCK TYPE="1" DASUID="77b2e983-9643-4a1b-aad3-32ff8598f288" NAME="Blue 1 Alternate" START="36360" END="50920" POSITION="0" FADEIN="560" FADEOUT="840" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
+                                <BLOCK TYPE="1" DASUID="952dc6fa-b55a-432a-9f20-82e5f0e6082d" NAME="Full - Solist St" START="32800" END="36640" POSITION="0" FADEIN="680" FADEOUT="560" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="75200d5c-6e36-45f8-83e4-f62a90164321" NAME="5" INDEX="5">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="7fa89dbe-3303-4d41-8fb5-acb7f6c201c1" NAME="Blue 1 Full" START="32800" END="37280" POSITION="0" FADEIN="720" FADEOUT="400" SCENEUUID="65d2ec93-2c6f-4920-9fb0-92bed21fb401">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                                <BLOCK TYPE="1" DASUID="c93c6f95-4aba-4169-81aa-7dd29ff55fe8" NAME="Blue 1 Dimm" START="50040" END="72920" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="5e672161-b3a1-4959-a112-e769a051fb98">
+                                <BLOCK TYPE="1" DASUID="b856a38e-5007-40d8-a5e0-16d8a6e89d07" NAME="Full - Solist Dr" START="32800" END="36640" POSITION="0" FADEIN="720" FADEOUT="560" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="a02ff179-271c-4b81-b155-61cbc35e02bc" NAME="6" INDEX="6">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="b6a62baa-7bfa-43a0-a69f-3a81923560ba" NAME="Blue 1 Full" START="32800" END="50960" POSITION="0" FADEIN="720" FADEOUT="720" SCENEUUID="66731f48-c210-47f8-94ff-c1e9a048815b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="08318541-cd98-4c3e-9958-27e933e011b6" NAME="Full - Solist St" START="77560" END="81400" POSITION="0" FADEIN="680" FADEOUT="560" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="8ed9fdf6-a011-4fc8-b57d-e3226129bf69" NAME="7" INDEX="7">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="8ff8d12d-d0c7-4e6a-8216-44f0895d5375" NAME="Blue 1 Dimm" START="0" END="33600" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="5e672161-b3a1-4959-a112-e769a051fb98">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="77b2e983-9643-4a1b-aad3-32ff8598f288" NAME="Blue 1 Alternate" START="36200" END="42120" POSITION="0" FADEIN="400" FADEOUT="640" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="60743b0d-34b3-4609-9a96-befc19f309f6" NAME="Blue 1 Alternate" START="42840" END="50680" POSITION="-40" FADEIN="560" FADEOUT="640" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="6976be1c-c02a-4934-b04e-575c124f38de" NAME="Full - Solist Dr" START="77560" END="81400" POSITION="0" FADEIN="720" FADEOUT="560" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="4266576d-1ab6-474a-98ce-01d6d96feb58" NAME="8" INDEX="8">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="7fa89dbe-3303-4d41-8fb5-acb7f6c201c1" NAME="Blue 1 Full" START="32800" END="49040" POSITION="0" FADEIN="720" FADEOUT="400" SCENEUUID="65d2ec93-2c6f-4920-9fb0-92bed21fb401">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="c93c6f95-4aba-4169-81aa-7dd29ff55fe8" NAME="Blue 1 Dimm" START="50040" END="72920" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="5e672161-b3a1-4959-a112-e769a051fb98">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="ac351c33-ee68-4403-8dfa-e139d43bc1f5" NAME="Blue 1 Full" START="77560" END="95720" POSITION="0" FADEIN="720" FADEOUT="720" SCENEUUID="66731f48-c210-47f8-94ff-c1e9a048815b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="8f58959a-e268-4e45-a7ed-ff98be075515" NAME="9" INDEX="9">
                             <BLOCKS>
                                 <BLOCK TYPE="1" DASUID="8f179d6d-88bb-4519-b9ae-88a84f65e700" NAME="Blue 1 Dimm" START="0" END="33600" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="9a65b5da-dcf3-400c-8381-27174c4bd15d">
                                     <DASTLSUBLINES DASTLNB="0"/>
@@ -302,9 +335,32 @@
                                 <BLOCK TYPE="1" DASUID="a44647e6-0644-48b6-a8a0-afcc24338bf8" NAME="Blue 1 Dimm" START="50040" END="72880" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="9a65b5da-dcf3-400c-8381-27174c4bd15d">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
+                                <BLOCK TYPE="1" DASUID="d856fe13-650a-444d-988c-ef22798257a6" NAME="Blue 1 Alternate" START="80960" END="86880" POSITION="0" FADEIN="400" FADEOUT="640" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="f854e4a6-24d5-4d3b-945f-0e86f8343703" NAME="Blue 1 Alternate" START="87600" END="95440" POSITION="-40" FADEIN="560" FADEOUT="640" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
-                        <TIMELINE DASUID="8ed9fdf6-a011-4fc8-b57d-e3226129bf69" NAME="7" INDEX="7">
+                        <TIMELINE DASUID="38e77086-0579-4362-80b1-623a7540a0f8" NAME="10" INDEX="10">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="fd662fd4-061b-434d-93e1-a5b54870bd4c" NAME="Blue 1 Full" START="77560" END="93800" POSITION="0" FADEIN="720" FADEOUT="400" SCENEUUID="65d2ec93-2c6f-4920-9fb0-92bed21fb401">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="2aacb830-ba10-4335-bbf3-6247c64e30cd" NAME="Blue 1 Dimm" START="94800" END="117680" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="5e672161-b3a1-4959-a112-e769a051fb98">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="991ef47e-6697-4f05-a9ad-dfe1be7eafea" NAME="11" INDEX="11">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="0050a1fa-d41f-4f02-a660-9f97fcc71410" NAME="Blue 1 Dimm" START="94800" END="117640" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="9a65b5da-dcf3-400c-8381-27174c4bd15d">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="3ffd41b6-bfbc-4a4c-ab9c-0806bfd63367" NAME="12" INDEX="12">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
@@ -1410,7 +1466,7 @@
             </SCENE>
         </BANK>
         <BANK DASUID="7e624bc1-7f16-4b80-9d18-a1aeee4bbc11" NAME="Solist St" COLOR="#ff855fa8" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="2">
-            <SCENE DASUID="6605f549-160a-489b-b562-5cc52aed5fcc" NAME="Solist St - Full" COLOR="#ff855fa8" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+            <SCENE DASUID="6605f549-160a-489b-b562-5cc52aed5fcc" NAME="Full - Solist St" COLOR="#ff855fa8" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="1">
                     <FIXTUREDATA FIXTURE="9accc076-4731-49fe-b92b-f3e3babaa868" DATA="eJxiYGL4//8/AwMD4x4GbNAGiBkAAAAA//8="/>
                 </FIXTUREDATAS>
@@ -1422,7 +1478,7 @@
             </SCENE>
         </BANK>
         <BANK DASUID="f3e57ee2-74f9-4d41-8197-70b2ef4d9a67" NAME="Solist Dr" COLOR="#ffd7549f" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="2">
-            <SCENE DASUID="81fcb688-f676-4cb3-a61a-818d2f9a5849" NAME="Solisr Dr - Full" COLOR="#ffd7549f" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+            <SCENE DASUID="81fcb688-f676-4cb3-a61a-818d2f9a5849" NAME="Full - Solist Dr" COLOR="#ffd7549f" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="1">
                     <FIXTUREDATA FIXTURE="c0da2fe4-c695-421f-9d14-c26b70f86901" DATA="eJxiYGL4//8/AwMD4x4GbNAGiBkAAAAA//8="/>
                 </FIXTUREDATAS>
