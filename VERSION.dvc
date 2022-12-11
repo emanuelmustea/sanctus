@@ -268,12 +268,7 @@
                                 <BLOCK TYPE="1" DASUID="c003d2e2-4f1d-4684-b591-1cbf2b5e8fae" NAME="Full - Scena Mica" START="9440" END="172880" POSITION="-560" FADEIN="2320" FADEOUT="1280" SCENEUUID="ea1ca220-2722-4843-b4fc-6940deffb3d4">
                                     <DASTLSUBLINES DASTLNB="1">
                                         <DASTLSUBLINE DASTLTYPE="0">
-                                            <DASTLKEYPOINTS DASTLNB="4">
-                                                <DASTLKEYPOINT DASTLPOSITION="1960" DASTLTRANSITION="0" DASTLDATA="0.833333" DASTLTYPE="4"/>
-                                                <DASTLKEYPOINT DASTLPOSITION="2041" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
-                                                <DASTLKEYPOINT DASTLPOSITION="2735" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
-                                                <DASTLKEYPOINT DASTLPOSITION="2757" DASTLTRANSITION="0" DASTLDATA="0.761905" DASTLTYPE="4"/>
-                                            </DASTLKEYPOINTS>
+                                            <DASTLKEYPOINTS DASTLNB="0"/>
                                         </DASTLSUBLINE>
                                     </DASTLSUBLINES>
                                 </BLOCK>
