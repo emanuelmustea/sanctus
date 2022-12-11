@@ -178,33 +178,26 @@
                         </TIMELINE>
                         <TIMELINE DASUID="2cbc3286-f351-4bb8-9bc7-b74c015c0266" NAME="2" INDEX="2">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="9b72e261-57bd-4104-ab86-274b06f7a672" NAME="Full - Scena Mica" START="462000" END="608720" POSITION="0" FADEIN="31440" FADEOUT="19760" SCENEUUID="ea1ca220-2722-4843-b4fc-6940deffb3d4">
+                                <BLOCK TYPE="1" DASUID="ad46dece-c40b-40fb-a600-c5600877d0fc" NAME="Cor - Full white" START="549520" END="608720" POSITION="0" FADEIN="12360" FADEOUT="19840" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="e2242326-409f-4511-bdd8-35bd4bda7144" NAME="3" INDEX="3">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="ad46dece-c40b-40fb-a600-c5600877d0fc" NAME="Cor - Full white" START="549520" END="608720" POSITION="0" FADEIN="12360" FADEOUT="19840" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
+                                <BLOCK TYPE="1" DASUID="5a8e253b-fd53-4c45-bd99-667e62f0d4bf" NAME="Argintiu Intro" START="0" END="298880" POSITION="-60720" FADEIN="9920" FADEOUT="4920" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="a8f9aae6-3d2e-4cd6-9e81-daa60a39d2cd" NAME="4" INDEX="4">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="5a8e253b-fd53-4c45-bd99-667e62f0d4bf" NAME="Argintiu Intro" START="0" END="298880" POSITION="-60720" FADEIN="9920" FADEOUT="4920" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                            </BLOCKS>
-                        </TIMELINE>
-                        <TIMELINE DASUID="9e048f5d-2c51-48cd-a89d-e460273d5562" NAME="5" INDEX="5">
-                            <BLOCKS>
                                 <BLOCK TYPE="1" DASUID="debf7d7e-e91c-4d56-bf9c-a2f9a2fc77bf" NAME="Rosu Intro" START="0" END="298880" POSITION="0" FADEIN="9920" FADEOUT="4880" SCENEUUID="83396883-ec32-4a8a-9336-a7e11a363937">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
-                        <TIMELINE DASUID="5f43bca2-f6f0-40ca-8db8-787fb38c1c55" NAME="6" INDEX="6">
+                        <TIMELINE DASUID="9e048f5d-2c51-48cd-a89d-e460273d5562" NAME="5" INDEX="5">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
@@ -1578,7 +1571,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="14">
-            <SELECTED_LIVE_SCENES DASUID="2be33f2c-d85c-4dba-8951-dd87f7f6458b"/>
+            <SELECTED_LIVE_SCENES DASUID="bbc7b1bf-2915-4de8-8e47-e0ead70579c2"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
