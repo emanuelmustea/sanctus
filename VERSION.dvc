@@ -1543,6 +1543,20 @@
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="154a243a-1b8e-4d8d-a483-0811e20ce178" NAME="2" INDEX="2">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="8563e49a-7044-43f5-a94b-b52e3e10d38b" NAME="Full - Solist St" START="37280" END="173760" POSITION="0" FADEIN="1560" FADEOUT="0" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="8ed3be11-c354-4fdb-b95f-edf05de4aa43" NAME="3" INDEX="3">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="3e7f2780-75f5-4766-9921-991840528d34" NAME="Full - Solist Dr" START="37280" END="156760" POSITION="40" FADEIN="1560" FADEOUT="0" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="12e231f8-4a8b-4467-8130-b8e134578b20" NAME="4" INDEX="4">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
