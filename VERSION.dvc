@@ -1067,7 +1067,7 @@
                         </TIMELINE>
                         <TIMELINE DASUID="4549baac-6d77-4693-b5b5-94f174ad259c" NAME="2" INDEX="2">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="0aa88f20-1b8f-424f-b649-e0721fa0be24" NAME="Full - Solist M." START="9600" END="162360" POSITION="9600" FADEIN="1800" FADEOUT="1280" SCENEUUID="0e4b634b-aa4d-4927-9ebc-5f9c6997f844">
+                                <BLOCK TYPE="1" DASUID="0aa88f20-1b8f-424f-b649-e0721fa0be24" NAME="Full - Solist M." START="9600" END="161720" POSITION="9600" FADEIN="1800" FADEOUT="800" SCENEUUID="0e4b634b-aa4d-4927-9ebc-5f9c6997f844">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                                 <BLOCK TYPE="1" DASUID="b5988c2b-ee5c-4b93-8c48-87f7ed119ba5" NAME="Full - Solist M." START="178120" END="306720" POSITION="9600" FADEIN="1800" FADEOUT="1320" SCENEUUID="0e4b634b-aa4d-4927-9ebc-5f9c6997f844">
@@ -1077,7 +1077,7 @@
                         </TIMELINE>
                         <TIMELINE DASUID="4e13240c-829d-4af1-8dc8-af227ffa29dd" NAME="3" INDEX="3">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="9fe4208b-6920-414d-910a-6151a9838e86" NAME="Full - Cor" START="89360" END="162360" POSITION="0" FADEIN="5720" FADEOUT="3040" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
+                                <BLOCK TYPE="1" DASUID="9fe4208b-6920-414d-910a-6151a9838e86" NAME="Full - Cor" START="89360" END="161800" POSITION="0" FADEIN="5720" FADEOUT="3040" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                                 <BLOCK TYPE="1" DASUID="0b06a8c8-5461-4999-b7ca-6e3de63a95af" NAME="Full - Cor" START="211560" END="306600" POSITION="0" FADEIN="5720" FADEOUT="4400" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
