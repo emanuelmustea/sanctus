@@ -1080,7 +1080,7 @@
                                 <BLOCK TYPE="1" DASUID="9fe4208b-6920-414d-910a-6151a9838e86" NAME="Full - Cor" START="89360" END="161800" POSITION="0" FADEIN="5720" FADEOUT="3040" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="0b06a8c8-5461-4999-b7ca-6e3de63a95af" NAME="Full - Cor" START="211560" END="306600" POSITION="0" FADEIN="5720" FADEOUT="4400" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
+                                <BLOCK TYPE="1" DASUID="0b06a8c8-5461-4999-b7ca-6e3de63a95af" NAME="Full - Cor" START="211560" END="306600" POSITION="0" FADEIN="6680" FADEOUT="4400" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
