@@ -1113,6 +1113,43 @@
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="af527561-43a9-488d-b2a7-6cd6e0f099dc" NAME="1" INDEX="1">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="b7df8ce9-0fa7-439e-9173-22fd75abab94" NAME="Intro" START="0" END="23280" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="21152470-c5c8-4c74-9d28-d3596795206c">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="c0a1d8ee-e855-4848-88e8-c495322aed3c" NAME="Verse" START="23280" END="45120" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="0115df0a-80f3-42eb-8dc2-8755c12711e3">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="cac71835-52e3-4713-ae87-0db193bfc48b" NAME="Pre-refren" START="45120" END="56720" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="078d3626-712c-4ce2-be03-1562949a3c77">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="ef091a6d-af8f-4e76-8acb-6fd9f05ec676" NAME="Refren" START="56720" END="81120" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="660eef36-7db5-4e96-8e00-760181e952c6">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="4a8abe25-72fb-4375-ae8b-89fa5a969748" NAME="Verse" START="81120" END="103120" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="0115df0a-80f3-42eb-8dc2-8755c12711e3">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="b8e2b0e3-fce3-496a-9f83-8f18d1b166e7" NAME="Pre-refren" START="103120" END="113760" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="078d3626-712c-4ce2-be03-1562949a3c77">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="bd95615d-ec8b-44ba-b271-950f3199cb2f" NAME="Refren" START="113760" END="138720" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="660eef36-7db5-4e96-8e00-760181e952c6">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="881e0b01-2a47-40a8-9fd4-2dc9a801edca" NAME="Bridge" START="138720" END="160520" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="e1c3d093-402a-4a62-a34e-36baf4f744b6">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="7905f376-640e-4347-8809-b1d5b38272ec" NAME="Refren" START="160520" END="183440" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="660eef36-7db5-4e96-8e00-760181e952c6">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="0fb53401-2540-429e-b6b2-1bd4047c1c53" NAME="Refren" START="183440" END="208200" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="660eef36-7db5-4e96-8e00-760181e952c6">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="fb377ec2-2ae6-4393-a8c1-a9077c7fac60" NAME="Outro" START="208200" END="219760" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="6d7cc660-1c37-4634-a3ae-4ea1a8611ef3">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="0396ab02-a337-4a26-b897-9a0a5c474279" NAME="2" INDEX="2">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
@@ -1889,7 +1926,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="14">
-            <SELECTED_LIVE_SCENES DASUID="7fd79469-6cb1-4d39-aaa3-a491f86b2c83"/>
+            <SELECTED_LIVE_SCENES DASUID="39bdd5dc-0011-46b0-aa4f-f204f3f35934"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
