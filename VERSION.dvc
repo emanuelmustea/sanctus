@@ -1059,7 +1059,7 @@
             </SCENE>
             <SCENE DASUID="460289a0-1ccc-4557-8d65-577635502473" NAME="Mary Did You Know" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="50" FADE_OUT="50" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
-                <RACK TYPE="1" DURATION="16831">
+                <RACK TYPE="1" DURATION="7782">
                     <TIMELINES>
                         <TIMELINE DASUID="dc41a09b-fc9d-4b61-91b4-5884691e81c3" NAME="0" INDEX="0">
                             <BLOCKS>
@@ -1095,7 +1095,7 @@
                         </TIMELINE>
                         <TIMELINE DASUID="fb5e895a-1704-48fe-a7e4-e376869ead3d" NAME="2" INDEX="2">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="7456468f-7f94-4ac2-befb-b5722dc36097" NAME="Full - Solist M." START="34040" END="266760" POSITION="0" FADEIN="3040" FADEOUT="6840" SCENEUUID="0e4b634b-aa4d-4927-9ebc-5f9c6997f844">
+                                <BLOCK TYPE="1" DASUID="7456468f-7f94-4ac2-befb-b5722dc36097" NAME="Full - Solist M." START="34040" END="223720" POSITION="0" FADEIN="3040" FADEOUT="3160" SCENEUUID="0e4b634b-aa4d-4927-9ebc-5f9c6997f844">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -1115,7 +1115,7 @@
                         </TIMELINE>
                         <TIMELINE DASUID="c38b70ba-59ba-4007-a059-e883f2ed7cad" NAME="4" INDEX="4">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="ac198705-11f7-4ad6-8c6a-be0225f21495" NAME="Gold Intro - W Sus" START="130560" END="254080" POSITION="0" FADEIN="5240" FADEOUT="0" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
+                                <BLOCK TYPE="1" DASUID="ac198705-11f7-4ad6-8c6a-be0225f21495" NAME="Gold Intro - W Sus" START="130560" END="152400" POSITION="0" FADEIN="3080" FADEOUT="3240" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -1125,26 +1125,56 @@
                                 <BLOCK TYPE="1" DASUID="37d6497e-1835-4337-abef-fb5324359bbc" NAME="Cor Spate - Miscari W" START="64840" END="103880" POSITION="0" FADEIN="4960" FADEOUT="4120" SCENEUUID="74569abe-90a5-42fd-87d8-713052644e48">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="71d1f9ca-4897-45ec-aa30-3c8b6dc4954f" NAME="Pozitie FIll - Miscari W" START="131840" END="170360" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="252b78f3-c2ca-41c9-abf3-99756ba22350">
+                                <BLOCK TYPE="1" DASUID="71d1f9ca-4897-45ec-aa30-3c8b6dc4954f" NAME="Pozitie FIll - Miscari W" START="130520" END="169040" POSITION="0" FADEIN="2960" FADEOUT="0" SCENEUUID="252b78f3-c2ca-41c9-abf3-99756ba22350">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="27480f88-f0d3-48b8-acd7-ed23684cf7e8" NAME="6" INDEX="6">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="59e01cbf-a560-45e1-b3cc-0cb27cfb8bdc" NAME="Red Mary did you know - W sus" START="0" END="673240" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="e6c5d338-50c3-4862-84cd-f0f205b79288">
+                                <BLOCK TYPE="1" DASUID="59e01cbf-a560-45e1-b3cc-0cb27cfb8bdc" NAME="Red Mary did you know - W sus" START="0" END="146400" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="e6c5d338-50c3-4862-84cd-f0f205b79288">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="5641ef59-fdfb-4b17-8781-a1d13f2ec0a9" NAME="Red Mary did you know - W sus" START="164640" END="311040" POSITION="0" FADEIN="3320" FADEOUT="0" SCENEUUID="e6c5d338-50c3-4862-84cd-f0f205b79288">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="8f55fb31-7a45-4df8-86ea-cbacbbf3f028" NAME="7" INDEX="7">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="36d9de6b-3eaf-43aa-9520-96195960e9f9" NAME="Red Mary did you know - W jos" START="0" END="178200" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="5416f011-1f32-4c7d-bfa1-8c8028843805">
+                                <BLOCK TYPE="1" DASUID="36d9de6b-3eaf-43aa-9520-96195960e9f9" NAME="Red Mary did you know - W jos" START="0" END="311280" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="5416f011-1f32-4c7d-bfa1-8c8028843805">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="371af478-eea1-4ea7-89dd-6af0c8d34d38" NAME="8" INDEX="8">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="a1f21134-5e13-40bf-b281-489bf1447bb4" NAME="Movement scena - Pos Beam" START="126400" END="152440" POSITION="0" FADEIN="0" FADEOUT="5920" SCENEUUID="e776e5cb-ad06-45f3-b8d2-e397b1fca26e">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="8405512d-038b-4d7e-a58e-9ab72dfe7d8a" NAME="Solist M - Pos Beam" START="219120" END="240160" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7bb2b147-c5e5-4fb2-9308-3802c83968b5">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="afd0c275-259d-4706-a57c-910dc98b85ce" NAME="9" INDEX="9">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="508af358-e463-4b1e-8e33-d73984eb2634" NAME="Sus - Pos Beam" START="145600" END="172880" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="c8192481-9746-48bd-b08e-4f7d7233f90b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="5b14c26c-0e66-4598-baf9-3262c2151d75" NAME="ROSU O Holy night" START="225000" END="235240" POSITION="0" FADEIN="2160" FADEOUT="3360" SCENEUUID="fa7ec491-805a-4fff-b0f2-40c2f5fd6731">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="fc102917-de74-4efb-b978-adb799a39107" NAME="10" INDEX="10">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="3882c8c5-1805-4896-ae0a-526fedb08950" NAME="Gold - Beam" START="130440" END="168160" POSITION="0" FADEIN="3040" FADEOUT="3440" SCENEUUID="3d95c4e6-5b9e-4672-a06b-6cb27aa20478">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="b809e694-a028-4967-867a-1e11bc60818d" NAME="11" INDEX="11">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
@@ -2774,7 +2804,7 @@
                 <FIXTUREDATAS NB="0"/>
             </SCENE>
         </BANK>
-        <BANK DASUID="336299a4-1ad2-4d5a-9247-8cddfb25d2b4" NAME="POS Beam sus" COLOR="#ffd7549f" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="3">
+        <BANK DASUID="336299a4-1ad2-4d5a-9247-8cddfb25d2b4" NAME="POS Beam sus" COLOR="#ffd7549f" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="4">
             <SCENE DASUID="c8192481-9746-48bd-b08e-4f7d7233f90b" NAME="Sus - Pos Beam" COLOR="#ffd7549f" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="8">
                     <FIXTUREDATA FIXTURE="e0734664-8c7d-4b5c-82e9-b4caea44ba0b" DATA="eJxiEPmPARgYgDiZIRhdlIFxDwMmNDMFkQwAAAAA//8="/>
@@ -2791,6 +2821,9 @@
                 <FIXTUREDATAS NB="0"/>
             </SCENE>
             <SCENE DASUID="e776e5cb-ad06-45f3-b8d2-e397b1fca26e" NAME="Movement scena - Pos Beam" COLOR="#ffd7549f" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="0"/>
+            </SCENE>
+            <SCENE DASUID="7bb2b147-c5e5-4fb2-9308-3802c83968b5" NAME="Solist M - Pos Beam" COLOR="#ffd7549f" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
             </SCENE>
         </BANK>
@@ -2831,7 +2864,7 @@
                     <FIXTUREDATA FIXTURE="e83ffd6c-22f6-40cf-ad3e-25f3724737e9" DATA="eJxiEGGo+P+f4T8yYGCA4P9oogyMJiwMDDYMe+DQBk4yAAAAAP//"/>
                 </FIXTUREDATAS>
             </SCENE>
-            <SCENE DASUID="3d95c4e6-5b9e-4672-a06b-6cb27aa20478" NAME="Argintiu - Beam" COLOR="#ff855fa8" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+            <SCENE DASUID="3d95c4e6-5b9e-4672-a06b-6cb27aa20478" NAME="Gold - Beam" COLOR="#ff855fa8" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="8">
                     <FIXTUREDATA FIXTURE="e0734664-8c7d-4b5c-82e9-b4caea44ba0b" DATA="eJxiEGFg+P8fiJAAWARVCCzKwGjDAIJ74NAGTjIAAAAA//8="/>
                     <FIXTUREDATA FIXTURE="832cfa71-465b-49fc-8ecc-d96418236f0d" DATA="eJxiEGFg+P8fiJAAWARVCCzKwGjDAIJ74NAGTjIAAAAA//8="/>
@@ -2956,7 +2989,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="6">
-            <SELECTED_LIVE_SCENES DASUID="e776e5cb-ad06-45f3-b8d2-e397b1fca26e"/>
+            <SELECTED_LIVE_SCENES DASUID="460289a0-1ccc-4557-8d65-577635502473"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
