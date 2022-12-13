@@ -1239,37 +1239,85 @@
                                 <BLOCK TYPE="1" DASUID="84c8df83-4ae3-4c5f-b375-b0b8c5f38147" NAME="Cor Spate - Miscari W" START="165040" END="216440" POSITION="0" FADEIN="720" FADEOUT="3560" SCENEUUID="74569abe-90a5-42fd-87d8-713052644e48">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="7d758604-71d7-4cf9-a9c0-0120794f86a2" NAME="Red Cel ce-a creat - W Jos (2)" START="241360" END="241560" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                <BLOCK TYPE="1" DASUID="e58819f8-7327-4edb-bff6-b4c79848f027" NAME="Red Cel ce-a creat - W Jos (2)" START="241560" END="241760" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="ae44a6d7-4d53-4758-8e61-3d68eff4b570" NAME="Red Cel ce-a creat - W Jos (2)" START="241640" END="241840" POSITION="240" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                <BLOCK TYPE="1" DASUID="452f4f7f-4daa-4d08-a387-80627676a1c1" NAME="Red Cel ce-a creat - W Jos (2)" START="241800" END="242000" POSITION="240" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="9d1af8e7-e7b0-43c1-884c-1be316735aaf" NAME="Red Cel ce-a creat - W Jos (2)" START="242880" END="243080" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                <BLOCK TYPE="1" DASUID="9d1af8e7-e7b0-43c1-884c-1be316735aaf" NAME="Red Cel ce-a creat - W Jos (2)" START="242680" END="242880" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="291ec007-bfb9-4d4b-9007-644bc9356db7" NAME="Red Cel ce-a creat - W Jos (2)" START="243160" END="243360" POSITION="240" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                <BLOCK TYPE="1" DASUID="291ec007-bfb9-4d4b-9007-644bc9356db7" NAME="Red Cel ce-a creat - W Jos (2)" START="242920" END="243120" POSITION="240" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="072ae593-4f60-49db-95aa-a5c0041a45e5" NAME="Red Cel ce-a creat - W Jos (2)" START="244480" END="244680" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                <BLOCK TYPE="1" DASUID="2140b7ce-b45c-42b4-908d-b60bf02ea4bb" NAME="Red Cel ce-a creat - W Jos (2)" START="244640" END="244840" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="e48a33d5-3934-46ed-b621-f0e9391c2d1e" NAME="Red Cel ce-a creat - W Jos (2)" START="244760" END="244960" POSITION="240" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                <BLOCK TYPE="1" DASUID="88ac6f44-a4fb-40ec-ba16-1646f8945219" NAME="Red Cel ce-a creat - W Jos (2)" START="244880" END="245080" POSITION="240" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="d20c7a14-43ca-4f1f-a348-68efef6c0435" NAME="Red Cel ce-a creat - W Jos (2)" START="246000" END="246200" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                <BLOCK TYPE="1" DASUID="987fef6f-afcf-4b39-b0e6-35a7d67d10e0" NAME="Red Cel ce-a creat - W Jos (2)" START="245800" END="246000" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="55c04f0b-3863-4570-94f3-37e7560e13f4" NAME="Red Cel ce-a creat - W Jos (2)" START="246280" END="246480" POSITION="240" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                <BLOCK TYPE="1" DASUID="3273f88d-7119-44d1-b291-6564844874bd" NAME="Red Cel ce-a creat - W Jos (2)" START="246040" END="246240" POSITION="240" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                                 <BLOCK TYPE="1" DASUID="af88d956-7646-46a3-824e-161cf344c21e" NAME="Red Cel ce-a creat - W Jos (2)" START="246960" END="247560" POSITION="240" FADEIN="80" FADEOUT="80" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="bf4e7040-df2f-430a-950e-38cddd938eb9" NAME="Red Cel ce-a creat - W Jos (2)" START="247760" END="247960" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                <BLOCK TYPE="1" DASUID="02735f0f-4fd5-4c90-8f22-fd5a955a587d" NAME="Red Cel ce-a creat - W Jos (2)" START="247800" END="248000" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="84f2972b-6c81-40c7-a252-003f34ed9d42" NAME="Red Cel ce-a creat - W Jos (2)" START="248040" END="248240" POSITION="240" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                <BLOCK TYPE="1" DASUID="730cc340-191e-4b4f-8408-5b7f0c78c439" NAME="Red Cel ce-a creat - W Jos (2)" START="248040" END="248240" POSITION="240" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="0a3a3cd2-772d-49aa-832f-286d063c9743" NAME="Red Cel ce-a creat - W Jos (2)" START="248920" END="249120" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="72fa72f1-d135-41ee-968b-d2729bf39672" NAME="Red Cel ce-a creat - W Jos (2)" START="249160" END="249360" POSITION="240" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="65cd556d-8217-4be2-a919-7aa03412c18f" NAME="Red Cel ce-a creat - W Jos (2)" START="250880" END="251080" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="5f1abb58-088e-489b-b98a-e4b85ceb8477" NAME="Red Cel ce-a creat - W Jos (2)" START="251120" END="251320" POSITION="240" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="b6499866-6a67-4e6a-b9c4-92628035bd2d" NAME="Red Cel ce-a creat - W Jos (2)" START="252040" END="252240" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="eeacbf0d-760c-4f75-82a6-1cd939498d51" NAME="Red Cel ce-a creat - W Jos (2)" START="252280" END="252480" POSITION="240" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="daa7901e-3c97-4c29-b036-0e5c78021f7e" NAME="Red Cel ce-a creat - W Jos (2)" START="253200" END="253800" POSITION="240" FADEIN="80" FADEOUT="80" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="82011e2b-2b1a-4941-96cd-968e0a7f6467" NAME="Red Cel ce-a creat - W Jos (2)" START="254000" END="254200" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="c3d0a1b4-66c3-41c3-a420-bf91ca43c70e" NAME="Red Cel ce-a creat - W Jos (2)" START="254240" END="254440" POSITION="240" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="a0c8b49a-b0fb-4f44-805c-86f92a274e98" NAME="Red Cel ce-a creat - W Jos (2)" START="255120" END="255320" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="fa27c58c-6d01-4e38-b2d0-f8ed0b373e5a" NAME="Red Cel ce-a creat - W Jos (2)" START="255360" END="255560" POSITION="240" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="ba05e168-1096-4662-93a3-7a9e6f89d8af" NAME="Red Cel ce-a creat - W Jos (2)" START="257080" END="257280" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="2b4fab81-49fe-4b98-b64c-1b617eefb28d" NAME="Red Cel ce-a creat - W Jos (2)" START="257320" END="257520" POSITION="240" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="339ac304-2cb4-42d0-b1bb-03f6937008ee" NAME="Red Cel ce-a creat - W Jos (2)" START="258240" END="258440" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="5d07308e-e557-4ad1-96c5-ba41d9021c0c" NAME="Red Cel ce-a creat - W Jos (2)" START="258480" END="258680" POSITION="240" FADEIN="0" FADEOUT="0" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="fac4167a-db06-43dd-b03a-8f29ebc49ace" NAME="Red Cel ce-a creat - W Jos (2)" START="259400" END="266640" POSITION="240" FADEIN="480" FADEOUT="1000" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -1399,6 +1447,13 @@
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="46004b0d-1a39-4d59-a604-874efa39a3ba" NAME="12" INDEX="12">
+                            <BLOCKS>
+                                <BLOCK TYPE="2" DASUID="a7250d59-fdba-4b30-a1cd-60d25d3a34bd" NAME="01 - gr TOBE TUTTI (online-audio-converter" START="0" END="343405" POSITION="0" FADEIN="0" FADEOUT="0" DASTLMEDIAPATH="/Users/emanuelmustea/Downloads/01 - gr TOBE TUTTI (online-audio-converter.com).mp3">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="5078a067-a6dd-4ff5-b982-4aaa707a978c" NAME="13" INDEX="13">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
