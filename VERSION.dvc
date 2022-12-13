@@ -1406,14 +1406,14 @@
                         </TIMELINE>
                         <TIMELINE DASUID="b858646e-df7e-4177-acdc-5229f74d2293" NAME="6" INDEX="6">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="743a5502-5730-4016-a46f-811a8ee7c446" NAME="Red Cel ce-a creat - W Jos" START="0" END="309880" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="f39b2384-b9aa-43c9-9a9c-57cd71138ba2">
+                                <BLOCK TYPE="1" DASUID="743a5502-5730-4016-a46f-811a8ee7c446" NAME="Red Cel ce-a creat - W Jos" START="0" END="332920" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="f39b2384-b9aa-43c9-9a9c-57cd71138ba2">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="1a49520e-0069-491e-b5b8-39c640c6b17f" NAME="7" INDEX="7">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="087e1266-4c1c-4f3c-ad7d-45c5aaaa054e" NAME="White Fill - W Sus" START="0" END="313600" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="fb26d00e-89b7-475c-828b-d4165da38ea8">
+                                <BLOCK TYPE="1" DASUID="087e1266-4c1c-4f3c-ad7d-45c5aaaa054e" NAME="White Fill - W Sus" START="0" END="332920" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="fb26d00e-89b7-475c-828b-d4165da38ea8">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
