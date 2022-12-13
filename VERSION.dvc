@@ -2403,18 +2403,4 @@
             <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:61:0:Network Lumini" OUT1="144:1:61:1:Network Lumini" OUT2="144:1:61:2:Network Lumini"/>
         </SHORTCUT>
         <SHORTCUT TYPE="1">
-            <EVENT DATA="144:1:62:100:Network Lumini"/>
-            <ACTION TYPE="107" TARGET="12003b8d-c83b-4bb3-84c5-4aa223c06e57"/>
-            <SETTINGS SMODE="0" CMODE="0" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:62:0:Network Lumini" OUT1="144:1:62:1:Network Lumini" OUT2="144:1:62:2:Network Lumini"/>
-        </SHORTCUT>
-        <SHORTCUT TYPE="1">
-            <EVENT DATA="144:1:54:100:Network Lumini"/>
-            <ACTION TYPE="107" TARGET="ec9a6fcb-7bf6-4d1b-9944-0f3d25cb76dd"/>
-            <SETTINGS SMODE="0" CMODE="1" TMODE="0" MIN="0" MAX="1" INC="0.001" LOOP="0" FLASH="0" INV="0" PRECISION="0" OUT="144:1:54:0:Network Lumini" OUT1="144:1:54:1:Network Lumini" OUT2="144:1:54:2:Network Lumini"/>
-        </SHORTCUT>
-    </SHORTCUTS>
-    <TOUCH>
-        <TOUCHPAGE DASUID="c192e2c4-837f-4cf6-b479-bec63b520adf" NAME="Page 1" TOUCHCONTROL="0"/>
-    </TOUCH>
-    <DEVICES/>
-</DLMFILE>
+            <EVENT DATA="
