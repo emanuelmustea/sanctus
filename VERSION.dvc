@@ -511,7 +511,7 @@
                         </TIMELINE>
                         <TIMELINE DASUID="42c2d9e0-006a-4add-82e1-dcb3e47b3945" NAME="3" INDEX="3">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="86d3d10f-bcce-49bb-a555-8aa05434425e" NAME="Rosu O holy night" START="0" END="394520" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7ac9c4e7-af41-463c-9efe-342c6be7e880">
+                                <BLOCK TYPE="1" DASUID="86d3d10f-bcce-49bb-a555-8aa05434425e" NAME="Rosu O holy night" START="0" END="480160" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7ac9c4e7-af41-463c-9efe-342c6be7e880">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -531,7 +531,7 @@
                         </TIMELINE>
                         <TIMELINE DASUID="b59095d5-30ab-4b21-93f9-0d758f971adb" NAME="5" INDEX="5">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="e56a4e89-c1b4-4475-87a3-b1ee9ef9d4dc" NAME="Albastru O holy night" START="0" END="396440" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="5782a214-4cee-42c1-8356-6bf2a5c4715a">
+                                <BLOCK TYPE="1" DASUID="e56a4e89-c1b4-4475-87a3-b1ee9ef9d4dc" NAME="Albastru O holy night" START="0" END="479720" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="5782a214-4cee-42c1-8356-6bf2a5c4715a">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -646,6 +646,20 @@
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="42ae80b4-96b1-4109-bb86-f0e9abd73975" NAME="1" INDEX="1">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="084bfc11-0e00-4219-97d2-5ad064c220f1" NAME="Argintiu Intro" START="0" END="2890560" POSITION="-60720" FADEIN="0" FADEOUT="4920" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="3b01f5ca-f158-485b-8c9e-e318a8e461dc" NAME="2" INDEX="2">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="8034a238-3cc3-46df-986d-b93002db984f" NAME="Rosu Intro" START="0" END="2881040" POSITION="0" FADEIN="0" FADEOUT="4880" SCENEUUID="83396883-ec32-4a8a-9336-a7e11a363937">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="814d54c2-48ee-4338-bd00-274ac65b4ec7" NAME="3" INDEX="3">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
@@ -2240,7 +2254,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="6">
-            <SELECTED_LIVE_SCENES DASUID="bca2af8e-7763-4696-970e-55fa8fd3e585"/>
+            <SELECTED_LIVE_SCENES DASUID="2d2cdf85-2dbb-4915-9c4b-27289a17b496"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
