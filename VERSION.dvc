@@ -364,13 +364,13 @@
                                 <BLOCK TYPE="1" DASUID="77b2e983-9643-4a1b-aad3-32ff8598f288" NAME="Blue 1 Alternate" START="36200" END="42120" POSITION="0" FADEIN="400" FADEOUT="640" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="60743b0d-34b3-4609-9a96-befc19f309f6" NAME="Blue 1 Alternate" START="42840" END="50680" POSITION="-40" FADEIN="560" FADEOUT="640" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
+                                <BLOCK TYPE="1" DASUID="60743b0d-34b3-4609-9a96-befc19f309f6" NAME="Blue 1 Alternate" START="42840" END="49680" POSITION="-40" FADEIN="560" FADEOUT="640" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                                 <BLOCK TYPE="1" DASUID="d856fe13-650a-444d-988c-ef22798257a6" NAME="Blue 1 Alternate" START="76040" END="81960" POSITION="0" FADEIN="400" FADEOUT="640" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="f854e4a6-24d5-4d3b-945f-0e86f8343703" NAME="Blue 1 Alternate" START="82680" END="90520" POSITION="-40" FADEIN="560" FADEOUT="640" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
+                                <BLOCK TYPE="1" DASUID="f854e4a6-24d5-4d3b-945f-0e86f8343703" NAME="Blue 1 Alternate" START="82680" END="114960" POSITION="-40" FADEIN="560" FADEOUT="3160" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -380,7 +380,7 @@
                                 <BLOCK TYPE="1" DASUID="7fa89dbe-3303-4d41-8fb5-acb7f6c201c1" NAME="Blue 1 Full" START="32800" END="49040" POSITION="0" FADEIN="720" FADEOUT="400" SCENEUUID="65d2ec93-2c6f-4920-9fb0-92bed21fb401">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="fd662fd4-061b-434d-93e1-a5b54870bd4c" NAME="Blue 1 Full" START="72640" END="119000" POSITION="0" FADEIN="720" FADEOUT="3720" SCENEUUID="65d2ec93-2c6f-4920-9fb0-92bed21fb401">
+                                <BLOCK TYPE="1" DASUID="fd662fd4-061b-434d-93e1-a5b54870bd4c" NAME="Blue 1 Full" START="72640" END="115080" POSITION="0" FADEIN="720" FADEOUT="3720" SCENEUUID="65d2ec93-2c6f-4920-9fb0-92bed21fb401">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                                 <BLOCK TYPE="1" DASUID="51fc0115-b4fd-445e-ae15-0f73beb1815f" NAME="Blue 1 Full" START="141800" END="172720" POSITION="0" FADEIN="720" FADEOUT="3720" SCENEUUID="65d2ec93-2c6f-4920-9fb0-92bed21fb401">
@@ -406,6 +406,13 @@
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="bd8308f2-428e-4a37-b375-440a4ea17f9e" NAME="12" INDEX="12">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="5e52b321-bb4e-4f43-b0b5-d664bf03c404" NAME="JOS -&gt; SUS" START="75240" END="80240" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="c8192481-9746-48bd-b08e-4f7d7233f90b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="9010d07c-359f-44d3-a621-cdad9efd95a2" NAME="13" INDEX="13">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
