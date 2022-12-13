@@ -373,6 +373,9 @@
                                 <BLOCK TYPE="1" DASUID="f854e4a6-24d5-4d3b-945f-0e86f8343703" NAME="Blue 1 Alternate" START="82680" END="114960" POSITION="-40" FADEIN="560" FADEOUT="3160" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
+                                <BLOCK TYPE="1" DASUID="930967a8-deb3-4e89-88de-f9396a284705" NAME="Blue 1 Alternate" START="146000" END="172720" POSITION="-40" FADEIN="560" FADEOUT="3560" SCENEUUID="2a2c7e5b-c7ca-46bf-beb8-87d89cbd3bcc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="8f58959a-e268-4e45-a7ed-ff98be075515" NAME="9" INDEX="9">
@@ -407,12 +410,32 @@
                         </TIMELINE>
                         <TIMELINE DASUID="bd8308f2-428e-4a37-b375-440a4ea17f9e" NAME="12" INDEX="12">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="5e52b321-bb4e-4f43-b0b5-d664bf03c404" NAME="JOS -&gt; SUS" START="75240" END="80240" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="c8192481-9746-48bd-b08e-4f7d7233f90b">
+                                <BLOCK TYPE="1" DASUID="5e52b321-bb4e-4f43-b0b5-d664bf03c404" NAME="JOS -&gt; SUS" START="88800" END="117520" POSITION="0" FADEIN="5800" FADEOUT="0" SCENEUUID="c8192481-9746-48bd-b08e-4f7d7233f90b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="a01ad61a-2f7a-4c7a-8ffb-1276c71e8e6a" NAME="JOS -&gt; SUS" START="141040" END="174280" POSITION="0" FADEIN="5800" FADEOUT="0" SCENEUUID="c8192481-9746-48bd-b08e-4f7d7233f90b">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="9010d07c-359f-44d3-a621-cdad9efd95a2" NAME="13" INDEX="13">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="006fc9ff-1410-41a6-b579-09b63f3fc15d" NAME="Albastru Gabriel - Beam" START="89640" END="115080" POSITION="0" FADEIN="3440" FADEOUT="3360" SCENEUUID="2df1f0b0-074b-4692-9934-5d8e9e92e8da">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="a71c7bcd-ef6b-4c88-82ea-232a7f142f13" NAME="Albastru Gabriel - Beam" START="141760" END="172840" POSITION="0" FADEIN="840" FADEOUT="3360" SCENEUUID="2df1f0b0-074b-4692-9934-5d8e9e92e8da">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="8a8fec01-025a-4a75-850a-47ead944aaff" NAME="14" INDEX="14">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="2913523d-dade-4c84-ba92-692d9841b0dc" NAME="Scena Fast" START="142160" END="147160" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="21a16e5c-e62d-4eae-b0f4-1b645cbcd265">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="8c875a74-5a99-4565-b680-b665ab3e203f" NAME="15" INDEX="15">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
@@ -2143,6 +2166,11 @@
                 </RACK>
             </SCENE>
         </BANK>
+        <BANK DASUID="06e363c5-30ad-427e-8e8c-c4aa6b0c4acc" NAME="Miscari Wash sus" COLOR="#ff0cbccd" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="1">
+            <SCENE DASUID="21a16e5c-e62d-4eae-b0f4-1b645cbcd265" NAME="Scena Fast" COLOR="#ff0cbccd" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="0"/>
+            </SCENE>
+        </BANK>
         <BANK DASUID="336299a4-1ad2-4d5a-9247-8cddfb25d2b4" NAME="POS Beam sus" COLOR="#ffd7549f" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="2">
             <SCENE DASUID="c8192481-9746-48bd-b08e-4f7d7233f90b" NAME="JOS -&gt; SUS" COLOR="#ffd7549f" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="8">
@@ -2160,7 +2188,7 @@
                 <FIXTUREDATAS NB="0"/>
             </SCENE>
         </BANK>
-        <BANK DASUID="7868988e-6151-42aa-b1d3-dd36cdb57000" NAME="CULORI BEAM SUS" COLOR="#ff855fa8" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="2">
+        <BANK DASUID="7868988e-6151-42aa-b1d3-dd36cdb57000" NAME="CULORI BEAM SUS" COLOR="#ff855fa8" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="3">
             <SCENE DASUID="fa7ec491-805a-4fff-b0f2-40c2f5fd6731" NAME="ROSU O Holy night" COLOR="#ff855fa8" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="8">
                     <FIXTUREDATA FIXTURE="24254d7c-0032-48ed-a5ea-be517c3e259f" DATA="eJxiEGHg/P+f4T8Q7/8PBQwMEIwKGBgYGG0YQGAPHNrASQYAAAAA//8="/>
@@ -2183,6 +2211,18 @@
                     <FIXTUREDATA FIXTURE="bed54f6c-81dc-4d88-a698-c1ffb867f213" DATA="eJxiEGHg/P+f4T8CMDxjAHIZkIUg4gwMjDYMILAHDm3gJAMAAAD//w=="/>
                     <FIXTUREDATA FIXTURE="e0734664-8c7d-4b5c-82e9-b4caea44ba0b" DATA="eJxiEGHg/P+f4T8CMDxjAHIZkIUg4gwMjDYMILAHDm3gJAMAAAD//w=="/>
                     <FIXTUREDATA FIXTURE="ddd5312e-4b58-4ed9-bd41-91abffba7f22" DATA="eJxiEGHg/P+f4T8CMDxjAHIZkIUg4gwMjDYMILAHDm3gJAMAAAD//w=="/>
+                </FIXTUREDATAS>
+            </SCENE>
+            <SCENE DASUID="2df1f0b0-074b-4692-9934-5d8e9e92e8da" NAME="Albastru Gabriel - Beam" COLOR="#ff855fa8" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="8">
+                    <FIXTUREDATA FIXTURE="24254d7c-0032-48ed-a5ea-be517c3e259f" DATA="eJxiEGGo+P+f4T8yYGCA4P9oogyMJiwMDDYMe+DQBk4yAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="e83ffd6c-22f6-40cf-ad3e-25f3724737e9" DATA="eJxiEGGo+P+f4T8yYGCA4P9oogyMJiwMDDYMe+DQBk4yAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="90e95faf-0027-4400-a5f4-f93cc0ad2970" DATA="eJxiEGGo+P+f4T8yYGCA4P9oogyMJiwMDDYMe+DQBk4yAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="6c099f97-9aac-403f-bafc-fdd926ee472f" DATA="eJxiEGGo+P+f4T8yYGCA4P9oogyMJiwMDDYMe+DQBk4yAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="832cfa71-465b-49fc-8ecc-d96418236f0d" DATA="eJxiEGGo+P+f4T8yYGCA4P9oogyMJiwMDDYMe+DQBk4yAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="bed54f6c-81dc-4d88-a698-c1ffb867f213" DATA="eJxiEGGo+P+f4T8yYGCA4P9oogyMJiwMDDYMe+DQBk4yAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="e0734664-8c7d-4b5c-82e9-b4caea44ba0b" DATA="eJxiEGGo+P+f4T8yYGCA4P9oogyMJiwMDDYMe+DQBk4yAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="ddd5312e-4b58-4ed9-bd41-91abffba7f22" DATA="eJxiEGGo+P+f4T8yYGCA4P9oogyMJiwMDDYMe+DQBk4yAAAAAP//"/>
                 </FIXTUREDATAS>
             </SCENE>
         </BANK>
@@ -2285,7 +2325,7 @@
                 </FIXTUREDATAS>
             </SCENE>
         </BANK>
-        <DAS_SELECTIONS SELECTED_LIVE_BANK="14">
+        <DAS_SELECTIONS SELECTED_LIVE_BANK="6">
             <SELECTED_LIVE_SCENES DASUID="776590c1-4b18-4794-9b42-621a811bf552"/>
         </DAS_SELECTIONS>
     </SCENES>
