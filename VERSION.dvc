@@ -430,7 +430,7 @@
                         </TIMELINE>
                         <TIMELINE DASUID="8a8fec01-025a-4a75-850a-47ead944aaff" NAME="14" INDEX="14">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="2913523d-dade-4c84-ba92-692d9841b0dc" NAME="Scena Fast" START="142160" END="147160" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="21a16e5c-e62d-4eae-b0f4-1b645cbcd265">
+                                <BLOCK TYPE="1" DASUID="2913523d-dade-4c84-ba92-692d9841b0dc" NAME="Scena Fast" START="141640" END="173000" POSITION="-520" FADEIN="840" FADEOUT="3600" SCENEUUID="21a16e5c-e62d-4eae-b0f4-1b645cbcd265">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
