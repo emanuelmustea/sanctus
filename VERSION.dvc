@@ -1613,10 +1613,23 @@
                                 <BLOCK TYPE="1" DASUID="33dd0bf7-ceaf-4b47-ba4d-fec82d80e16f" NAME="White -  Beam" START="9600" END="89400" POSITION="0" FADEIN="1840" FADEOUT="1560" SCENEUUID="d755ef76-1fef-45af-acb7-d045e869f27c">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
+                                <BLOCK TYPE="1" DASUID="f2c0fb18-0278-4670-9f5b-c86e6d2e960d" NAME="White -  Beam" START="125360" END="160200" POSITION="0" FADEIN="1840" FADEOUT="1560" SCENEUUID="d755ef76-1fef-45af-acb7-d045e869f27c">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="b4df206f-f687-43c8-9627-78ca34089523" NAME="White - Geo" START="161320" END="179680" POSITION="0" FADEIN="560" FADEOUT="1480" SCENEUUID="5aa8ba8c-f5c3-4151-aa19-e7b8c4128efe">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="ff68cdc0-ace1-424d-93ab-30f30cbef69d" NAME="5" INDEX="5">
-                            <BLOCKS/>
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="5247064a-de12-4bb8-9d58-2ba489fcf0d9" NAME="Movement scena - Pos Beam" START="123840" END="160480" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="e776e5cb-ad06-45f3-b8d2-e397b1fca26e">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="babbf8d7-d87c-40ac-a7a2-355deec20f38" NAME="Poz Geo - Pos Beam" START="160480" END="180840" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="57c43e77-04af-4de5-be29-8c2cc22eb856">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="6e58dbd1-e7b1-46c3-be34-4d0ca6db3b10" NAME="6" INDEX="6">
                             <BLOCKS>
@@ -1627,19 +1640,26 @@
                         </TIMELINE>
                         <TIMELINE DASUID="60036e71-104c-4be4-9ec2-4586bb9e4944" NAME="7" INDEX="7">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="abfda0f3-3b47-49b0-9931-92fa6b1ca6ca" NAME="Gold Intro" START="62200" END="160880" POSITION="0" FADEIN="1320" FADEOUT="0" SCENEUUID="3d70ecd5-079f-4895-9d63-d2d9ca0a9916">
+                                <BLOCK TYPE="1" DASUID="abfda0f3-3b47-49b0-9931-92fa6b1ca6ca" NAME="Gold Intro" START="62200" END="161920" POSITION="0" FADEIN="1320" FADEOUT="640" SCENEUUID="3d70ecd5-079f-4895-9d63-d2d9ca0a9916">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="3d416e72-5a9b-4898-a136-cc8361357cde" NAME="8" INDEX="8">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="c3b69005-a700-42cb-9d1c-a2cbf33af7c1" NAME="Gold Intro - W Sus" START="89400" END="94400" POSITION="0" FADEIN="680" FADEOUT="0" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
+                                <BLOCK TYPE="1" DASUID="c3b69005-a700-42cb-9d1c-a2cbf33af7c1" NAME="Gold Intro - W Sus" START="89400" END="161920" POSITION="0" FADEIN="680" FADEOUT="640" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="404da8ba-cf6e-4451-bdcc-ea1f155c98e3" NAME="9" INDEX="9">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="401e4d23-f705-4b5a-9096-d8b297a5c76c" NAME="Pozitie FIll - Miscari W" START="125440" END="206720" POSITION="0" FADEIN="1800" FADEOUT="0" SCENEUUID="252b78f3-c2ca-41c9-abf3-99756ba22350">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="d3c51483-9827-4231-ba82-3914da8046f4" NAME="10" INDEX="10">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
@@ -2855,7 +2875,7 @@
                 <FIXTUREDATAS NB="0"/>
             </SCENE>
         </BANK>
-        <BANK DASUID="336299a4-1ad2-4d5a-9247-8cddfb25d2b4" NAME="POS Beam sus" COLOR="#ffd7549f" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="4">
+        <BANK DASUID="336299a4-1ad2-4d5a-9247-8cddfb25d2b4" NAME="POS Beam sus" COLOR="#ffd7549f" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="5">
             <SCENE DASUID="c8192481-9746-48bd-b08e-4f7d7233f90b" NAME="Sus - Pos Beam" COLOR="#ffd7549f" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="8">
                     <FIXTUREDATA FIXTURE="90e95faf-0027-4400-a5f4-f93cc0ad2970" DATA="eJxiEPmPARgYgDiZIRhdlIFxDwMmNDMFkQwAAAAA//8="/>
@@ -2877,8 +2897,13 @@
             <SCENE DASUID="7bb2b147-c5e5-4fb2-9308-3802c83968b5" NAME="Solist M - Pos Beam" COLOR="#ffd7549f" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
             </SCENE>
+            <SCENE DASUID="57c43e77-04af-4de5-be29-8c2cc22eb856" NAME="Poz Geo - Pos Beam" COLOR="#ffd7549f" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="1">
+                    <FIXTUREDATA FIXTURE="24254d7c-0032-48ed-a5ea-be517c3e259f" DATA="eJxiEPkPBgwc/+GAgQGCUQEDAwPjHgZckAEAAAD//w=="/>
+                </FIXTUREDATAS>
+            </SCENE>
         </BANK>
-        <BANK DASUID="7868988e-6151-42aa-b1d3-dd36cdb57000" NAME="CULORI BEAM SUS" COLOR="#ff855fa8" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="5">
+        <BANK DASUID="7868988e-6151-42aa-b1d3-dd36cdb57000" NAME="CULORI BEAM SUS" COLOR="#ff855fa8" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="6">
             <SCENE DASUID="fa7ec491-805a-4fff-b0f2-40c2f5fd6731" NAME="ROSU O Holy night" COLOR="#ff855fa8" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="8">
                     <FIXTUREDATA FIXTURE="90e95faf-0027-4400-a5f4-f93cc0ad2970" DATA="eJxiEGHg/P+f4T8Q7/8PBQwMEIwKGBgYGG0YQGAPHNrASQYAAAAA//8="/>
@@ -2937,6 +2962,11 @@
                     <FIXTUREDATA FIXTURE="ddd5312e-4b58-4ed9-bd41-91abffba7f22" DATA="eJxiEGFg+v+f4T8yYGCA4P9oogyMNgwguAcObeAkAwAAAP//"/>
                     <FIXTUREDATA FIXTURE="bed54f6c-81dc-4d88-a698-c1ffb867f213" DATA="eJxiEGFg+v+f4T8yYGCA4P9oogyMNgwguAcObeAkAwAAAP//"/>
                     <FIXTUREDATA FIXTURE="e83ffd6c-22f6-40cf-ad3e-25f3724737e9" DATA="eJxiEGFg+v+f4T8yYGCA4P9oogyMNgwguAcObeAkAwAAAP//"/>
+                </FIXTUREDATAS>
+            </SCENE>
+            <SCENE DASUID="5aa8ba8c-f5c3-4151-aa19-e7b8c4128efe" NAME="White - Geo" COLOR="#ff855fa8" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="1">
+                    <FIXTUREDATA FIXTURE="24254d7c-0032-48ed-a5ea-be517c3e259f" DATA="eJxiEGFg+P8fiJAAWARVCCzKwGjDAIJ74NAGTjIAAAAA//8="/>
                 </FIXTUREDATAS>
             </SCENE>
         </BANK>
