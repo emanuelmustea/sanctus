@@ -1643,11 +1643,20 @@
                                 <BLOCK TYPE="1" DASUID="abfda0f3-3b47-49b0-9931-92fa6b1ca6ca" NAME="Gold Intro" START="62200" END="161920" POSITION="0" FADEIN="1320" FADEOUT="640" SCENEUUID="3d70ecd5-079f-4895-9d63-d2d9ca0a9916">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
+                                <BLOCK TYPE="1" DASUID="d17f131a-44ef-46be-b3e4-53c94bb62150" NAME="Gold Intro" START="213240" END="312960" POSITION="0" FADEIN="3280" FADEOUT="640" SCENEUUID="3d70ecd5-079f-4895-9d63-d2d9ca0a9916">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="3d416e72-5a9b-4898-a136-cc8361357cde" NAME="8" INDEX="8">
                             <BLOCKS>
                                 <BLOCK TYPE="1" DASUID="c3b69005-a700-42cb-9d1c-a2cbf33af7c1" NAME="Gold Intro - W Sus" START="89400" END="161920" POSITION="0" FADEIN="680" FADEOUT="640" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="361333e5-eaf9-4dd9-ac52-9ecdaa0b783e" NAME="Gold Intro - W Sus" START="213200" END="252320" POSITION="0" FADEIN="3320" FADEOUT="2360" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="bc3c1344-be91-4453-bef5-cf689d51befb" NAME="Gold Intro - W Sus" START="267320" END="306440" POSITION="0" FADEIN="1600" FADEOUT="2360" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -1657,9 +1666,19 @@
                                 <BLOCK TYPE="1" DASUID="401e4d23-f705-4b5a-9096-d8b297a5c76c" NAME="Pozitie FIll - Miscari W" START="125440" END="206720" POSITION="0" FADEIN="1800" FADEOUT="0" SCENEUUID="252b78f3-c2ca-41c9-abf3-99756ba22350">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
+                                <BLOCK TYPE="1" DASUID="906cd3d9-b042-4d6d-9658-5a82cd305ca6" NAME="Pozitie FIll - Miscari W" START="230720" END="270760" POSITION="0" FADEIN="1720" FADEOUT="0" SCENEUUID="252b78f3-c2ca-41c9-abf3-99756ba22350">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="d3c51483-9827-4231-ba82-3914da8046f4" NAME="10" INDEX="10">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="e0b3e46a-ae05-480d-ab83-28e7efcf7c35" NAME="Cor Spate - Miscari W" START="208600" END="234840" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="74569abe-90a5-42fd-87d8-713052644e48">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="1900d33a-6e0f-4421-8b77-e849edc389e7" NAME="11" INDEX="11">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
