@@ -1890,7 +1890,11 @@
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="fc8adbdd-8e0d-46ca-9803-ca57117ee927" NAME="3" INDEX="3">
-                            <BLOCKS/>
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="9d8a3670-d42f-4fe1-9c28-56e6095e8ad1" NAME="Tobe Dan Geo - Pos Beam" START="5400" END="10400" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="780afba1-7200-46bc-9eca-982b36ce5271">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="2862dce1-cc09-472f-9eea-c5714860ad5c" NAME="4" INDEX="4">
                             <BLOCKS>
@@ -1900,7 +1904,11 @@
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="91c3728e-f3ea-4062-bcde-4708ce232d5e" NAME="5" INDEX="5">
-                            <BLOCKS/>
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="3ea1ca8e-e70e-498b-89c4-648b0c78469d" NAME="Tobe Oni Cristi - Pos Beam" START="5480" END="10480" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="d6520e82-9a6c-4f7b-8704-66443b75f7ce">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="fe5688a5-6e6d-445b-89d4-2974f39c2a51" NAME="6" INDEX="6">
                             <BLOCKS>
@@ -3261,7 +3269,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="6">
-            <SELECTED_LIVE_SCENES DASUID="ec368a42-a765-4ff4-89e5-2da2e5013059"/>
+            <SELECTED_LIVE_SCENES DASUID="7f28a876-cf67-4740-8870-4aa9e0d65cb1"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
