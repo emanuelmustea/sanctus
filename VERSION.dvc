@@ -2473,21 +2473,6 @@
                         </TIMELINE>
                         <TIMELINE DASUID="12e231f8-4a8b-4467-8130-b8e134578b20" NAME="4" INDEX="4">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="e1601ec7-0124-4823-b026-f9eed97fb456" NAME="Mov - O come o come emanuel - W Jos" START="21360" END="22960" POSITION="0" FADEIN="160" FADEOUT="1280" SCENEUUID="4be85a5e-063d-4ea8-8774-38dd679f6d66">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                                <BLOCK TYPE="1" DASUID="b3fc96c6-980c-4506-a3af-4b2a6aa9b369" NAME="Mov - O come o come emanuel - W Jos" START="25680" END="27280" POSITION="0" FADEIN="160" FADEOUT="1280" SCENEUUID="4be85a5e-063d-4ea8-8774-38dd679f6d66">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                                <BLOCK TYPE="1" DASUID="0e7318eb-e158-461a-8dc3-e883c922763c" NAME="Mov - O come o come emanuel - W Jos" START="30000" END="31600" POSITION="0" FADEIN="160" FADEOUT="1280" SCENEUUID="4be85a5e-063d-4ea8-8774-38dd679f6d66">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                                <BLOCK TYPE="1" DASUID="e81c6f0b-6d77-43df-9889-a4f4d7d609f7" NAME="Mov - O come o come emanuel - W Jos" START="34320" END="35920" POSITION="0" FADEIN="160" FADEOUT="1280" SCENEUUID="4be85a5e-063d-4ea8-8774-38dd679f6d66">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                                <BLOCK TYPE="1" DASUID="9a8d24e3-95f4-465d-9fa5-2f4f590b4341" NAME="Mov 40% - O come o come emanuel - W Jos " START="37200" END="50320" POSITION="0" FADEIN="1640" FADEOUT="0" SCENEUUID="448d8581-3cae-4fe7-8004-9dfd59c3b07f">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
                                 <BLOCK TYPE="1" DASUID="e782d335-36ae-496d-bac1-03928daecfd0" NAME="Full - Cor" START="67640" END="107120" POSITION="0" FADEIN="6280" FADEOUT="3400" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
@@ -2503,24 +2488,40 @@
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="6164c61e-4b7c-4982-8d5d-26b348a8d5c4" NAME="5" INDEX="5">
+                            <BLOCKS/>
+                        </TIMELINE>
+                        <TIMELINE DASUID="7c83791a-2957-4bbf-a6fa-13096730d040" NAME="6" INDEX="6">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="e1601ec7-0124-4823-b026-f9eed97fb456" NAME="Mov - O come o come emanuel - W Jos" START="21360" END="22960" POSITION="0" FADEIN="160" FADEOUT="1280" SCENEUUID="4be85a5e-063d-4ea8-8774-38dd679f6d66">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="b3fc96c6-980c-4506-a3af-4b2a6aa9b369" NAME="Mov - O come o come emanuel - W Jos" START="25680" END="27280" POSITION="0" FADEIN="160" FADEOUT="1280" SCENEUUID="4be85a5e-063d-4ea8-8774-38dd679f6d66">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="0e7318eb-e158-461a-8dc3-e883c922763c" NAME="Mov - O come o come emanuel - W Jos" START="30000" END="31600" POSITION="0" FADEIN="160" FADEOUT="1280" SCENEUUID="4be85a5e-063d-4ea8-8774-38dd679f6d66">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="e81c6f0b-6d77-43df-9889-a4f4d7d609f7" NAME="Mov - O come o come emanuel - W Jos" START="34320" END="35920" POSITION="0" FADEIN="160" FADEOUT="1280" SCENEUUID="4be85a5e-063d-4ea8-8774-38dd679f6d66">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="9a8d24e3-95f4-465d-9fa5-2f4f590b4341" NAME="Mov 40% - O come o come emanuel - W Jos " START="37200" END="50320" POSITION="0" FADEIN="1640" FADEOUT="0" SCENEUUID="448d8581-3cae-4fe7-8004-9dfd59c3b07f">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="943595fa-cbbb-42a3-8342-0cdc74e7b452" NAME="7" INDEX="7">
                             <BLOCKS>
                                 <BLOCK TYPE="1" DASUID="f7018eb7-cc0c-404d-b6d9-97f9426b3162" NAME="Mov 10% - O come o come emanuel - W Jos " START="21560" END="40360" POSITION="-40" FADEIN="0" FADEOUT="0" SCENEUUID="a7c07524-a0ec-4a72-aa89-220f6b4b207f">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
-                        <TIMELINE DASUID="7c83791a-2957-4bbf-a6fa-13096730d040" NAME="6" INDEX="6">
+                        <TIMELINE DASUID="b9b22a92-11b8-48eb-a540-5c03ceda5899" NAME="8" INDEX="8">
                             <BLOCKS>
                                 <BLOCK TYPE="1" DASUID="8f7b17ca-5fa6-4fad-bee9-6f722bb4590a" NAME="Pulse Mov - O come o come Emmanuel - W Jos" START="3320" END="24240" POSITION="0" FADEIN="1160" FADEOUT="0" SCENEUUID="28400c07-6398-4d17-9b3e-00f52a2a2357">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
-                        </TIMELINE>
-                        <TIMELINE DASUID="943595fa-cbbb-42a3-8342-0cdc74e7b452" NAME="7" INDEX="7">
-                            <BLOCKS/>
-                        </TIMELINE>
-                        <TIMELINE DASUID="b9b22a92-11b8-48eb-a540-5c03ceda5899" NAME="8" INDEX="8">
-                            <BLOCKS/>
                         </TIMELINE>
                         <TIMELINE DASUID="4b62a52d-2483-41c9-98a8-e44424406825" NAME="9" INDEX="9">
                             <BLOCKS/>
