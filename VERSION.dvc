@@ -2186,7 +2186,7 @@
                         </TIMELINE>
                         <TIMELINE DASUID="556dc4eb-04f6-44ac-8703-96c08a8fd185" NAME="5" INDEX="5">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="2466f7a4-8c9b-44cf-80df-483a762d1420" NAME="Full - Scena Mica" START="176040" END="253600" POSITION="0" FADEIN="5640" FADEOUT="1800" SCENEUUID="ea1ca220-2722-4843-b4fc-6940deffb3d4">
+                                <BLOCK TYPE="1" DASUID="2466f7a4-8c9b-44cf-80df-483a762d1420" NAME="Full - Scena Mica" START="176040" END="253560" POSITION="0" FADEIN="5640" FADEOUT="1800" SCENEUUID="ea1ca220-2722-4843-b4fc-6940deffb3d4">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -2196,7 +2196,7 @@
                                 <BLOCK TYPE="1" DASUID="848569a1-b514-48aa-8d0d-0a56818c2863" NAME="Full Turcoaz We tree kings - W Jos" START="41040" END="42400" POSITION="0" FADEIN="320" FADEOUT="920" SCENEUUID="d3112f85-d232-4a66-9d57-71a625b1d14c">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="c38a2da0-9a18-404b-a14a-300b4138f092" NAME="Pulse Turcoaz We tree kings" START="204760" END="227960" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="35c97557-0f2b-4e70-a290-25c6e20f249b">
+                                <BLOCK TYPE="1" DASUID="c38a2da0-9a18-404b-a14a-300b4138f092" NAME="Pulse Turcoaz We tree kings" START="204760" END="253560" POSITION="0" FADEIN="0" FADEOUT="1800" SCENEUUID="35c97557-0f2b-4e70-a290-25c6e20f249b">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
