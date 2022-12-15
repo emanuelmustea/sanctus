@@ -2567,7 +2567,28 @@
                                 <BLOCK TYPE="1" DASUID="f6fc2f56-5086-4ed2-aed8-3c3d8a5c678c" NAME="Full - Solist St" START="154320" END="238920" POSITION="117040" FADEIN="120" FADEOUT="4560" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="152d3509-d109-4eef-b828-2eeccd61a919" NAME="Full - Solist St" START="244080" END="313960" POSITION="206800" FADEIN="0" FADEOUT="4000" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
+                                <BLOCK TYPE="1" DASUID="13a71f6a-8f28-479c-8857-1fc0905bc16b" NAME="1-6 White - W Sus" START="272000" END="272920" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="a85d5c10-3c9f-4e48-8a04-7d1268014dac">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="d2745735-c3ec-4bcb-be55-f05fe89b0a6f" NAME="1-6 White - W Sus" START="274360" END="275280" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="a85d5c10-3c9f-4e48-8a04-7d1268014dac">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="20357140-dcd0-41e9-8f19-36e3e3479df0" NAME="1-6 White - W Sus" START="276680" END="277600" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="a85d5c10-3c9f-4e48-8a04-7d1268014dac">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="9fb27f7b-13f6-4c65-b389-95a5f8693278" NAME="1-6 White - W Sus" START="279120" END="280040" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="a85d5c10-3c9f-4e48-8a04-7d1268014dac">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="2ff1f7df-b571-43e4-8815-6e766a49bef4" NAME="1-6 White - W Sus" START="281400" END="282320" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="a85d5c10-3c9f-4e48-8a04-7d1268014dac">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="8669ed26-39dc-4ea7-9474-9d1e26f55994" NAME="1-6 White - W Sus" START="283800" END="284720" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="a85d5c10-3c9f-4e48-8a04-7d1268014dac">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="f4c0bbcf-3ab0-41f7-b50f-8d26007f8bb5" NAME="1-6 White - W Sus" START="286280" END="287200" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="a85d5c10-3c9f-4e48-8a04-7d1268014dac">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="a25e33da-9c96-4bd7-b3e7-3015a396f706" NAME="Full - Solist St" START="289840" END="313960" POSITION="252560" FADEIN="6320" FADEOUT="4000" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -2583,7 +2604,28 @@
                                 <BLOCK TYPE="1" DASUID="20ce7993-2828-4cb5-a093-9fe1d9ac6ad4" NAME="Full - Solist M." START="154320" END="238920" POSITION="117120" FADEIN="120" FADEOUT="4640" SCENEUUID="0e4b634b-aa4d-4927-9ebc-5f9c6997f844">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="e3d6d1c2-5729-4856-99a6-482710f2d0df" NAME="Full - Solist M." START="243920" END="313960" POSITION="206720" FADEIN="0" FADEOUT="4080" SCENEUUID="0e4b634b-aa4d-4927-9ebc-5f9c6997f844">
+                                <BLOCK TYPE="1" DASUID="67f0426b-8872-437d-a5ce-fd3f59bfc02c" NAME="2-5 White - W Sus " START="272320" END="273240" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="17e60553-9149-4222-9696-b1932d15e010">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="2166d51f-d244-4836-b33e-a97325cdfac9" NAME="2-5 White - W Sus " START="274680" END="275600" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="17e60553-9149-4222-9696-b1932d15e010">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="8ea0aac8-69bb-4e11-b1f3-0e9ca97f0fb1" NAME="2-5 White - W Sus " START="277000" END="277920" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="17e60553-9149-4222-9696-b1932d15e010">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="2f3f1b14-1b92-40f5-b89e-1638184149be" NAME="2-5 White - W Sus " START="279440" END="280360" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="17e60553-9149-4222-9696-b1932d15e010">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="404800e0-a8b2-4790-8007-ee8c49fc8581" NAME="2-5 White - W Sus " START="281720" END="282640" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="17e60553-9149-4222-9696-b1932d15e010">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="e13b00af-a6e6-46b7-bcfa-21c6651e7230" NAME="2-5 White - W Sus " START="284120" END="285040" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="17e60553-9149-4222-9696-b1932d15e010">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="8ccd1ae0-dcfc-445c-a260-08c880e14bc3" NAME="2-5 White - W Sus " START="286600" END="287520" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="17e60553-9149-4222-9696-b1932d15e010">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="b2c7e36b-246d-40b2-9b5b-762cbc56ef6f" NAME="Full - Solist M." START="289880" END="313960" POSITION="252680" FADEIN="6280" FADEOUT="4080" SCENEUUID="0e4b634b-aa4d-4927-9ebc-5f9c6997f844">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -2605,13 +2647,110 @@
                                 <BLOCK TYPE="1" DASUID="09d544f8-81ac-4349-8a20-6c5cf586340d" NAME="Full - Cor" START="201440" END="238920" POSITION="0" FADEIN="6280" FADEOUT="4560" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
+                                <BLOCK TYPE="1" DASUID="238f2a36-6641-45c0-8258-a50d1eed1095" NAME="1-6 White - W Sus" START="243360" END="244280" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="a85d5c10-3c9f-4e48-8a04-7d1268014dac">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="e759be8e-4210-4eb0-aa77-53c3fda47a42" NAME="2-5 White - W Sus " START="248120" END="249040" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="17e60553-9149-4222-9696-b1932d15e010">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="b76b7999-6719-45be-8c6d-bdace76a382d" NAME="1-6 White - W Sus" START="252840" END="253760" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="a85d5c10-3c9f-4e48-8a04-7d1268014dac">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="808d7008-df19-492e-9369-8ed5d21d25e7" NAME="2-5 White - W Sus " START="255200" END="256120" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="17e60553-9149-4222-9696-b1932d15e010">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="2f79224e-16fa-4956-93d0-e495b0f4104c" NAME="1-6 White - W Sus" START="257680" END="258600" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="a85d5c10-3c9f-4e48-8a04-7d1268014dac">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="885a7a7b-ee81-4012-97da-d20b7d187c41" NAME="2-5 White - W Sus " START="260040" END="260960" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="17e60553-9149-4222-9696-b1932d15e010">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="63b8b511-5938-4032-814e-9551ac7fdec7" NAME="1-6 White - W Sus" START="262400" END="263320" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="a85d5c10-3c9f-4e48-8a04-7d1268014dac">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="ccd74073-5ef1-4958-9309-3a6ed3a5387f" NAME="2-5 White - W Sus " START="264760" END="265680" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="17e60553-9149-4222-9696-b1932d15e010">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="7ad373f9-1846-414e-9ea3-5d5e61db8e63" NAME="1-6 White - W Sus" START="267240" END="268160" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="a85d5c10-3c9f-4e48-8a04-7d1268014dac">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="1ad7e894-e790-48be-bdf3-8630fa6f4b19" NAME="3-8 White - W Sus" START="272720" END="273640" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="9adf2c79-94eb-4705-8bb2-16afb8b8992b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="9231482b-ae6b-4f6c-8145-d9a30262e3f8" NAME="3-8 White - W Sus" START="275080" END="276000" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="9adf2c79-94eb-4705-8bb2-16afb8b8992b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="c8ecd571-22fb-4fee-908f-b629306c5800" NAME="3-8 White - W Sus" START="277400" END="278320" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="9adf2c79-94eb-4705-8bb2-16afb8b8992b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="b6d824bb-5f0d-4b2d-895c-4ba32ffaf6a0" NAME="3-8 White - W Sus" START="279840" END="280760" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="9adf2c79-94eb-4705-8bb2-16afb8b8992b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="0a5e6a2b-b8ef-496b-a0a7-52186189dd65" NAME="3-8 White - W Sus" START="282120" END="283040" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="9adf2c79-94eb-4705-8bb2-16afb8b8992b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="3476f6db-996e-4430-add1-f8d874f60a5b" NAME="3-8 White - W Sus" START="284520" END="285440" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="9adf2c79-94eb-4705-8bb2-16afb8b8992b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="3710d984-c884-437b-a37b-fadac2c854f8" NAME="3-8 White - W Sus" START="287000" END="287920" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="9adf2c79-94eb-4705-8bb2-16afb8b8992b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
                                 <BLOCK TYPE="1" DASUID="0248a1d6-d950-4a09-b991-0640ccc9017e" NAME="Full - Cor" START="289840" END="314000" POSITION="0" FADEIN="6280" FADEOUT="4320" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="6164c61e-4b7c-4982-8d5d-26b348a8d5c4" NAME="5" INDEX="5">
-                            <BLOCKS/>
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="d8958c40-665d-4d99-8698-a88931c6d7a0" NAME="3-8 White - W Sus" START="243720" END="244640" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="9adf2c79-94eb-4705-8bb2-16afb8b8992b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="a0c93efd-43ee-4eed-a5ff-d1e07e5ee384" NAME="4-7 White - W Sus" START="248520" END="249440" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="0860b7ab-0730-4ca3-8fe3-95ffabef0380">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="b7a91294-4ac5-4514-adc8-eb4d7d27bbac" NAME="3-8 White - W Sus" START="253200" END="254120" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="9adf2c79-94eb-4705-8bb2-16afb8b8992b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="6939c6bc-929b-4a89-af67-2ce0f5dd4876" NAME="4-7 White - W Sus" START="255600" END="256520" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="0860b7ab-0730-4ca3-8fe3-95ffabef0380">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="62e70507-9e72-4bfa-bae8-013ef494332d" NAME="3-8 White - W Sus" START="258040" END="258960" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="9adf2c79-94eb-4705-8bb2-16afb8b8992b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="af99f825-3f84-4697-9091-e87aec9ceb75" NAME="4-7 White - W Sus" START="260440" END="261360" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="0860b7ab-0730-4ca3-8fe3-95ffabef0380">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="63271b05-d474-45df-83ad-7443319f5ddb" NAME="3-8 White - W Sus" START="262760" END="263680" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="9adf2c79-94eb-4705-8bb2-16afb8b8992b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="0cf8c259-2f02-4a1a-939a-77b8e66acbef" NAME="4-7 White - W Sus" START="265160" END="266080" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="0860b7ab-0730-4ca3-8fe3-95ffabef0380">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="337ec6aa-305c-40c4-8e9e-9f99f6a19e64" NAME="3-8 White - W Sus" START="267600" END="268520" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="9adf2c79-94eb-4705-8bb2-16afb8b8992b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="283d6d17-147c-44e5-afc2-1201dc43d019" NAME="4-7 White - W Sus" START="273120" END="274040" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="0860b7ab-0730-4ca3-8fe3-95ffabef0380">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="edb55625-c041-4fb6-8585-214c79e9145d" NAME="4-7 White - W Sus" START="275480" END="276400" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="0860b7ab-0730-4ca3-8fe3-95ffabef0380">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="96bb0868-98c4-48dc-b034-0c803a8e5d66" NAME="4-7 White - W Sus" START="277800" END="278720" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="0860b7ab-0730-4ca3-8fe3-95ffabef0380">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="173c3986-f8db-4573-819a-9e58b16ee86a" NAME="4-7 White - W Sus" START="280240" END="281160" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="0860b7ab-0730-4ca3-8fe3-95ffabef0380">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="dd90055a-a686-4387-b245-33deb517b03e" NAME="4-7 White - W Sus" START="282520" END="283440" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="0860b7ab-0730-4ca3-8fe3-95ffabef0380">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="68f5f5c1-72c5-4ba0-9fc1-8966bfaa40c1" NAME="4-7 White - W Sus" START="284920" END="285840" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="0860b7ab-0730-4ca3-8fe3-95ffabef0380">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="446928ba-035f-435d-b7cc-a2b39eddc2b4" NAME="4-7 White - W Sus" START="287400" END="288320" POSITION="0" FADEIN="80" FADEOUT="800" SCENEUUID="0860b7ab-0730-4ca3-8fe3-95ffabef0380">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="7c83791a-2957-4bbf-a6fa-13096730d040" NAME="6" INDEX="6">
                             <BLOCKS>
@@ -2657,7 +2796,7 @@
                                 <BLOCK TYPE="1" DASUID="a60a05ed-2982-4c64-843b-5163a49d7ef4" NAME="Mov - O come o come emanuel - W Jos" START="167280" END="168880" POSITION="0" FADEIN="160" FADEOUT="1280" SCENEUUID="4be85a5e-063d-4ea8-8774-38dd679f6d66">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="7778880f-340c-4771-a6a0-ba66dd02043d" NAME="Mov 40% - O come o come emanuel - W Jos " START="171760" END="278520" POSITION="0" FADEIN="1640" FADEOUT="440" SCENEUUID="448d8581-3cae-4fe7-8004-9dfd59c3b07f">
+                                <BLOCK TYPE="1" DASUID="7778880f-340c-4771-a6a0-ba66dd02043d" NAME="Mov 40% - O come o come emanuel - W Jos " START="171760" END="313120" POSITION="0" FADEIN="1640" FADEOUT="440" SCENEUUID="448d8581-3cae-4fe7-8004-9dfd59c3b07f">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -2836,7 +2975,7 @@
                 </FIXTUREDATAS>
             </SCENE>
         </BANK>
-        <BANK DASUID="624966bc-469b-493e-82c0-b2baebd40d69" NAME="W Bara sus" COLOR="#fff69031" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="16">
+        <BANK DASUID="624966bc-469b-493e-82c0-b2baebd40d69" NAME="W Bara sus" COLOR="#fff69031" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="19">
             <SCENE DASUID="5ec9ba66-9076-478f-80da-f235fa5d04ca" NAME="Gold Intro - W Sus" COLOR="#fff69031" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="8">
                     <FIXTUREDATA FIXTURE="3f41b441-87ba-4d4d-bfc9-29264baac020" DATA="eJxikGBg+P8fhEGAoR6I/zPsZjD6jwYQogwMDDw2DJZPjcL2MKBCCyBmGJUiUgoAAAD//w=="/>
@@ -3176,8 +3315,29 @@
                     </BEAMS>
                 </RACK>
             </SCENE>
-            <SCENE DASUID="a85d5c10-3c9f-4e48-8a04-7d1268014dac" NAME="1-8 White - W Sus" COLOR="#fff69031" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
-                <FIXTUREDATAS NB="0"/>
+            <SCENE DASUID="a85d5c10-3c9f-4e48-8a04-7d1268014dac" NAME="1-6 White - W Sus" COLOR="#fff69031" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="2">
+                    <FIXTUREDATA FIXTURE="3f41b441-87ba-4d4d-bfc9-29264baac020" DATA="eJxikGBg+P8fhEGAwQeI/zP8YfjzHw0gRBkYGHhsGKzfWr/dw4AKTc7sYWAYlSJSCgAAAP//"/>
+                    <FIXTUREDATA FIXTURE="dd6f94b5-1398-4462-87e8-fcd60d4d62a8" DATA="eJxikGBg+P8fhEGAwQeI/zP8YfjzHw0gRBkYGHhsGKzfWr/dw4AKTc7sYWAYlSJSCgAAAP//"/>
+                </FIXTUREDATAS>
+            </SCENE>
+            <SCENE DASUID="17e60553-9149-4222-9696-b1932d15e010" NAME="2-5 White - W Sus " COLOR="#fff69031" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="2">
+                    <FIXTUREDATA FIXTURE="34f04ab5-fbd2-4bac-a3dd-285114b0fb30" DATA="eJxikGBg+P8fhEGAwQeIwRAdIEQZGBh4bBhAcA8aNDmzh4FhVIpIKQAAAAD//w=="/>
+                    <FIXTUREDATA FIXTURE="2f460253-8398-4873-8083-ea0958dc3658" DATA="eJxikGBg+P8fhEGAwQeIwRAdIEQZGBh4bBhAcA8aNDmzh4FhVIpIKQAAAAD//w=="/>
+                </FIXTUREDATAS>
+            </SCENE>
+            <SCENE DASUID="9adf2c79-94eb-4705-8bb2-16afb8b8992b" NAME="3-8 White - W Sus" COLOR="#fff69031" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="2">
+                    <FIXTUREDATA FIXTURE="aba7866f-0a08-4ba9-8699-5d06ae019bee" DATA="eJxikGBg+P8fhEGAwQeIwRAdIEQZGBh4bBhAcA8aNDmzh4FhVIpIKQAAAAD//w=="/>
+                    <FIXTUREDATA FIXTURE="a2bf81c0-31d8-4028-ac68-e94110b88164" DATA="eJxikGBg+P8fhEGAwQeIwRAdIEQZGBh4bBhAcA8aNDmzh4FhVIpIKQAAAAD//w=="/>
+                </FIXTUREDATAS>
+            </SCENE>
+            <SCENE DASUID="0860b7ab-0730-4ca3-8fe3-95ffabef0380" NAME="4-7 White - W Sus" COLOR="#fff69031" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="2">
+                    <FIXTUREDATA FIXTURE="6ec0539c-3302-4009-94ba-c39853202d98" DATA="eJxikGBg+P8fhEGAwQeIwRAdIEQZGBh4bBhAcA8aNDmzh4FhVIpIKQAAAAD//w=="/>
+                    <FIXTUREDATA FIXTURE="3ada8017-4e29-4a3e-a576-20b9d7186fde" DATA="eJxikGBg+P8fhEGAwQeIwRAdIEQZGBh4bBhAcA8aNDmzh4FhVIpIKQAAAAD//w=="/>
+                </FIXTUREDATAS>
             </SCENE>
         </BANK>
         <BANK DASUID="7337f289-9346-4799-9570-be3e0a6b2b64" NAME="W Bara jos" COLOR="#ffed1552" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="24">
@@ -5571,7 +5731,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="6">
-            <SELECTED_LIVE_SCENES DASUID="a85d5c10-3c9f-4e48-8a04-7d1268014dac"/>
+            <SELECTED_LIVE_SCENES DASUID="72fa691b-c42d-401b-9a54-b03fd184a769"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
