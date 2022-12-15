@@ -2504,7 +2504,7 @@
                                 <BLOCK TYPE="1" DASUID="e81c6f0b-6d77-43df-9889-a4f4d7d609f7" NAME="Mov - O come o come emanuel - W Jos" START="34320" END="35920" POSITION="0" FADEIN="160" FADEOUT="1280" SCENEUUID="4be85a5e-063d-4ea8-8774-38dd679f6d66">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="9a8d24e3-95f4-465d-9fa5-2f4f590b4341" NAME="Mov 40% - O come o come emanuel - W Jos " START="37200" END="50320" POSITION="0" FADEIN="1640" FADEOUT="0" SCENEUUID="448d8581-3cae-4fe7-8004-9dfd59c3b07f">
+                                <BLOCK TYPE="1" DASUID="9a8d24e3-95f4-465d-9fa5-2f4f590b4341" NAME="Mov 40% - O come o come emanuel - W Jos " START="37200" END="103800" POSITION="0" FADEIN="1640" FADEOUT="0" SCENEUUID="448d8581-3cae-4fe7-8004-9dfd59c3b07f">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -2528,12 +2528,26 @@
                         </TIMELINE>
                         <TIMELINE DASUID="43ca8360-bc5b-444c-bfbc-f31fde9f66ab" NAME="10" INDEX="10">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="1499b541-3895-4170-b6bd-2a8ff21839cb" NAME="Sus - Pos Beam" START="0" END="53080" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="c8192481-9746-48bd-b08e-4f7d7233f90b">
+                                <BLOCK TYPE="1" DASUID="897855fb-81c3-441d-b158-e8f40f761246" NAME="White Fill - W Sus" START="38000" END="87480" POSITION="0" FADEIN="840" FADEOUT="0" SCENEUUID="fb26d00e-89b7-475c-828b-d4165da38ea8">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="adc9151e-06b2-4261-9d93-7d5bbf760803" NAME="11" INDEX="11">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="b08fbcf3-87e4-4fab-bed8-2d22352e45b5" NAME="Evantai Public - Miscari W." START="30920" END="86520" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="5efa4077-8b47-4157-8c7c-2d3a8f8c77fc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="3409d79f-0153-48f2-bdd5-0a4607bc72b8" NAME="12" INDEX="12">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="1499b541-3895-4170-b6bd-2a8ff21839cb" NAME="Sus - Pos Beam" START="0" END="96760" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="c8192481-9746-48bd-b08e-4f7d7233f90b">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="7b8876c9-08eb-416b-a94c-1ccdb1758f53" NAME="13" INDEX="13">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
@@ -2744,14 +2758,14 @@
             </SCENE>
             <SCENE DASUID="fb26d00e-89b7-475c-828b-d4165da38ea8" NAME="White Fill - W Sus" COLOR="#fff69031" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="8">
-                    <FIXTUREDATA FIXTURE="3f41b441-87ba-4d4d-bfc9-29264baac020" DATA="eJxikGBg+P8fhEGAYSaIDQb/UQFCEEjxQHh7gNAGTEKgxZk9UM2jUoSlAAAAAP//"/>
-                    <FIXTUREDATA FIXTURE="aba7866f-0a08-4ba9-8699-5d06ae019bee" DATA="eJxikGBg+P8fhEGAYSaIDQb/UQFCEEjxQHh7gNAGTEKgxZk9UM2jUoSlAAAAAP//"/>
-                    <FIXTUREDATA FIXTURE="dd6f94b5-1398-4462-87e8-fcd60d4d62a8" DATA="eJxikGBg+P8fhEGAYSaIDQb/UQFCEEjxQHh7gNAGTEKgxZk9UM2jUoSlAAAAAP//"/>
-                    <FIXTUREDATA FIXTURE="6ec0539c-3302-4009-94ba-c39853202d98" DATA="eJxikGBg+P8fhEGAYSaIDQb/UQFCEEjxQHh7gNAGTEKgxZk9UM2jUoSlAAAAAP//"/>
-                    <FIXTUREDATA FIXTURE="3ada8017-4e29-4a3e-a576-20b9d7186fde" DATA="eJxikGBg+P8fhEGAYSaIDQb/UQFCEEjxQHh7gNAGTEKgxZk9UM2jUoSlAAAAAP//"/>
-                    <FIXTUREDATA FIXTURE="a2bf81c0-31d8-4028-ac68-e94110b88164" DATA="eJxikGBg+P8fhEGAYSaIDQb/UQFCEEjxQHh7gNAGTEKgxZk9UM2jUoSlAAAAAP//"/>
-                    <FIXTUREDATA FIXTURE="34f04ab5-fbd2-4bac-a3dd-285114b0fb30" DATA="eJxikGBg+P8fhEGAYSaIDQb/UQFCEEjxQHh7gNAGTEKgxZk9UM2jUoSlAAAAAP//"/>
-                    <FIXTUREDATA FIXTURE="2f460253-8398-4873-8083-ea0958dc3658" DATA="eJxikGBg+P8fhEGAYSaIDQb/UQFCEEjxQHh7gNAGTEKgxZk9UM2jUoSlAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="3f41b441-87ba-4d4d-bfc9-29264baac020" DATA="eJxikGBg+P8fhEGAYSYQQyBUBAYgomAWAwOPDQMI7gFCBjAJgRZngPxRKSKlAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="aba7866f-0a08-4ba9-8699-5d06ae019bee" DATA="eJxikGBg+P8fhEGAYSYQQyBUBAYgomAWAwOPDQMI7gFCBjAJgRZngPxRKSKlAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="dd6f94b5-1398-4462-87e8-fcd60d4d62a8" DATA="eJxikGBg+P8fhEGAYSYQQyBUBAYgomAWAwOPDQMI7gFCBjAJgRZngPxRKSKlAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="6ec0539c-3302-4009-94ba-c39853202d98" DATA="eJxikGBg+P8fhEGAYSYQQyBUBAYgomAWAwOPDQMI7gFCBjAJgRZngPxRKSKlAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="3ada8017-4e29-4a3e-a576-20b9d7186fde" DATA="eJxikGBg+P8fhEGAYSYQQyBUBAYgomAWAwOPDQMI7gFCBjAJgRZngPxRKSKlAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="a2bf81c0-31d8-4028-ac68-e94110b88164" DATA="eJxikGBg+P8fhEGAYSYQQyBUBAYgomAWAwOPDQMI7gFCBjAJgRZngPxRKSKlAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="34f04ab5-fbd2-4bac-a3dd-285114b0fb30" DATA="eJxikGBg+P8fhEGAYSYQQyBUBAYgomAWAwOPDQMI7gFCBjAJgRZngPxRKSKlAAAAAP//"/>
+                    <FIXTUREDATA FIXTURE="2f460253-8398-4873-8083-ea0958dc3658" DATA="eJxikGBg+P8fhEGAYSYQQyBUBAYgomAWAwOPDQMI7gFCBjAJgRZngPxRKSKlAAAAAP//"/>
                 </FIXTUREDATAS>
             </SCENE>
             <SCENE DASUID="d3924ca3-2de5-41b6-b586-54ff01434990" NAME="White Pulse - A inceput - Wash sus" COLOR="#fff69031" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
@@ -4961,7 +4975,7 @@
                 </FIXTUREDATAS>
             </SCENE>
         </BANK>
-        <BANK DASUID="06e363c5-30ad-427e-8e8c-c4aa6b0c4acc" NAME="Miscari Wash sus" COLOR="#ff0cbccd" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="12">
+        <BANK DASUID="06e363c5-30ad-427e-8e8c-c4aa6b0c4acc" NAME="Miscari Wash sus" COLOR="#ff0cbccd" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="13">
             <SCENE DASUID="21a16e5c-e62d-4eae-b0f4-1b645cbcd265" NAME="Scena Fast - Miscari W" COLOR="#ff0cbccd" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
             </SCENE>
@@ -4996,6 +5010,9 @@
                 <FIXTUREDATAS NB="0"/>
             </SCENE>
             <SCENE DASUID="252b78f3-c2ca-41c9-abf3-99756ba22350" NAME="Pozitie FIll - Miscari W" COLOR="#ff0cbccd" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+                <FIXTUREDATAS NB="0"/>
+            </SCENE>
+            <SCENE DASUID="5efa4077-8b47-4157-8c7c-2d3a8f8c77fc" NAME="Evantai Public - Miscari W." COLOR="#ff0cbccd" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
             </SCENE>
         </BANK>
