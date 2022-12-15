@@ -2102,7 +2102,7 @@
             </SCENE>
             <SCENE DASUID="798e9352-64e3-43a9-b212-4eb43aca8b28" NAME="We Three Kings " COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="50" FADE_OUT="50" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
-                <RACK TYPE="1" DURATION="8721">
+                <RACK TYPE="1" DURATION="6450">
                     <TIMELINES>
                         <TIMELINE DASUID="04d1ae94-8f3d-4540-9d4b-66409f9a37f7" NAME="0" INDEX="0">
                             <BLOCKS>
@@ -2153,7 +2153,7 @@
                                 <BLOCK TYPE="1" DASUID="7e9d3960-bf0a-4f35-bfd6-32d5c61ec7f1" NAME="Full - Solist St" START="16880" END="175560" POSITION="880" FADEIN="2120" FADEOUT="3280" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="9349f4f2-7298-4c48-a333-e9ef330fd401" NAME="Full - Solist St" START="204280" END="257760" POSITION="0" FADEIN="2120" FADEOUT="5760" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
+                                <BLOCK TYPE="1" DASUID="9349f4f2-7298-4c48-a333-e9ef330fd401" NAME="Full - Solist St" START="204280" END="253600" POSITION="0" FADEIN="2120" FADEOUT="1800" SCENEUUID="6605f549-160a-489b-b562-5cc52aed5fcc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -2163,7 +2163,7 @@
                                 <BLOCK TYPE="1" DASUID="58a1193e-5e5c-4570-9447-69e93d9c2522" NAME="Full - Solist Dr" START="16880" END="175560" POSITION="880" FADEIN="2080" FADEOUT="3320" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="4595f0fe-bda1-410a-bbca-bfb041da9ab4" NAME="Full - Solist Dr" START="204080" END="257680" POSITION="0" FADEIN="2080" FADEOUT="5720" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
+                                <BLOCK TYPE="1" DASUID="4595f0fe-bda1-410a-bbca-bfb041da9ab4" NAME="Full - Solist Dr" START="204080" END="253600" POSITION="0" FADEIN="2080" FADEOUT="1800" SCENEUUID="81fcb688-f676-4cb3-a61a-818d2f9a5849">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -2179,14 +2179,14 @@
                                 <BLOCK TYPE="1" DASUID="f14f9c2f-0d72-49e9-a73e-97875367ac93" NAME="Full - Cor" START="125520" END="175520" POSITION="0" FADEIN="2240" FADEOUT="3400" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="279554c7-2985-4d0b-a2ed-0aa4cad6f72b" NAME="Full - Cor" START="203920" END="257720" POSITION="0" FADEIN="2240" FADEOUT="5680" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
+                                <BLOCK TYPE="1" DASUID="279554c7-2985-4d0b-a2ed-0aa4cad6f72b" NAME="Full - Cor" START="203920" END="253560" POSITION="0" FADEIN="2240" FADEOUT="1760" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="556dc4eb-04f6-44ac-8703-96c08a8fd185" NAME="5" INDEX="5">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="2466f7a4-8c9b-44cf-80df-483a762d1420" NAME="Full - Scena Mica" START="176040" END="257720" POSITION="0" FADEIN="5640" FADEOUT="5760" SCENEUUID="ea1ca220-2722-4843-b4fc-6940deffb3d4">
+                                <BLOCK TYPE="1" DASUID="2466f7a4-8c9b-44cf-80df-483a762d1420" NAME="Full - Scena Mica" START="176040" END="253600" POSITION="0" FADEIN="5640" FADEOUT="1800" SCENEUUID="ea1ca220-2722-4843-b4fc-6940deffb3d4">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -2203,17 +2203,39 @@
                                 <BLOCK TYPE="1" DASUID="9a6d4577-ddd9-430d-9b88-7c469999d103" NAME="Turcoaz We tree kings - W Jos" START="16920" END="175520" POSITION="0" FADEIN="2040" FADEOUT="3520" SCENEUUID="6aad8c46-b7c4-4e7f-8673-18574cabd7bc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="a8d4048b-7da2-45df-916c-4230157cf145" NAME="Turcoaz We tree kings - W Jos" START="190240" END="348840" POSITION="0" FADEIN="2040" FADEOUT="3520" SCENEUUID="6aad8c46-b7c4-4e7f-8673-18574cabd7bc">
+                                <BLOCK TYPE="1" DASUID="a8d4048b-7da2-45df-916c-4230157cf145" NAME="Turcoaz We tree kings - W Jos" START="190880" END="191880" POSITION="680" FADEIN="320" FADEOUT="360" SCENEUUID="6aad8c46-b7c4-4e7f-8673-18574cabd7bc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="cf86c279-f6f8-422c-883c-3655d3d4af70" NAME="Turcoaz We tree kings - W Jos" START="192240" END="193240" POSITION="680" FADEIN="320" FADEOUT="360" SCENEUUID="6aad8c46-b7c4-4e7f-8673-18574cabd7bc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="2da5d1db-31c0-45e7-8e31-975e6f50798f" NAME="Turcoaz We tree kings - W Jos" START="193600" END="196080" POSITION="680" FADEIN="320" FADEOUT="360" SCENEUUID="6aad8c46-b7c4-4e7f-8673-18574cabd7bc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="82880a98-af11-4762-bc0e-7fa023118c0c" NAME="Turcoaz We tree kings - W Jos" START="203800" END="204240" POSITION="680" FADEIN="200" FADEOUT="200" SCENEUUID="6aad8c46-b7c4-4e7f-8673-18574cabd7bc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="72eea5b2-2d97-48c3-93fd-4f66c1d0acc5" NAME="Turcoaz We tree kings - W Jos" START="204240" END="204680" POSITION="680" FADEIN="200" FADEOUT="200" SCENEUUID="6aad8c46-b7c4-4e7f-8673-18574cabd7bc">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="af6157e1-9818-4265-8275-8b1edecbf24a" NAME="Turcoaz We tree kings - W Jos" START="204840" END="253560" POSITION="680" FADEIN="200" FADEOUT="1760" SCENEUUID="6aad8c46-b7c4-4e7f-8673-18574cabd7bc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="690b8304-c393-4dcc-b19f-fc1c36ef5523" NAME="8" INDEX="8">
-                            <BLOCKS/>
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="1956bd75-10f0-4a2f-bb5b-bd4f2fd38681" NAME="Movement scena - Pos Beam" START="228080" END="254760" POSITION="0" FADEIN="1080" FADEOUT="0" SCENEUUID="e776e5cb-ad06-45f3-b8d2-e397b1fca26e">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="ab42c5d8-4df3-4d73-80a3-0093bd0f2555" NAME="9" INDEX="9">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="066357d5-2b82-4dd9-bcb7-bfaec4e64a81" NAME="Gold Intro - W Sus" START="75880" END="175560" POSITION="0" FADEIN="600" FADEOUT="3520" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
+                                <BLOCK TYPE="1" DASUID="066357d5-2b82-4dd9-bcb7-bfaec4e64a81" NAME="Gold Intro - W Sus" START="75840" END="175520" POSITION="0" FADEIN="600" FADEOUT="3520" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="d63b6b1f-54ed-4116-aa91-14095ef0445d" NAME="Gold Intro - W Sus" START="204840" END="253560" POSITION="0" FADEIN="200" FADEOUT="1760" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -2232,7 +2254,10 @@
                                 <BLOCK TYPE="1" DASUID="74a476a8-1fe4-4744-a715-e7dff1d3d442" NAME="Gold - Beam" START="149000" END="175560" POSITION="0" FADEIN="600" FADEOUT="3480" SCENEUUID="3d95c4e6-5b9e-4672-a06b-6cb27aa20478">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="7b045bef-5a43-4e44-99b4-85bc6faf4987" NAME="Gold - Beam" START="176240" END="207440" POSITION="0" FADEIN="5400" FADEOUT="960" SCENEUUID="3d95c4e6-5b9e-4672-a06b-6cb27aa20478">
+                                <BLOCK TYPE="1" DASUID="7b045bef-5a43-4e44-99b4-85bc6faf4987" NAME="Gold - Beam" START="176240" END="203880" POSITION="0" FADEIN="5400" FADEOUT="960" SCENEUUID="3d95c4e6-5b9e-4672-a06b-6cb27aa20478">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="2c445581-6cc4-4843-a991-610f3383bfef" NAME="Gold - Beam" START="204840" END="253560" POSITION="0" FADEIN="200" FADEOUT="1800" SCENEUUID="3d95c4e6-5b9e-4672-a06b-6cb27aa20478">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -2257,14 +2282,17 @@
                                 <BLOCK TYPE="1" DASUID="854d3084-56c0-4f24-804d-7ebf30cebd06" NAME="Sus - Pos Beam" START="149040" END="175560" POSITION="1240" FADEIN="0" FADEOUT="23720" SCENEUUID="c8192481-9746-48bd-b08e-4f7d7233f90b">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="0a497884-476c-497d-9994-66b041ddbb56" NAME="Scena mica - POS Beam" START="175560" END="208080" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="24fdd97f-a2c5-4b55-92cc-46067182bd34">
+                                <BLOCK TYPE="1" DASUID="0a497884-476c-497d-9994-66b041ddbb56" NAME="Scena mica - POS Beam" START="175560" END="203840" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="24fdd97f-a2c5-4b55-92cc-46067182bd34">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="e28120bd-fefe-4316-92de-65aee86f1aaa" NAME="Sus - Pos Beam" START="203840" END="231120" POSITION="0" FADEIN="0" FADEOUT="26000" SCENEUUID="c8192481-9746-48bd-b08e-4f7d7233f90b">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="492fc86c-e96b-4359-a01b-2cec60bdd221" NAME="12" INDEX="12">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="8d3517e9-9b04-4c98-b1e4-ae3e9561bdba" NAME="Pozitie FIll - Miscari W" START="147480" END="209160" POSITION="0" FADEIN="680" FADEOUT="2840" SCENEUUID="252b78f3-c2ca-41c9-abf3-99756ba22350">
+                                <BLOCK TYPE="1" DASUID="8d3517e9-9b04-4c98-b1e4-ae3e9561bdba" NAME="Pozitie FIll - Miscari W" START="147480" END="253600" POSITION="0" FADEIN="680" FADEOUT="1800" SCENEUUID="252b78f3-c2ca-41c9-abf3-99756ba22350">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
