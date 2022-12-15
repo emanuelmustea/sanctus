@@ -2639,7 +2639,7 @@
                                 <BLOCK TYPE="1" DASUID="5d2ab281-b33b-49b6-b695-e87c15204c39" NAME="Evantai Sus - Miscari W" START="70080" END="87760" POSITION="0" FADEIN="4040" FADEOUT="3960" SCENEUUID="2378fbd5-e8e5-4b73-a094-32b355b2e76b">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="b6435926-ecdf-438a-80e7-cd649f599fc2" NAME="Chaser - W Sus" START="88040" END="97680" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="07cabec2-168a-41f5-b883-592bf3d66c39">
+                                <BLOCK TYPE="1" DASUID="b6435926-ecdf-438a-80e7-cd649f599fc2" NAME="Chaser - W Sus" START="88560" END="97680" POSITION="520" FADEIN="560" FADEOUT="0" SCENEUUID="07cabec2-168a-41f5-b883-592bf3d66c39">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
