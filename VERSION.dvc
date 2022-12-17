@@ -895,6 +895,13 @@
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="1fbcf1e5-f5bc-4086-a2eb-fd7bf04d265a" NAME="11" INDEX="11">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="00e1c8a7-4893-42a1-b6b7-27cb58a901b3" NAME="(D) Scena Centru- Miscari W" START="0" END="259280" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="acebb675-f243-4b6c-b5d5-789f2b9eb518">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="1aa3536f-08c3-4cc0-af1f-9ae277b71613" NAME="12" INDEX="12">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
@@ -4614,7 +4621,7 @@
         </BANK>
         <BANK DASUID="09aaa5d5-5017-47d8-9088-6b7652c7f656" NAME="Fum" COLOR="#ffed1552" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="0"/>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="20">
-            <SELECTED_LIVE_SCENES DASUID="a7c07524-a0ec-4a72-aa89-220f6b4b207f"/>
+            <SELECTED_LIVE_SCENES DASUID="2be33f2c-d85c-4dba-8951-dd87f7f6458b"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
