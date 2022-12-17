@@ -550,7 +550,7 @@
                         </TIMELINE>
                         <TIMELINE DASUID="4776a662-f71a-46a4-bab9-508966f7978d" NAME="2" INDEX="2">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="58aa6054-539f-4a3a-b092-e2bd6e96af86" NAME="Rosu OHN - Full" START="318480" END="375680" POSITION="0" FADEIN="680" FADEOUT="5440" SCENEUUID="2a5faef2-27d9-42e6-bea5-c3c40c94c026">
+                                <BLOCK TYPE="1" DASUID="58aa6054-539f-4a3a-b092-e2bd6e96af86" NAME="Rosu OHN - Full" START="318440" END="375640" POSITION="0" FADEIN="680" FADEOUT="5440" SCENEUUID="2a5faef2-27d9-42e6-bea5-c3c40c94c026">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
