@@ -4384,7 +4384,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.255" MAX="0.4">
-                            <BEAMS DASUID="8a96f6e2-0258-4263-9de9-e31ac38a01e9" NAME="" NB="40">
+                            <BEAMS DASUID="e4a6407f-cb7e-45f4-9ecf-8332ea4f7e0e" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -4475,7 +4475,7 @@
             <SCENE DASUID="1e1d87e4-a21d-4e81-a3c0-8464504af560" NAME="Sin pe Sala - Miscari W" COLOR="#ff0cbccd" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
                 <RACK EXPAND_RACK="1" TYPE="8">
-                    <EFFECT TYPE="5" ID="7" DURATION="5000">
+                    <EFFECT TYPE="5" ID="7" DURATION="25000">
                         <PARAMS NB="5">
                             <PARAM TYPE="0" ID="1" VAL="4"/>
                             <PARAM TYPE="1" ID="2" VAL="1"/>
@@ -4486,7 +4486,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.15" MAX="0.58">
-                            <BEAMS DASUID="5a65d9dc-f0fe-4824-9c95-b7979b82b278" NAME="" NB="40">
+                            <BEAMS DASUID="05c5fdd0-7edc-404f-9aae-530b21d95716" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -5116,7 +5116,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="8">
-            <SELECTED_LIVE_SCENES DASUID="86e6927b-4b8c-4b40-8dd0-b05e69c7754e"/>
+            <SELECTED_LIVE_SCENES DASUID="9ae2ff7e-0b18-4420-8128-c48ef8f460c0"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
