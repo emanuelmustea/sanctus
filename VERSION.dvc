@@ -560,9 +560,11 @@
                                 <BLOCK TYPE="1" DASUID="86d3d10f-bcce-49bb-a555-8aa05434425e" NAME="Rosu O holy night" START="0" END="480160" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7ac9c4e7-af41-463c-9efe-342c6be7e880">
                                     <DASTLSUBLINES DASTLNB="1">
                                         <DASTLSUBLINE DASTLTYPE="0">
-                                            <DASTLKEYPOINTS DASTLNB="2">
+                                            <DASTLKEYPOINTS DASTLNB="4">
                                                 <DASTLKEYPOINT DASTLPOSITION="4626" DASTLTRANSITION="0" DASTLDATA="0.285714" DASTLTYPE="4"/>
                                                 <DASTLKEYPOINT DASTLPOSITION="4649" DASTLTRANSITION="0" DASTLDATA="1" DASTLTYPE="4"/>
+                                                <DASTLKEYPOINT DASTLPOSITION="5899" DASTLTRANSITION="0" DASTLDATA="1" DASTLTYPE="4"/>
+                                                <DASTLKEYPOINT DASTLPOSITION="6035" DASTLTRANSITION="0" DASTLDATA="0.5" DASTLTYPE="4"/>
                                             </DASTLKEYPOINTS>
                                         </DASTLSUBLINE>
                                     </DASTLSUBLINES>
@@ -675,8 +677,17 @@
                                         </DASTLSUBLINE>
                                     </DASTLSUBLINES>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="73804d02-d8f0-4b2b-a3f0-4faede06b2d1" NAME="ROSU O Holy night" START="317000" END="374040" POSITION="0" FADEIN="5880" FADEOUT="2400" SCENEUUID="fa7ec491-805a-4fff-b0f2-40c2f5fd6731">
-                                    <DASTLSUBLINES DASTLNB="0"/>
+                                <BLOCK TYPE="1" DASUID="73804d02-d8f0-4b2b-a3f0-4faede06b2d1" NAME="ROSU O Holy night" START="317000" END="374040" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="fa7ec491-805a-4fff-b0f2-40c2f5fd6731">
+                                    <DASTLSUBLINES DASTLNB="1">
+                                        <DASTLSUBLINE DASTLTYPE="0">
+                                            <DASTLKEYPOINTS DASTLNB="4">
+                                                <DASTLKEYPOINT DASTLPOSITION="8.00035" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
+                                                <DASTLKEYPOINT DASTLPOSITION="140" DASTLTRANSITION="0" DASTLDATA="1" DASTLTYPE="4"/>
+                                                <DASTLKEYPOINT DASTLPOSITION="1358" DASTLTRANSITION="0" DASTLDATA="1" DASTLTYPE="4"/>
+                                                <DASTLKEYPOINT DASTLPOSITION="1417" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
+                                            </DASTLKEYPOINTS>
+                                        </DASTLSUBLINE>
+                                    </DASTLSUBLINES>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
@@ -729,6 +740,13 @@
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="814d54c2-48ee-4338-bd00-274ac65b4ec7" NAME="3" INDEX="3">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="8f9fa970-afd0-4b20-9fe0-91e1d8901b78" NAME="(D) Scena Centru- Miscari W" START="0" END="2881080" POSITION="-279000" FADEIN="0" FADEOUT="0" SCENEUUID="acebb675-f243-4b6c-b5d5-789f2b9eb518">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="a7c0ddea-a3b9-4d46-aded-3f7d1a3bb1a2" NAME="4" INDEX="4">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
@@ -3326,26 +3344,43 @@
                             </FIXTUREDATAS>
                         </STEP>
                         <STEP WAITTIME="0" FADETIME="7">
-                            <FIXTUREDATAS NB="0"/>
+                            <FIXTUREDATAS NB="16">
+                                <FIXTUREDATA FIXTURE="0ceedca8-b339-459d-a4ba-38e9584ece39" DATA="eJxiYGf4DwIMDAzuDBCakYHBpMqGYQ8aBIkwAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="d61b84c5-5cb8-4003-98eb-880734e7b21d" DATA="eJxiYGf4DwIMDAzuDBCakYHBpMqGYQ8aBIkwAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="5176ab2f-aea0-442a-ac70-ee04eecfbc6f" DATA="eJxiYGf4DwIMDAzuDBCakYHBpMqGYQ8aBIkwAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="e7e6df82-6369-4525-b8d6-9a1c34b70949" DATA="eJxiYGf4DwIMDAzuDBCakYHBpMqGYQ8aBIkwAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="1a40b473-4ae1-446e-b632-9cdbb0e95073" DATA="eJxiYGf4DwIMDAzuDBCakYHBpMqGYQ8aBIkwAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="fc83665e-c9ed-4aa6-8dc2-0316bb6a5601" DATA="eJxiYGf4DwIMDAzuDBCakYHBpMqGYQ8aBIkwAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="31cdd1a7-7cf1-4d85-bbf6-8eb02624bc76" DATA="eJxiYGf4DwIMDAzuDBCakYHBpMqGYQ8aBIkwAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="6a15da35-1d6e-4dea-a254-113f370632f3" DATA="eJxiYGf4DwIMDAzuDBCakYHBpMqGYQ8aBIkwAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="d3609736-db36-4030-881b-5973586b5d64" DATA="eJxiYGf4DwIMDAzuDBCakYHBpMqGYQ8aBIkwAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="0329acc3-5b30-4ac2-8acb-c881089156d3" DATA="eJxiYGf4DwIMDAzuDBCakYHBpMqGYQ8aBIkwAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="20c40a2f-de3e-4569-8300-b233f3a70b17" DATA="eJxiYGf4DwIMDAzuDBCakYHBpMqGYQ8aBIkwAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="4c2155ba-f5db-49fc-b76c-bdbd846226a4" DATA="eJxiYGf4DwIMDAzuDBCakYHBpMqGYQ8aBIkwAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="4964df8d-9cc5-49d2-afe6-91ee08dba538" DATA="eJxiYGf4DwIMDAzuDBCakYHBpMqGYQ8aBIkwAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="ce4dfb8e-a90d-43be-84a3-d969778c0b02" DATA="eJxiYGf4DwIMDAzuDBCakYHBpMqGYQ8aBIkwAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="f5533787-c971-47e2-82e8-9b0a6616d454" DATA="eJxiYGf4DwIMDAzuDBCakYHBpMqGYQ8aBIkwAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="1f3ba8ef-f737-4363-b552-9ad7d4365400" DATA="eJxiYGf4DwIMDAzuDBCakYHBpMqGYQ8aBIkwAAAAAP//"/>
+                            </FIXTUREDATAS>
                         </STEP>
                         <STEP WAITTIME="1" FADETIME="0">
                             <FIXTUREDATAS NB="16">
-                                <FIXTUREDATA FIXTURE="0ceedca8-b339-459d-a4ba-38e9584ece39" DATA="eJxiYP8PBgwMDGoMEJqRgcHgjA3DHiyQAQAAAP//"/>
-                                <FIXTUREDATA FIXTURE="d61b84c5-5cb8-4003-98eb-880734e7b21d" DATA="eJxiYP8PBgwMDGoMEJqRgcHgjA3DHiyQAQAAAP//"/>
-                                <FIXTUREDATA FIXTURE="5176ab2f-aea0-442a-ac70-ee04eecfbc6f" DATA="eJxiYP8PBgwMDGoMEJqRgcHgjA3DHiyQAQAAAP//"/>
-                                <FIXTUREDATA FIXTURE="e7e6df82-6369-4525-b8d6-9a1c34b70949" DATA="eJxiYP8PBgwMDGoMEJqRgcHgjA3DHiyQAQAAAP//"/>
-                                <FIXTUREDATA FIXTURE="1a40b473-4ae1-446e-b632-9cdbb0e95073" DATA="eJxiYP8PBgwMDGoMEJqRgcHgjA3DHiyQAQAAAP//"/>
-                                <FIXTUREDATA FIXTURE="fc83665e-c9ed-4aa6-8dc2-0316bb6a5601" DATA="eJxiYP8PBgwMDGoMEJqRgcHgjA3DHiyQAQAAAP//"/>
-                                <FIXTUREDATA FIXTURE="31cdd1a7-7cf1-4d85-bbf6-8eb02624bc76" DATA="eJxiYP8PBgwMDGoMEJqRgcHgjA3DHiyQAQAAAP//"/>
-                                <FIXTUREDATA FIXTURE="6a15da35-1d6e-4dea-a254-113f370632f3" DATA="eJxiYP8PBgwMDGoMEJqRgcHgjA3DHiyQAQAAAP//"/>
-                                <FIXTUREDATA FIXTURE="d3609736-db36-4030-881b-5973586b5d64" DATA="eJxiYP8PBgwMDGoMEJqRgcHgjA3DHiyQAQAAAP//"/>
-                                <FIXTUREDATA FIXTURE="0329acc3-5b30-4ac2-8acb-c881089156d3" DATA="eJxiYP8PBgwMDGoMEJqRgcHgjA3DHiyQAQAAAP//"/>
-                                <FIXTUREDATA FIXTURE="20c40a2f-de3e-4569-8300-b233f3a70b17" DATA="eJxiYP8PBgwMDGoMEJqRgcHgjA3DHiyQAQAAAP//"/>
-                                <FIXTUREDATA FIXTURE="4c2155ba-f5db-49fc-b76c-bdbd846226a4" DATA="eJxiYP8PBgwMDGoMEJqRgcHgjA3DHiyQAQAAAP//"/>
-                                <FIXTUREDATA FIXTURE="4964df8d-9cc5-49d2-afe6-91ee08dba538" DATA="eJxiYP8PBgwMDGoMEJqRgcHgjA3DHiyQAQAAAP//"/>
-                                <FIXTUREDATA FIXTURE="ce4dfb8e-a90d-43be-84a3-d969778c0b02" DATA="eJxiYP8PBgwMDGoMEJqRgcHgjA3DHiyQAQAAAP//"/>
-                                <FIXTUREDATA FIXTURE="f5533787-c971-47e2-82e8-9b0a6616d454" DATA="eJxiYP8PBgwMDGoMEJqRgcHgjA3DHiyQAQAAAP//"/>
-                                <FIXTUREDATA FIXTURE="1f3ba8ef-f737-4363-b552-9ad7d4365400" DATA="eJxiYP8PBgwMDGoMEJqRgcHgjA3DHiyQAQAAAP//"/>
+                                <FIXTUREDATA FIXTURE="0ceedca8-b339-459d-a4ba-38e9584ece39" DATA="eJxiYGf4DwIMDAxqDLZgmpGBweCM8bo9DKjQBogZAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="d61b84c5-5cb8-4003-98eb-880734e7b21d" DATA="eJxiYGf4DwIMDAxqDLZgmpGBweCM8bo9DKjQBogZAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="5176ab2f-aea0-442a-ac70-ee04eecfbc6f" DATA="eJxiYGf4DwIMDAxqDLZgmpGBweCM8bo9DKjQBogZAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="e7e6df82-6369-4525-b8d6-9a1c34b70949" DATA="eJxiYGf4DwIMDAxqDLZgmpGBweCM8bo9DKjQBogZAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="1a40b473-4ae1-446e-b632-9cdbb0e95073" DATA="eJxiYGf4DwIMDAxqDLZgmpGBweCM8bo9DKjQBogZAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="fc83665e-c9ed-4aa6-8dc2-0316bb6a5601" DATA="eJxiYGf4DwIMDAxqDLZgmpGBweCM8bo9DKjQBogZAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="31cdd1a7-7cf1-4d85-bbf6-8eb02624bc76" DATA="eJxiYGf4DwIMDAxqDLZgmpGBweCM8bo9DKjQBogZAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="6a15da35-1d6e-4dea-a254-113f370632f3" DATA="eJxiYGf4DwIMDAxqDLZgmpGBweCM8bo9DKjQBogZAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="d3609736-db36-4030-881b-5973586b5d64" DATA="eJxiYGf4DwIMDAxqDLZgmpGBweCM8bo9DKjQBogZAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="0329acc3-5b30-4ac2-8acb-c881089156d3" DATA="eJxiYGf4DwIMDAxqDLZgmpGBweCM8bo9DKjQBogZAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="20c40a2f-de3e-4569-8300-b233f3a70b17" DATA="eJxiYGf4DwIMDAxqDLZgmpGBweCM8bo9DKjQBogZAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="4c2155ba-f5db-49fc-b76c-bdbd846226a4" DATA="eJxiYGf4DwIMDAxqDLZgmpGBweCM8bo9DKjQBogZAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="4964df8d-9cc5-49d2-afe6-91ee08dba538" DATA="eJxiYGf4DwIMDAxqDLZgmpGBweCM8bo9DKjQBogZAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="ce4dfb8e-a90d-43be-84a3-d969778c0b02" DATA="eJxiYGf4DwIMDAxqDLZgmpGBweCM8bo9DKjQBogZAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="f5533787-c971-47e2-82e8-9b0a6616d454" DATA="eJxiYGf4DwIMDAxqDLZgmpGBweCM8bo9DKjQBogZAAAAAP//"/>
+                                <FIXTUREDATA FIXTURE="1f3ba8ef-f737-4363-b552-9ad7d4365400" DATA="eJxiYGf4DwIMDAxqDLZgmpGBweCM8bo9DKjQBogZAAAAAP//"/>
                             </FIXTUREDATAS>
                         </STEP>
                     </STEPS>
@@ -4189,7 +4224,7 @@
         </BANK>
         <BANK DASUID="09aaa5d5-5017-47d8-9088-6b7652c7f656" NAME="Bank 1" COLOR="#ffed1552" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="0"/>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="8">
-            <SELECTED_LIVE_SCENES DASUID="b607b362-9306-4240-a97c-bb9f068cff49"/>
+            <SELECTED_LIVE_SCENES DASUID="2d2cdf85-2dbb-4915-9c4b-27289a17b496"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
