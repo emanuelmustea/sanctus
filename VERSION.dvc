@@ -3541,14 +3541,16 @@
                     <EFFECT TYPE="4" ID="221" DURATION="5000">
                         <PARAMS NB="3">
                             <PARAM TYPE="5" ID="1">
-                                <POINTS NB="4">
-                                    <POINT X="0.4" Y="0.612"/>
-                                    <POINT X="0.5" Y="0.75"/>
-                                    <POINT X="0.584615" Y="0.62"/>
-                                    <POINT X="0.638462" Y="0.522"/>
+                                <POINTS NB="6">
+                                    <POINT X="0.330769" Y="0.628"/>
+                                    <POINT X="0.376923" Y="0.722"/>
+                                    <POINT X="0.388462" Y="0.62"/>
+                                    <POINT X="0.338462" Y="0.686"/>
+                                    <POINT X="0.353846" Y="0.584"/>
+                                    <POINT X="0.403846" Y="0.68"/>
                                 </POINTS>
                             </PARAM>
-                            <PARAM TYPE="1" ID="2" VAL="0"/>
+                            <PARAM TYPE="1" ID="2" VAL="0.379"/>
                             <PARAM TYPE="2" ID="3" VAL="0"/>
                         </PARAMS>
                     </EFFECT>
@@ -4060,7 +4062,7 @@
         </BANK>
         <BANK DASUID="09aaa5d5-5017-47d8-9088-6b7652c7f656" NAME="Bank 1" COLOR="#ffed1552" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="0"/>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="8">
-            <SELECTED_LIVE_SCENES DASUID="acebb675-f243-4b6c-b5d5-789f2b9eb518"/>
+            <SELECTED_LIVE_SCENES DASUID="3d70ecd5-079f-4895-9d63-d2d9ca0a9916"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
