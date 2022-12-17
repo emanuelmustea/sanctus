@@ -170,34 +170,12 @@
                         </TIMELINE>
                         <TIMELINE DASUID="2cbc3286-f351-4bb8-9bc7-b74c015c0266" NAME="2" INDEX="2">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="12c6595d-8dcc-4e24-88a1-e90f9e47b313" NAME="(D) Scena Centru- Miscari W" START="0" END="312000" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="acebb675-f243-4b6c-b5d5-789f2b9eb518">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
                                 <BLOCK TYPE="1" DASUID="ad46dece-c40b-40fb-a600-c5600877d0fc" NAME="Cor - Full white" START="549520" END="598880" POSITION="0" FADEIN="12360" FADEOUT="8400" SCENEUUID="13f97c04-6441-469d-9531-83091ce8a4dc">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="e2242326-409f-4511-bdd8-35bd4bda7144" NAME="3" INDEX="3">
-                            <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="5a8e253b-fd53-4c45-bd99-667e62f0d4bf" NAME="Argintiu Intro" START="0" END="298880" POSITION="-60720" FADEIN="0" FADEOUT="0" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
-                                    <DASTLSUBLINES DASTLNB="1">
-                                        <DASTLSUBLINE DASTLTYPE="0">
-                                            <DASTLKEYPOINTS DASTLNB="4">
-                                                <DASTLKEYPOINT DASTLPOSITION="-1518" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
-                                                <DASTLKEYPOINT DASTLPOSITION="-1271" DASTLTRANSITION="0" DASTLDATA="1" DASTLTYPE="4"/>
-                                                <DASTLKEYPOINT DASTLPOSITION="5838" DASTLTRANSITION="0" DASTLDATA="1" DASTLTYPE="4"/>
-                                                <DASTLKEYPOINT DASTLPOSITION="5941" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
-                                            </DASTLKEYPOINTS>
-                                        </DASTLSUBLINE>
-                                    </DASTLSUBLINES>
-                                </BLOCK>
-                            </BLOCKS>
-                        </TIMELINE>
-                        <TIMELINE DASUID="a8f9aae6-3d2e-4cd6-9e81-daa60a39d2cd" NAME="4" INDEX="4">
-                            <BLOCKS/>
-                        </TIMELINE>
-                        <TIMELINE DASUID="9e048f5d-2c51-48cd-a89d-e460273d5562" NAME="5" INDEX="5">
                             <BLOCKS>
                                 <BLOCK TYPE="1" DASUID="3bd82379-3336-4c66-bf2e-fae57c0d893d" NAME="Orange La Viflaem - Culori Beam " START="301120" END="349720" POSITION="-45640" FADEIN="0" FADEOUT="0" SCENEUUID="104bdcfe-5fcd-4fcd-9087-3189c915234d">
                                     <DASTLSUBLINES DASTLNB="1">
@@ -237,14 +215,14 @@
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
-                        <TIMELINE DASUID="2c6edec5-fa0e-41cd-bb1c-d1bec35c081e" NAME="6" INDEX="6">
+                        <TIMELINE DASUID="a8f9aae6-3d2e-4cd6-9e81-daa60a39d2cd" NAME="4" INDEX="4">
                             <BLOCKS>
                                 <BLOCK TYPE="1" DASUID="22f74a2a-66eb-4091-85cd-8289f3f11abb" NAME="Scena mica - POS Beam" START="290720" END="629040" POSITION="-96000" FADEIN="0" FADEOUT="0" SCENEUUID="24fdd97f-a2c5-4b55-92cc-46067182bd34">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
-                        <TIMELINE DASUID="06719f0f-1cf8-40b0-beb3-7e1ef8ec43ec" NAME="7" INDEX="7">
+                        <TIMELINE DASUID="9e048f5d-2c51-48cd-a89d-e460273d5562" NAME="5" INDEX="5">
                             <BLOCKS>
                                 <BLOCK TYPE="1" DASUID="4b4d4f63-ec3c-4262-955c-746a48bbe554" NAME="Orange La Viflaem - W Jos" START="397360" END="426640" POSITION="0" FADEIN="4480" FADEOUT="7480" SCENEUUID="4c9aed31-4944-4f5a-9393-31e523fa077c">
                                     <DASTLSUBLINES DASTLNB="0"/>
@@ -254,7 +232,14 @@
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
-                        <TIMELINE DASUID="abd03ae5-d46c-45a2-ba9d-d7d8ed225ba3" NAME="8" INDEX="8">
+                        <TIMELINE DASUID="2c6edec5-fa0e-41cd-bb1c-d1bec35c081e" NAME="6" INDEX="6">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="12c6595d-8dcc-4e24-88a1-e90f9e47b313" NAME="(D) Scena Centru- Miscari W" START="0" END="702760" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="acebb675-f243-4b6c-b5d5-789f2b9eb518">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="06719f0f-1cf8-40b0-beb3-7e1ef8ec43ec" NAME="7" INDEX="7">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
@@ -4384,7 +4369,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.255" MAX="0.4">
-                            <BEAMS DASUID="e4a6407f-cb7e-45f4-9ecf-8332ea4f7e0e" NAME="" NB="40">
+                            <BEAMS DASUID="be2ce837-2a82-49e3-95b4-deb96624fba8" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -4486,7 +4471,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.15" MAX="0.58">
-                            <BEAMS DASUID="05c5fdd0-7edc-404f-9aae-530b21d95716" NAME="" NB="40">
+                            <BEAMS DASUID="0488f9dc-f543-4197-beef-a3e0df172856" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -5116,7 +5101,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="8">
-            <SELECTED_LIVE_SCENES DASUID="9ae2ff7e-0b18-4420-8128-c48ef8f460c0"/>
+            <SELECTED_LIVE_SCENES DASUID="bbc7b1bf-2915-4de8-8e47-e0ead70579c2"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
