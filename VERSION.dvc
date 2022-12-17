@@ -479,7 +479,7 @@
                         </TIMELINE>
                         <TIMELINE DASUID="8c875a74-5a99-4565-b680-b665ab3e203f" NAME="15" INDEX="15">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="b775c00d-82b8-401e-9f3d-e06b03d2a49e" NAME="(D) Scena - Pos beam" START="73680" END="78680" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="33bac60b-9dea-43b4-a94a-695a1d46669c">
+                                <BLOCK TYPE="1" DASUID="b775c00d-82b8-401e-9f3d-e06b03d2a49e" NAME="(D) Scena - Pos beam" START="73680" END="180600" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="33bac60b-9dea-43b4-a94a-695a1d46669c">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -3542,13 +3542,13 @@
                         <PARAMS NB="3">
                             <PARAM TYPE="5" ID="1">
                                 <POINTS NB="4">
-                                    <POINT X="0.411538" Y="0.63672"/>
-                                    <POINT X="0.555741" Y="0.695215"/>
-                                    <POINT X="0.615694" Y="0.674785"/>
-                                    <POINT X="0.584014" Y="0.622285"/>
+                                    <POINT X="0.4" Y="0.612"/>
+                                    <POINT X="0.5" Y="0.75"/>
+                                    <POINT X="0.584615" Y="0.62"/>
+                                    <POINT X="0.638462" Y="0.522"/>
                                 </POINTS>
                             </PARAM>
-                            <PARAM TYPE="1" ID="2" VAL="0.369"/>
+                            <PARAM TYPE="1" ID="2" VAL="0"/>
                             <PARAM TYPE="2" ID="3" VAL="0"/>
                         </PARAMS>
                     </EFFECT>
@@ -4060,7 +4060,7 @@
         </BANK>
         <BANK DASUID="09aaa5d5-5017-47d8-9088-6b7652c7f656" NAME="Bank 1" COLOR="#ffed1552" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="0"/>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="8">
-            <SELECTED_LIVE_SCENES DASUID="776590c1-4b18-4794-9b42-621a811bf552"/>
+            <SELECTED_LIVE_SCENES DASUID="acebb675-f243-4b6c-b5d5-789f2b9eb518"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
