@@ -40,22 +40,6 @@
             </FIXTURES>
             <BEAMSELECTION/>
         </FIXTUREGROUP>
-        <FIXTUREGROUP DASUID="f7403b9e-1973-4378-aa16-d5be7ec9b1bc" NAME="Cor Stanga">
-            <FIXTURES/>
-            <BEAMSELECTION/>
-        </FIXTUREGROUP>
-        <FIXTUREGROUP DASUID="e4e26e8e-f424-4088-9ec3-9b31e6d6dc2a" NAME="COR">
-            <FIXTURES/>
-            <BEAMSELECTION/>
-        </FIXTUREGROUP>
-        <FIXTUREGROUP DASUID="c7336046-acf7-415b-961d-734ab0b7cf42" NAME="Solist">
-            <FIXTURES/>
-            <BEAMSELECTION/>
-        </FIXTUREGROUP>
-        <FIXTUREGROUP DASUID="23680b6f-f0af-471f-9400-e6ab94c61653" NAME="Cor Dreapta">
-            <FIXTURES/>
-            <BEAMSELECTION/>
-        </FIXTUREGROUP>
         <FIXTUREGROUP DASUID="aed4da22-6a09-4ff7-a82e-6556daa67687" NAME="pro beam chroma 7r rainbow effect">
             <FIXTURES>
                 <FIXTURE DASUID="24254d7c-0032-48ed-a5ea-be517c3e259f"/>
