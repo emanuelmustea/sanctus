@@ -1382,8 +1382,17 @@
                                 <BLOCK TYPE="1" DASUID="508af358-e463-4b1e-8e33-d73984eb2634" NAME="Sus - Pos Beam" START="145600" END="172880" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="c8192481-9746-48bd-b08e-4f7d7233f90b">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="5b14c26c-0e66-4598-baf9-3262c2151d75" NAME="ROSU O Holy night" START="225000" END="235240" POSITION="0" FADEIN="2160" FADEOUT="3360" SCENEUUID="fa7ec491-805a-4fff-b0f2-40c2f5fd6731">
-                                    <DASTLSUBLINES DASTLNB="0"/>
+                                <BLOCK TYPE="1" DASUID="5b14c26c-0e66-4598-baf9-3262c2151d75" NAME="ROSU O Holy night" START="225000" END="235240" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="fa7ec491-805a-4fff-b0f2-40c2f5fd6731">
+                                    <DASTLSUBLINES DASTLNB="1">
+                                        <DASTLSUBLINE DASTLTYPE="0">
+                                            <DASTLKEYPOINTS DASTLNB="4">
+                                                <DASTLKEYPOINT DASTLPOSITION="10.0004" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
+                                                <DASTLKEYPOINT DASTLPOSITION="48.0001" DASTLTRANSITION="0" DASTLDATA="1" DASTLTYPE="4"/>
+                                                <DASTLKEYPOINT DASTLPOSITION="170" DASTLTRANSITION="0" DASTLDATA="1" DASTLTYPE="4"/>
+                                                <DASTLKEYPOINT DASTLPOSITION="251.001" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
+                                            </DASTLKEYPOINTS>
+                                        </DASTLSUBLINE>
+                                    </DASTLSUBLINES>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
@@ -4343,7 +4352,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.255" MAX="0.4">
-                            <BEAMS DASUID="3be38638-dcc1-45fd-93d5-46f26f81ed57" NAME="" NB="40">
+                            <BEAMS DASUID="71654e4b-d1a2-4970-96c6-dd9df8109262" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -4445,7 +4454,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.15" MAX="0.58">
-                            <BEAMS DASUID="c31ca1c6-98f3-45b1-a196-7d3dd55d0d92" NAME="" NB="40">
+                            <BEAMS DASUID="7dc54574-fe6c-44cc-a77f-90a3255d2e3d" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -5075,7 +5084,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="8">
-            <SELECTED_LIVE_SCENES DASUID="2378fbd5-e8e5-4b73-a094-32b355b2e76b"/>
+            <SELECTED_LIVE_SCENES DASUID="460289a0-1ccc-4557-8d65-577635502473"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
