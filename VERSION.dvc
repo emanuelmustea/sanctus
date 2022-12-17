@@ -3775,7 +3775,16 @@
                 </RACK>
             </SCENE>
             <SCENE DASUID="b41e2686-6888-4cce-8bca-8cd8f681ba16" NAME="Scena Slow - Miscari W" COLOR="#ff0cbccd" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
-                <FIXTUREDATAS NB="0"/>
+                <FIXTUREDATAS NB="8">
+                    <FIXTUREDATA FIXTURE="a06190ba-24df-43da-84b3-55efe00af5c2" DATA="eJxiEPwPBAxhDAxAkuE/VsDAwMC6hwEXxClBCykAAAAA//8="/>
+                    <FIXTUREDATA FIXTURE="31ce9746-16a0-499a-a53c-8a26ed5c2a41" DATA="eJxiEPwPBAxhDAxAkuE/VsDAwMC6hwEXxClBCykAAAAA//8="/>
+                    <FIXTUREDATA FIXTURE="11e66a80-dd35-4978-8468-0688436350be" DATA="eJxiEPwPBAxhDAxAkuE/VsDAwMC6hwEXxClBCykAAAAA//8="/>
+                    <FIXTUREDATA FIXTURE="5d02f725-cc3e-45ec-8c79-94423ddb9a38" DATA="eJxiEPwPBAxhDAxAkuE/VsDAwMC6hwEXxClBCykAAAAA//8="/>
+                    <FIXTUREDATA FIXTURE="a799a019-8c9a-49f1-b540-1810727b283b" DATA="eJxiEPwPBAxhDAxAkuE/VsDAwMC6hwEXxClBCykAAAAA//8="/>
+                    <FIXTUREDATA FIXTURE="d5d0fe7e-8a8c-4399-8db3-450b5cd0f486" DATA="eJxiEPwPBAxhDAxAkuE/VsDAwMC6hwEXxClBCykAAAAA//8="/>
+                    <FIXTUREDATA FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" DATA="eJxiEPwPBAxhDAxAkuE/VsDAwMC6hwEXxClBCykAAAAA//8="/>
+                    <FIXTUREDATA FIXTURE="1cbfe4d0-a9cb-4bdd-a69d-fb54cfc460bc" DATA="eJxiEPwPBAxhDAxAkuE/VsDAwMC6hwEXxClBCykAAAAA//8="/>
+                </FIXTUREDATAS>
                 <RACK EXPAND_RACK="1" TYPE="4">
                     <EFFECT TYPE="4" ID="221" DURATION="5000">
                         <PARAMS NB="3">
@@ -3788,8 +3797,8 @@
                                     <POINT X="0.284615" Y="0.696"/>
                                 </POINTS>
                             </PARAM>
-                            <PARAM TYPE="1" ID="2" VAL="0.622"/>
-                            <PARAM TYPE="2" ID="3" VAL="0"/>
+                            <PARAM TYPE="1" ID="2" VAL="0.313"/>
+                            <PARAM TYPE="2" ID="3" VAL="1"/>
                         </PARAMS>
                     </EFFECT>
                     <BEAMS DASUID="63243d52-c69b-4d72-b7f6-22e6ce87e4f8" NAME="" NB="40">
@@ -4300,8 +4309,8 @@
             </SCENE>
         </BANK>
         <BANK DASUID="09aaa5d5-5017-47d8-9088-6b7652c7f656" NAME="Bank 1" COLOR="#ffed1552" COLLAPSED="0" PAUSED="0" HIDDEN="0" NBSCENE="0"/>
-        <DAS_SELECTIONS SELECTED_LIVE_BANK="8">
-            <SELECTED_LIVE_SCENES DASUID="b41e2686-6888-4cce-8bca-8cd8f681ba16"/>
+        <DAS_SELECTIONS SELECTED_LIVE_BANK="10">
+            <SELECTED_LIVE_SCENES DASUID="07cabec2-168a-41f5-b883-592bf3d66c39"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
