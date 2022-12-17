@@ -490,7 +490,7 @@
                     </TIMELINES>
                 </RACK>
             </SCENE>
-            <SCENE DASUID="bca2af8e-7763-4696-970e-55fa8fd3e585" NAME="O Holy Night " COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="50" FADE_OUT="50" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
+            <SCENE DASUID="bca2af8e-7763-4696-970e-55fa8fd3e585" NAME="Rosu Full O holy night - W Sus" COLOR="#ffffcf08" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="50" FADE_OUT="50" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
                 <RACK TYPE="1" DURATION="12379">
                     <TIMELINES>
@@ -550,18 +550,6 @@
                         </TIMELINE>
                         <TIMELINE DASUID="4776a662-f71a-46a4-bab9-508966f7978d" NAME="2" INDEX="2">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="38214564-6787-4028-8dfb-0c9a4ce7b3da" NAME="Rosu OHN - Full" START="183720" END="240240" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="2a5faef2-27d9-42e6-bea5-c3c40c94c026">
-                                    <DASTLSUBLINES DASTLNB="1">
-                                        <DASTLSUBLINE DASTLTYPE="0">
-                                            <DASTLKEYPOINTS DASTLNB="4">
-                                                <DASTLKEYPOINT DASTLPOSITION="0.999677" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
-                                                <DASTLKEYPOINT DASTLPOSITION="52" DASTLTRANSITION="0" DASTLDATA="0.97619" DASTLTYPE="4"/>
-                                                <DASTLKEYPOINT DASTLPOSITION="1325" DASTLTRANSITION="0" DASTLDATA="1" DASTLTYPE="4"/>
-                                                <DASTLKEYPOINT DASTLPOSITION="1408" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
-                                            </DASTLKEYPOINTS>
-                                        </DASTLSUBLINE>
-                                    </DASTLSUBLINES>
-                                </BLOCK>
                                 <BLOCK TYPE="1" DASUID="58aa6054-539f-4a3a-b092-e2bd6e96af86" NAME="Rosu OHN - Full" START="318480" END="375680" POSITION="0" FADEIN="680" FADEOUT="5440" SCENEUUID="2a5faef2-27d9-42e6-bea5-c3c40c94c026">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
@@ -570,7 +558,14 @@
                         <TIMELINE DASUID="42c2d9e0-006a-4add-82e1-dcb3e47b3945" NAME="3" INDEX="3">
                             <BLOCKS>
                                 <BLOCK TYPE="1" DASUID="86d3d10f-bcce-49bb-a555-8aa05434425e" NAME="Rosu O holy night" START="0" END="480160" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="7ac9c4e7-af41-463c-9efe-342c6be7e880">
-                                    <DASTLSUBLINES DASTLNB="0"/>
+                                    <DASTLSUBLINES DASTLNB="1">
+                                        <DASTLSUBLINE DASTLTYPE="0">
+                                            <DASTLKEYPOINTS DASTLNB="2">
+                                                <DASTLKEYPOINT DASTLPOSITION="4598" DASTLTRANSITION="0" DASTLDATA="0.5" DASTLTYPE="4"/>
+                                                <DASTLKEYPOINT DASTLPOSITION="4649" DASTLTRANSITION="0" DASTLDATA="1" DASTLTYPE="4"/>
+                                            </DASTLKEYPOINTS>
+                                        </DASTLSUBLINE>
+                                    </DASTLSUBLINES>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
@@ -3045,14 +3040,32 @@
                 </FIXTUREDATAS>
             </SCENE>
             <SCENE DASUID="7ac9c4e7-af41-463c-9efe-342c6be7e880" NAME="Rosu Dimm O holy night - W Sus" COLOR="#fff69031" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
-                <FIXTUREDATAS NB="0"/>
+                <FIXTUREDATAS NB="8">
+                    <FIXTUREDATA FIXTURE="a06190ba-24df-43da-84b3-55efe00af5c2" DATA="eJxiEPz/n+E/EDNAMAhAKThgYGBgtWHYgwWCRBnoKQUAAAD//w=="/>
+                    <FIXTUREDATA FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" DATA="eJxiEPz/n+E/EDNAMAhAKThgYGBgtWHYgwWCRBnoKQUAAAD//w=="/>
+                    <FIXTUREDATA FIXTURE="1cbfe4d0-a9cb-4bdd-a69d-fb54cfc460bc" DATA="eJxiEPz/n+E/EDNAMAhAKThgYGBgtWHYgwWCRBnoKQUAAAD//w=="/>
+                    <FIXTUREDATA FIXTURE="d5d0fe7e-8a8c-4399-8db3-450b5cd0f486" DATA="eJxiEPz/n+E/EDNAMAhAKThgYGBgtWHYgwWCRBnoKQUAAAD//w=="/>
+                    <FIXTUREDATA FIXTURE="a799a019-8c9a-49f1-b540-1810727b283b" DATA="eJxiEPz/n+E/EDNAMAhAKThgYGBgtWHYgwWCRBnoKQUAAAD//w=="/>
+                    <FIXTUREDATA FIXTURE="5d02f725-cc3e-45ec-8c79-94423ddb9a38" DATA="eJxiEPz/n+E/EDNAMAhAKThgYGBgtWHYgwWCRBnoKQUAAAD//w=="/>
+                    <FIXTUREDATA FIXTURE="11e66a80-dd35-4978-8468-0688436350be" DATA="eJxiEPz/n+E/EDNAMAhAKThgYGBgtWHYgwWCRBnoKQUAAAD//w=="/>
+                    <FIXTUREDATA FIXTURE="31ce9746-16a0-499a-a53c-8a26ed5c2a41" DATA="eJxiEPz/n+E/EDNAMAhAKThgYGBgtWHYgwWCRBnoKQUAAAD//w=="/>
+                </FIXTUREDATAS>
             </SCENE>
             <SCENE DASUID="2a5faef2-27d9-42e6-bea5-c3c40c94c026" NAME="Rosu Full O holly night - W sus" COLOR="#fff69031" ENABLE="1" VISIBLE="1" LOOP_MODE="0" LOOP="0" PLAY_DIRECTION="1" PLAY_MODE="0" FLASH="0" BOUNCE_MODE="0" PLAY_TRIGGER="0" PLAY_DIVISION="8" DIMMER="1" D_FEATURE="1" SPEED="0.5" PHASE="0" SIZE="1" AUTO_RELEASE_END="1" JUMP_MODE="-1" RELEASE_MODE="2" RELEASE_PROTECT_MODE="0" FADE_IN="0" FADE_OUT="0" ATTRIBUTEVALUE_MODE="0" PAUSE="0">
                 <FIXTUREDATAS NB="0"/>
                 <RACK TYPE="9">
                     <STEPS NB="1">
                         <STEP WAITTIME="25" FADETIME="0">
-                            <FIXTUREDATAS NB="0"/>
+                            <FIXTUREDATAS NB="8">
+                                <FIXTUREDATA FIXTURE="a06190ba-24df-43da-84b3-55efe00af5c2" DATA="eJxiEPz/n+E/EDNAMAhAKThgYGBgtWHYgwWCRBnoKQUAAAD//w=="/>
+                                <FIXTUREDATA FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" DATA="eJxiEPz/n+E/EDNAMAhAKThgYGBgtWHYgwWCRBnoKQUAAAD//w=="/>
+                                <FIXTUREDATA FIXTURE="1cbfe4d0-a9cb-4bdd-a69d-fb54cfc460bc" DATA="eJxiEPz/n+E/EDNAMAhAKThgYGBgtWHYgwWCRBnoKQUAAAD//w=="/>
+                                <FIXTUREDATA FIXTURE="d5d0fe7e-8a8c-4399-8db3-450b5cd0f486" DATA="eJxiEPz/n+E/EDNAMAhAKThgYGBgtWHYgwWCRBnoKQUAAAD//w=="/>
+                                <FIXTUREDATA FIXTURE="a799a019-8c9a-49f1-b540-1810727b283b" DATA="eJxiEPz/n+E/EDNAMAhAKThgYGBgtWHYgwWCRBnoKQUAAAD//w=="/>
+                                <FIXTUREDATA FIXTURE="5d02f725-cc3e-45ec-8c79-94423ddb9a38" DATA="eJxiEPz/n+E/EDNAMAhAKThgYGBgtWHYgwWCRBnoKQUAAAD//w=="/>
+                                <FIXTUREDATA FIXTURE="11e66a80-dd35-4978-8468-0688436350be" DATA="eJxiEPz/n+E/EDNAMAhAKThgYGBgtWHYgwWCRBnoKQUAAAD//w=="/>
+                                <FIXTUREDATA FIXTURE="31ce9746-16a0-499a-a53c-8a26ed5c2a41" DATA="eJxiEPz/n+E/EDNAMAhAKThgYGBgtWHYgwWCRBnoKQUAAAD//w=="/>
+                            </FIXTUREDATAS>
                         </STEP>
                     </STEPS>
                 </RACK>
