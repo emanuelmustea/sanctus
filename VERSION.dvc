@@ -2628,8 +2628,9 @@
                                 <BLOCK TYPE="1" DASUID="a18999d5-f83c-47c8-b586-214506e0b178" NAME="Gold Intro - W Sus" START="0" END="67560" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
                                     <DASTLSUBLINES DASTLNB="1">
                                         <DASTLSUBLINE DASTLTYPE="0">
-                                            <DASTLKEYPOINTS DASTLNB="12">
-                                                <DASTLKEYPOINT DASTLPOSITION="107" DASTLTRANSITION="0" DASTLDATA="0.309524" DASTLTYPE="4"/>
+                                            <DASTLKEYPOINTS DASTLNB="13">
+                                                <DASTLKEYPOINT DASTLPOSITION="0" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
+                                                <DASTLKEYPOINT DASTLPOSITION="300" DASTLTRANSITION="0" DASTLDATA="0.404762" DASTLTYPE="4"/>
                                                 <DASTLKEYPOINT DASTLPOSITION="1648" DASTLTRANSITION="0" DASTLDATA="1" DASTLTYPE="4"/>
                                                 <DASTLKEYPOINT DASTLPOSITION="1659" DASTLTRANSITION="0" DASTLDATA="0.571429" DASTLTYPE="4"/>
                                                 <DASTLKEYPOINT DASTLPOSITION="1662" DASTLTRANSITION="0" DASTLDATA="0.97619" DASTLTYPE="4"/>
@@ -4813,7 +4814,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.255" MAX="0.4">
-                            <BEAMS DASUID="510bed20-e04b-465f-895b-535a080f5daa" NAME="" NB="40">
+                            <BEAMS DASUID="57c17b3d-fa83-49de-b0e6-67cb03509215" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -4915,7 +4916,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.15" MAX="0.505">
-                            <BEAMS DASUID="a92514a0-a95e-4b64-9303-7b8e439b2779" NAME="" NB="40">
+                            <BEAMS DASUID="968be8db-1618-4382-a173-60b219d1f488" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
