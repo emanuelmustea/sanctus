@@ -1709,6 +1709,9 @@
                                 <BLOCK TYPE="1" DASUID="fac4167a-db06-43dd-b03a-8f29ebc49ace" NAME="Red Cel ce-a creat - W Jos (2)" START="259400" END="266640" POSITION="240" FADEIN="480" FADEOUT="1000" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
+                                <BLOCK TYPE="1" DASUID="f0fd04c0-9c7e-4dc2-898f-5903fdfea289" NAME="Scena Fast - Miscari W" START="294640" END="311160" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="21a16e5c-e62d-4eae-b0f4-1b645cbcd265">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="c5f092b9-9d62-4e9d-b55d-39aa3914d41e" NAME="5" INDEX="5">
@@ -1785,10 +1788,13 @@
                                 <BLOCK TYPE="1" DASUID="d01167c8-0f1e-452a-882e-5af3700d9368" NAME="Red Cel ce-a creat - W Jos (2)" START="77520" END="78040" POSITION="0" FADEIN="160" FADEOUT="160" SCENEUUID="7e5294ea-0538-4273-b2c5-eff3f4b052e1">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="6b396daf-2d60-45e5-8f10-18540525cbda" NAME="Red Cel ce-a creat - W Sus" START="83000" END="134720" POSITION="0" FADEIN="2080" FADEOUT="3040" SCENEUUID="925afdb7-c390-4013-b2e0-a49397d4beba">
+                                <BLOCK TYPE="1" DASUID="024fe38e-ff0b-4039-8860-13a2869c5b2e" NAME="Gold Intro - W Sus" START="82880" END="133160" POSITION="-1800" FADEIN="2120" FADEOUT="1800" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="3d13f93d-0301-4e84-a30a-cd80fae9328a" NAME="Red Cel ce-a creat - W Sus" START="165120" END="410240" POSITION="0" FADEIN="2080" FADEOUT="3040" SCENEUUID="925afdb7-c390-4013-b2e0-a49397d4beba">
+                                <BLOCK TYPE="1" DASUID="36c54bbb-b04c-4b48-9a12-2a438c42c197" NAME="Gold Intro - W Sus" START="165240" END="215520" POSITION="-1800" FADEIN="1240" FADEOUT="1800" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="f88fcc58-58ec-451a-ace9-1a51723156d8" NAME="Chaser - W Sus" START="288160" END="294360" POSITION="0" FADEIN="280" FADEOUT="280" SCENEUUID="07cabec2-168a-41f5-b883-592bf3d66c39">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -1815,25 +1821,18 @@
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="cb8f4664-d492-4491-8b6e-5ccf00143ee4" NAME="9" INDEX="9">
-                            <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="dd1c8d1e-e3d7-4082-b20d-d0fc52a5cf1c" NAME="Sus - Pos Beam" START="206800" END="215720" POSITION="-3280" FADEIN="0" FADEOUT="2080" SCENEUUID="c8192481-9746-48bd-b08e-4f7d7233f90b">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                                <BLOCK TYPE="1" DASUID="1556bd28-0d54-4219-819b-481a9e6bfaf6" NAME="Sus - Pos Beam" START="281640" END="293520" POSITION="0" FADEIN="9680" FADEOUT="680" SCENEUUID="c8192481-9746-48bd-b08e-4f7d7233f90b">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                            </BLOCKS>
+                            <BLOCKS/>
                         </TIMELINE>
                         <TIMELINE DASUID="6f8480b8-a669-4889-97f9-45cddc823ad4" NAME="10" INDEX="10">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="1b77ef1b-5c95-4b00-bba7-cd873582906a" NAME="White -  Beam" START="213640" END="235760" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="d755ef76-1fef-45af-acb7-d045e869f27c">
+                                <BLOCK TYPE="1" DASUID="1b77ef1b-5c95-4b00-bba7-cd873582906a" NAME="White -  Beam" START="213080" END="240160" POSITION="-560" FADEIN="0" FADEOUT="0" SCENEUUID="d755ef76-1fef-45af-acb7-d045e869f27c">
                                     <DASTLSUBLINES DASTLNB="1">
                                         <DASTLSUBLINE DASTLTYPE="0">
                                             <DASTLKEYPOINTS DASTLNB="4">
-                                                <DASTLKEYPOINT DASTLPOSITION="9.00017" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
+                                                <DASTLKEYPOINT DASTLPOSITION="-4.00002" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
                                                 <DASTLKEYPOINT DASTLPOSITION="57.0004" DASTLTRANSITION="0" DASTLDATA="1" DASTLTYPE="4"/>
-                                                <DASTLKEYPOINT DASTLPOSITION="513" DASTLTRANSITION="0" DASTLDATA="1" DASTLTYPE="4"/>
-                                                <DASTLKEYPOINT DASTLPOSITION="546" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
+                                                <DASTLKEYPOINT DASTLPOSITION="606" DASTLTRANSITION="0" DASTLDATA="1" DASTLTYPE="4"/>
+                                                <DASTLKEYPOINT DASTLPOSITION="647" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
                                             </DASTLKEYPOINTS>
                                         </DASTLSUBLINE>
                                     </DASTLSUBLINES>
@@ -1854,10 +1853,10 @@
                         </TIMELINE>
                         <TIMELINE DASUID="cc2e6f1b-b8ca-4054-ac3f-36c2b589f5d2" NAME="11" INDEX="11">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="5ec29c56-311f-4541-8afa-c5a1cc3bf82c" NAME="Movement scena - Pos Beam" START="213560" END="237360" POSITION="-40" FADEIN="0" FADEOUT="0" SCENEUUID="e776e5cb-ad06-45f3-b8d2-e397b1fca26e">
+                                <BLOCK TYPE="1" DASUID="5ec29c56-311f-4541-8afa-c5a1cc3bf82c" NAME="Movement scena - Pos Beam" START="211960" END="259120" POSITION="-40" FADEIN="0" FADEOUT="0" SCENEUUID="e776e5cb-ad06-45f3-b8d2-e397b1fca26e">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="7168194c-f746-49e1-8f3b-858deaac38bf" NAME="Movement scena - Pos Beam" START="291600" END="327360" POSITION="-40" FADEIN="0" FADEOUT="0" SCENEUUID="e776e5cb-ad06-45f3-b8d2-e397b1fca26e">
+                                <BLOCK TYPE="1" DASUID="7168194c-f746-49e1-8f3b-858deaac38bf" NAME="Movement scena - Pos Beam" START="274760" END="327360" POSITION="-16880" FADEIN="0" FADEOUT="0" SCENEUUID="e776e5cb-ad06-45f3-b8d2-e397b1fca26e">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -4498,7 +4497,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.255" MAX="0.4">
-                            <BEAMS DASUID="330a097d-3cf6-48c7-aaec-29faa454ebfa" NAME="" NB="40">
+                            <BEAMS DASUID="6d598987-9eaf-456a-a8ed-cf3783104de2" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -4600,7 +4599,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.15" MAX="0.505">
-                            <BEAMS DASUID="aaea0226-2ccf-4497-8de6-806d4877d278" NAME="" NB="40">
+                            <BEAMS DASUID="ba8530ff-7f03-4aa8-8058-e34bf8382fa4" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
