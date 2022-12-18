@@ -1970,7 +1970,7 @@
                         </TIMELINE>
                         <TIMELINE DASUID="f597a52b-1502-4010-bd0e-f60c0969f23b" NAME="4" INDEX="4">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="33dd0bf7-ceaf-4b47-ba4d-fec82d80e16f" NAME="White -  Beam" START="9600" END="89400" POSITION="0" FADEIN="1840" FADEOUT="1560" SCENEUUID="d755ef76-1fef-45af-acb7-d045e869f27c">
+                                <BLOCK TYPE="1" DASUID="33dd0bf7-ceaf-4b47-ba4d-fec82d80e16f" NAME="White -  Beam" START="9600" END="89400" POSITION="0" FADEIN="0" FADEOUT="1560" SCENEUUID="d755ef76-1fef-45af-acb7-d045e869f27c">
                                     <DASTLSUBLINES DASTLNB="1">
                                         <DASTLSUBLINE DASTLTYPE="0">
                                             <DASTLKEYPOINTS DASTLNB="2">
@@ -4498,7 +4498,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.255" MAX="0.4">
-                            <BEAMS DASUID="f4013221-30d3-4e33-91b6-8718e6a90841" NAME="" NB="40">
+                            <BEAMS DASUID="0f596369-2f1b-4a33-a58f-13d5220bfa4f" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -4600,7 +4600,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.15" MAX="0.505">
-                            <BEAMS DASUID="2d0afeb3-2a6a-4211-b84f-df98c8409274" NAME="" NB="40">
+                            <BEAMS DASUID="5e311e05-e664-430d-be06-ef6b6836cc01" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -5310,7 +5310,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="5">
-            <SELECTED_LIVE_SCENES DASUID="7fd79469-6cb1-4d39-aaa3-a491f86b2c83"/>
+            <SELECTED_LIVE_SCENES DASUID="0613b88e-4a2a-4485-931d-3ed87ea389ab"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
