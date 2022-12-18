@@ -479,10 +479,10 @@
                         </TIMELINE>
                         <TIMELINE DASUID="bd8308f2-428e-4a37-b375-440a4ea17f9e" NAME="12" INDEX="12">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="5e52b321-bb4e-4f43-b0b5-d664bf03c404" NAME="JOS -&gt; SUS" START="88760" END="117480" POSITION="0" FADEIN="5800" FADEOUT="0" SCENEUUID="c8192481-9746-48bd-b08e-4f7d7233f90b">
+                                <BLOCK TYPE="1" DASUID="97d0bac5-d80a-4e24-b3c5-22a937e3f05c" NAME="DEFAULTS SUS" START="88640" END="117600" POSITION="0" FADEIN="6240" FADEOUT="0" SCENEUUID="2cc849b8-b774-468f-93ad-7bd2b4068658">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="a01ad61a-2f7a-4c7a-8ffb-1276c71e8e6a" NAME="JOS -&gt; SUS" START="141040" END="174280" POSITION="0" FADEIN="5800" FADEOUT="0" SCENEUUID="c8192481-9746-48bd-b08e-4f7d7233f90b">
+                                <BLOCK TYPE="1" DASUID="28a9ace4-be84-4428-afcd-ad5a01ce714e" NAME="DEFAULTS SUS" START="141040" END="170000" POSITION="0" FADEIN="6240" FADEOUT="0" SCENEUUID="2cc849b8-b774-468f-93ad-7bd2b4068658">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -524,22 +524,29 @@
                         </TIMELINE>
                         <TIMELINE DASUID="8c875a74-5a99-4565-b680-b665ab3e203f" NAME="15" INDEX="15">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="b775c00d-82b8-401e-9f3d-e06b03d2a49e" NAME="(D) Scena - Pos beam" START="0" END="180600" POSITION="-73680" FADEIN="0" FADEOUT="0" SCENEUUID="33bac60b-9dea-43b4-a94a-695a1d46669c">
+                                <BLOCK TYPE="1" DASUID="209db383-5f99-4dde-8bae-8bc12dc2fba5" NAME="DEFAULT JOS - SUS" START="79560" END="178200" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="65a8009e-c88e-4622-8e3c-370572a913ee">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="1fa2baf6-e601-488c-ab22-ecee6b5e1674" NAME="16" INDEX="16">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="cc47dca9-c0e7-425f-839e-7d00d137061b" NAME="(D) Scena Centru- Miscari W" START="0" END="0" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="acebb675-f243-4b6c-b5d5-789f2b9eb518">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                                <BLOCK TYPE="1" DASUID="fa259dab-8838-4f50-9eb3-ad3b8a1cd9f4" NAME="(D) Scena Centru- Miscari W" START="0" END="192000" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="acebb675-f243-4b6c-b5d5-789f2b9eb518">
+                                <BLOCK TYPE="1" DASUID="b775c00d-82b8-401e-9f3d-e06b03d2a49e" NAME="(D) Scena - Pos beam" START="0" END="180600" POSITION="-73680" FADEIN="0" FADEOUT="0" SCENEUUID="33bac60b-9dea-43b4-a94a-695a1d46669c">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="b23d75fb-bd6c-4af5-8cfb-43f5be5d768b" NAME="17" INDEX="17">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="fa259dab-8838-4f50-9eb3-ad3b8a1cd9f4" NAME="(D) Scena Centru- Miscari W" START="0" END="192000" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="acebb675-f243-4b6c-b5d5-789f2b9eb518">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                                <BLOCK TYPE="1" DASUID="cc47dca9-c0e7-425f-839e-7d00d137061b" NAME="(D) Scena Centru- Miscari W" START="0" END="0" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="acebb675-f243-4b6c-b5d5-789f2b9eb518">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="a6566b3e-f2f1-45d0-9de7-f411fcce875a" NAME="18" INDEX="18">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
@@ -4725,7 +4732,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.255" MAX="0.4">
-                            <BEAMS DASUID="51c2be6c-50f7-460f-8ced-bf6809c02757" NAME="" NB="40">
+                            <BEAMS DASUID="b810f63c-31f4-49cd-8305-4e5d43af1d1a" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -4827,7 +4834,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.15" MAX="0.505">
-                            <BEAMS DASUID="8c4b4b9f-37d7-41a5-a8fe-1ad31f543c14" NAME="" NB="40">
+                            <BEAMS DASUID="4c114c0f-e7e3-476a-8d59-92c6303b48d9" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -5585,7 +5592,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="5">
-            <SELECTED_LIVE_SCENES DASUID="72fa691b-c42d-401b-9a54-b03fd184a769"/>
+            <SELECTED_LIVE_SCENES DASUID="776590c1-4b18-4794-9b42-621a811bf552"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
