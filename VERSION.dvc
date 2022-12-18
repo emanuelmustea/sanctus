@@ -3315,10 +3315,10 @@
                         </TIMELINE>
                         <TIMELINE DASUID="3409d79f-0153-48f2-bdd5-0a4607bc72b8" NAME="12" INDEX="12">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="de3a3667-d1d8-428b-9fdf-00fe41fa9874" NAME="DEFAULTS SUS" START="290640" END="300720" POSITION="0" FADEIN="5200" FADEOUT="4920" SCENEUUID="2cc849b8-b774-468f-93ad-7bd2b4068658">
+                                <BLOCK TYPE="1" DASUID="de3a3667-d1d8-428b-9fdf-00fe41fa9874" NAME="DEFAULTS SUS" START="290640" END="299960" POSITION="0" FADEIN="4480" FADEOUT="5520" SCENEUUID="2cc849b8-b774-468f-93ad-7bd2b4068658">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="fe8b4719-9344-40f3-921d-937faa4dec72" NAME="DEFAULTS SUS" START="300720" END="310800" POSITION="0" FADEIN="5200" FADEOUT="4920" SCENEUUID="2cc849b8-b774-468f-93ad-7bd2b4068658">
+                                <BLOCK TYPE="1" DASUID="fe8b4719-9344-40f3-921d-937faa4dec72" NAME="DEFAULTS SUS" START="299960" END="310040" POSITION="0" FADEIN="5240" FADEOUT="4880" SCENEUUID="2cc849b8-b774-468f-93ad-7bd2b4068658">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -4725,7 +4725,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.255" MAX="0.4">
-                            <BEAMS DASUID="4a691c29-03aa-4cd6-95d8-614b068e8311" NAME="" NB="40">
+                            <BEAMS DASUID="51c2be6c-50f7-460f-8ced-bf6809c02757" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -4827,7 +4827,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.15" MAX="0.505">
-                            <BEAMS DASUID="94eb04e7-1aac-4eea-895d-47d54b2a9545" NAME="" NB="40">
+                            <BEAMS DASUID="8c4b4b9f-37d7-41a5-a8fe-1ad31f543c14" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
