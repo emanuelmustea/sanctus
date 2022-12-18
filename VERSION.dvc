@@ -2241,8 +2241,15 @@
                                 <BLOCK TYPE="1" DASUID="1cf9602a-897c-4fd1-b69a-eefe2e6b24d7" NAME="Gold Intro - W Sus" START="114240" END="139080" POSITION="0" FADEIN="1320" FADEOUT="3040" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="dc9783b1-fb72-44a6-8633-8fe5c18bbc7b" NAME="Gold Intro - W Sus" START="160440" END="208480" POSITION="0" FADEIN="1320" FADEOUT="1120" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
-                                    <DASTLSUBLINES DASTLNB="0"/>
+                                <BLOCK TYPE="1" DASUID="dc9783b1-fb72-44a6-8633-8fe5c18bbc7b" NAME="Gold Intro - W Sus" START="160440" END="208480" POSITION="0" FADEIN="1320" FADEOUT="0" SCENEUUID="5ec9ba66-9076-478f-80da-f235fa5d04ca">
+                                    <DASTLSUBLINES DASTLNB="1">
+                                        <DASTLSUBLINE DASTLTYPE="0">
+                                            <DASTLKEYPOINTS DASTLNB="2">
+                                                <DASTLKEYPOINT DASTLPOSITION="1167" DASTLTRANSITION="0" DASTLDATA="1" DASTLTYPE="4"/>
+                                                <DASTLKEYPOINT DASTLPOSITION="1194" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
+                                            </DASTLKEYPOINTS>
+                                        </DASTLSUBLINE>
+                                    </DASTLSUBLINES>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
@@ -2278,7 +2285,7 @@
                                 <BLOCK TYPE="1" DASUID="1722b008-345d-4433-9939-ac028069472f" NAME="Scena Sin - Miscari Wash" START="114280" END="139080" POSITION="0" FADEIN="1320" FADEOUT="3000" SCENEUUID="db9b28ac-0deb-4256-ab91-8848878b41a1">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
-                                <BLOCK TYPE="1" DASUID="43bf711a-27fd-4b0a-88d8-f480a0e078f1" NAME="Scena Sin - Miscari Wash" START="160440" END="212240" POSITION="0" FADEIN="1320" FADEOUT="3000" SCENEUUID="db9b28ac-0deb-4256-ab91-8848878b41a1">
+                                <BLOCK TYPE="1" DASUID="43bf711a-27fd-4b0a-88d8-f480a0e078f1" NAME="Scena Sin - Miscari Wash" START="171560" END="212240" POSITION="11120" FADEIN="1320" FADEOUT="3000" SCENEUUID="db9b28ac-0deb-4256-ab91-8848878b41a1">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
@@ -2328,48 +2335,6 @@
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="984e0fe8-0c05-4ec7-93e3-efe9ed76ca06" NAME="1" INDEX="1">
-                            <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="ce605a14-f643-42ba-8f46-262321801955" NAME="Tobe Cristi Gold - Culori Beam" START="3880" END="55480" POSITION="3880" FADEIN="1960" FADEOUT="0" SCENEUUID="5a4443b6-f62c-4722-b6b5-837285938c7a">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                            </BLOCKS>
-                        </TIMELINE>
-                        <TIMELINE DASUID="7d96b2ab-0842-4a1f-b3c2-63ba3d4eb23a" NAME="2" INDEX="2">
-                            <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="d0472d63-e8c2-4d0b-803f-d9badb15dec0" NAME="Tobe Feli Gold - Culori Beam" START="3880" END="54280" POSITION="3880" FADEIN="1960" FADEOUT="0" SCENEUUID="5988e223-a804-40be-9fe7-4730547fe65d">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                            </BLOCKS>
-                        </TIMELINE>
-                        <TIMELINE DASUID="fc8adbdd-8e0d-46ca-9803-ca57117ee927" NAME="3" INDEX="3">
-                            <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="9d8a3670-d42f-4fe1-9c28-56e6095e8ad1" NAME="Tobe Dan Geo - Pos Beam" START="5400" END="10400" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="780afba1-7200-46bc-9eca-982b36ce5271">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                            </BLOCKS>
-                        </TIMELINE>
-                        <TIMELINE DASUID="2862dce1-cc09-472f-9eea-c5714860ad5c" NAME="4" INDEX="4">
-                            <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="35239d22-f2e5-4e74-a417-61a6428e629e" NAME="Tobe Cristi - Pos Beam" START="0" END="95000" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="dd93f616-19eb-4684-8bd7-5a088dbdbed3">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                            </BLOCKS>
-                        </TIMELINE>
-                        <TIMELINE DASUID="91c3728e-f3ea-4062-bcde-4708ce232d5e" NAME="5" INDEX="5">
-                            <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="3ea1ca8e-e70e-498b-89c4-648b0c78469d" NAME="Tobe Oni Cristi - Pos Beam" START="5480" END="10480" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="d6520e82-9a6c-4f7b-8704-66443b75f7ce">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                            </BLOCKS>
-                        </TIMELINE>
-                        <TIMELINE DASUID="fe5688a5-6e6d-445b-89d4-2974f39c2a51" NAME="6" INDEX="6">
-                            <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="c92309c4-2428-4593-bc98-835fa03e95d0" NAME="Tobe Feli - Pos Beam" START="0" END="94880" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="8a667de7-d444-42b4-8527-ee8b4f169a0b">
-                                    <DASTLSUBLINES DASTLNB="0"/>
-                                </BLOCK>
-                            </BLOCKS>
-                        </TIMELINE>
-                        <TIMELINE DASUID="827f901f-8a41-4517-a9f3-66c19bd858a8" NAME="7" INDEX="7">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
@@ -4583,7 +4548,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.255" MAX="0.4">
-                            <BEAMS DASUID="fa9fa814-8dfa-4d91-af6d-20965d95308a" NAME="" NB="40">
+                            <BEAMS DASUID="daf9e6ae-19c9-4cd0-ac99-ea7de7fca45d" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -4685,7 +4650,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.15" MAX="0.505">
-                            <BEAMS DASUID="d922486a-7d8d-458a-89f3-1b77ff31ddca" NAME="" NB="40">
+                            <BEAMS DASUID="e8011512-526e-4eb9-8fd4-564d3250f38e" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -5419,7 +5384,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="5">
-            <SELECTED_LIVE_SCENES DASUID="39bdd5dc-0011-46b0-aa4f-f204f3f35934"/>
+            <SELECTED_LIVE_SCENES DASUID="ec368a42-a765-4ff4-89e5-2da2e5013059"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
