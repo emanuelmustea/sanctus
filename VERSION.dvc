@@ -736,7 +736,7 @@
                                                 <DASTLKEYPOINT DASTLPOSITION="4.00015" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
                                                 <DASTLKEYPOINT DASTLPOSITION="149" DASTLTRANSITION="0" DASTLDATA="1" DASTLTYPE="4"/>
                                                 <DASTLKEYPOINT DASTLPOSITION="151" DASTLTRANSITION="0" DASTLDATA="0.97619" DASTLTYPE="4"/>
-                                                <DASTLKEYPOINT DASTLPOSITION="159" DASTLTRANSITION="0" DASTLDATA="0.0238096" DASTLTYPE="4"/>
+                                                <DASTLKEYPOINT DASTLPOSITION="1199" DASTLTRANSITION="0" DASTLDATA="1" DASTLTYPE="4"/>
                                                 <DASTLKEYPOINT DASTLPOSITION="1301" DASTLTRANSITION="0" DASTLDATA="0" DASTLTYPE="4"/>
                                             </DASTLKEYPOINTS>
                                         </DASTLSUBLINE>
@@ -758,7 +758,7 @@
                         </TIMELINE>
                         <TIMELINE DASUID="a4a87a02-1cb4-4b78-ba3d-39608ed25617" NAME="13" INDEX="13">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="df744a53-b1c7-4ffd-ba01-57939eafaf84" NAME="JOS -&gt; SUS" START="183280" END="241680" POSITION="0" FADEIN="5800" FADEOUT="5440" SCENEUUID="c8192481-9746-48bd-b08e-4f7d7233f90b">
+                                <BLOCK TYPE="1" DASUID="92218c8b-ad49-446b-b5d2-493623f836e3" NAME="DEFAULTS SUS" START="183360" END="240920" POSITION="0" FADEIN="10840" FADEOUT="0" SCENEUUID="2cc849b8-b774-468f-93ad-7bd2b4068658">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                                 <BLOCK TYPE="1" DASUID="7ff1b58f-9b4e-4620-94b0-b8e6e3ff864f" NAME="Movement public - Pos Beam" START="312560" END="377680" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="c4698c8e-4a57-45c3-b544-002be695c7a0">
@@ -768,19 +768,26 @@
                         </TIMELINE>
                         <TIMELINE DASUID="aa3c911d-c3cb-403f-9d4b-1849880c21f9" NAME="14" INDEX="14">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="09282080-8493-43ee-917e-7da635cfea7d" NAME="(D) Scena - Pos beam" START="0" END="373800" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="33bac60b-9dea-43b4-a94a-695a1d46669c">
+                                <BLOCK TYPE="1" DASUID="9297267d-13de-4a16-a627-b29df6875b0f" NAME="DEFAULT JOS - SUS" START="175720" END="252400" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="65a8009e-c88e-4622-8e3c-370572a913ee">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="11fb043e-3449-426b-9744-8dae17de230b" NAME="15" INDEX="15">
                             <BLOCKS>
-                                <BLOCK TYPE="1" DASUID="d018101b-17f2-41c5-82b1-dc5f2a9480c3" NAME="(D) Scena Centru- Miscari W" START="0" END="477560" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="acebb675-f243-4b6c-b5d5-789f2b9eb518">
+                                <BLOCK TYPE="1" DASUID="09282080-8493-43ee-917e-7da635cfea7d" NAME="(D) Scena - Pos beam" START="0" END="475680" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="33bac60b-9dea-43b4-a94a-695a1d46669c">
                                     <DASTLSUBLINES DASTLNB="0"/>
                                 </BLOCK>
                             </BLOCKS>
                         </TIMELINE>
                         <TIMELINE DASUID="b764c394-d8d2-4860-b0f0-fcc265a396f7" NAME="16" INDEX="16">
+                            <BLOCKS>
+                                <BLOCK TYPE="1" DASUID="d018101b-17f2-41c5-82b1-dc5f2a9480c3" NAME="(D) Scena Centru- Miscari W" START="0" END="477560" POSITION="0" FADEIN="0" FADEOUT="0" SCENEUUID="acebb675-f243-4b6c-b5d5-789f2b9eb518">
+                                    <DASTLSUBLINES DASTLNB="0"/>
+                                </BLOCK>
+                            </BLOCKS>
+                        </TIMELINE>
+                        <TIMELINE DASUID="1380b111-682b-4d3c-bf5e-a0132c6171c9" NAME="17" INDEX="17">
                             <BLOCKS/>
                         </TIMELINE>
                     </TIMELINES>
@@ -4732,7 +4739,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.255" MAX="0.4">
-                            <BEAMS DASUID="b810f63c-31f4-49cd-8305-4e5d43af1d1a" NAME="" NB="40">
+                            <BEAMS DASUID="56ae533f-1975-401f-b957-9e8ea0c79960" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -4834,7 +4841,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.15" MAX="0.505">
-                            <BEAMS DASUID="4c114c0f-e7e3-476a-8d59-92c6303b48d9" NAME="" NB="40">
+                            <BEAMS DASUID="ea6e59de-86c8-496b-8e0a-217a311f913a" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -5592,7 +5599,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="5">
-            <SELECTED_LIVE_SCENES DASUID="776590c1-4b18-4794-9b42-621a811bf552"/>
+            <SELECTED_LIVE_SCENES DASUID="bca2af8e-7763-4696-970e-55fa8fd3e585"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
