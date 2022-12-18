@@ -4795,7 +4795,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.255" MAX="0.4">
-                            <BEAMS DASUID="35db5428-3af2-49d9-83ba-321a6d638fa1" NAME="" NB="40">
+                            <BEAMS DASUID="95a4c427-227a-4178-9e5f-23562dadf685" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -4897,7 +4897,7 @@
                     </EFFECT>
                     <PRESETS>
                         <PRESET SSLFIXTURE="" SSLCHANNEL="-1" SSLPRESET="64" MIN="0.15" MAX="0.505">
-                            <BEAMS DASUID="ff2eafd3-3740-4028-8627-76215c1771b7" NAME="" NB="40">
+                            <BEAMS DASUID="2ed7fe21-bf21-4ffe-8641-1976d3559b90" NAME="" NB="40">
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="0" IDSELECTION="1"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="1" IDSELECTION="2"/>
                                 <BEAM FIXTURE="8013e418-d132-4065-ae91-2723879e9b87" BEAMID="2" IDSELECTION="3"/>
@@ -5655,7 +5655,7 @@
             </SCENE>
         </BANK>
         <DAS_SELECTIONS SELECTED_LIVE_BANK="5">
-            <SELECTED_LIVE_SCENES DASUID="e3b02718-9c21-41c8-b0e6-9c0471889e04"/>
+            <SELECTED_LIVE_SCENES DASUID="39bdd5dc-0011-46b0-aa4f-f204f3f35934"/>
         </DAS_SELECTIONS>
     </SCENES>
     <SHORTCUTS>
